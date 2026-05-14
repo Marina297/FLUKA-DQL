@@ -1,0 +1,297 @@
+2026-05-02 11:37:26,216 - INFO - Generated: bo2_eval1.inp | T=2.5, W=6.0x15.0, NPS=200000, BEAMPOS=-15.0
+2026-05-02 11:38:28,396 - INFO - FLUKA OK: bo2_eval1.inp (62.2s)
+2026-05-02 11:38:28,531 - INFO - Eval 1: Reward=19.3488  State=[np.float64(2.5), np.float64(6.0), np.float64(15.0), 200000.0, np.float64(-15.0)]
+2026-05-02 11:38:28,531 - INFO - New Best: 19.3488 at eval 1
+2026-05-02 11:38:28,533 - INFO - Generated: bo2_eval2.inp | T=5.5, W=13.0x10.0, NPS=300000, BEAMPOS=-25.0
+2026-05-02 11:41:17,981 - INFO - FLUKA OK: bo2_eval2.inp (169.4s)
+2026-05-02 11:41:17,991 - INFO - Eval 2: Reward=24.4174  State=[np.float64(5.5), np.float64(13.0), np.float64(10.0), 300000.0, np.float64(-25.0)]
+2026-05-02 11:41:17,991 - INFO - New Best: 24.4174 at eval 2
+2026-05-02 11:41:17,992 - INFO - Generated: bo2_eval3.inp | T=9.5, W=8.0x18.0, NPS=200000, BEAMPOS=-20.0
+2026-05-02 11:44:48,187 - INFO - FLUKA OK: bo2_eval3.inp (210.2s)
+2026-05-02 11:44:48,694 - INFO - Eval 3: Reward=35.0457  State=[np.float64(9.5), np.float64(8.0), np.float64(18.0), 200000.0, np.float64(-20.0)]
+2026-05-02 11:44:48,695 - INFO - New Best: 35.0457 at eval 3
+2026-05-02 11:44:48,695 - INFO - Generated: bo2_eval4.inp | T=3.0, W=6.0x8.0, NPS=300000, BEAMPOS=-10.0
+2026-05-02 11:46:22,997 - INFO - FLUKA OK: bo2_eval4.inp (94.3s)
+2026-05-02 11:46:23,031 - INFO - Eval 4: Reward=14.5847  State=[np.float64(3.0), np.float64(6.0), np.float64(8.0), 300000.0, np.float64(-10.0)]
+2026-05-02 11:46:23,031 - INFO - Generated: bo2_eval5.inp | T=5.0, W=14.0x19.0, NPS=300000, BEAMPOS=-45.0
+2026-05-02 11:48:54,147 - INFO - FLUKA OK: bo2_eval5.inp (151.1s)
+2026-05-02 11:48:54,156 - INFO - Eval 5: Reward=21.1662  State=[np.float64(5.0), np.float64(14.0), np.float64(19.0), 300000.0, np.float64(-45.0)]
+2026-05-02 11:48:54,157 - INFO - Generated: bo2_eval6.inp | T=3.5, W=17.0x7.0, NPS=700000, BEAMPOS=-30.0
+2026-05-02 11:52:49,319 - INFO - FLUKA OK: bo2_eval6.inp (235.1s)
+2026-05-02 11:52:50,364 - INFO - Eval 6: Reward=28.5411  State=[np.float64(3.5), np.float64(17.0), np.float64(7.0), 700000.0, np.float64(-30.0)]
+2026-05-02 11:52:50,365 - INFO - Generated: bo2_eval7.inp | T=3.5, W=10.0x18.0, NPS=900000, BEAMPOS=-35.0
+2026-05-02 11:57:57,599 - INFO - FLUKA OK: bo2_eval7.inp (307.2s)
+2026-05-02 11:57:57,609 - INFO - Eval 7: Reward=20.8546  State=[np.float64(3.5), np.float64(10.0), np.float64(18.0), 900000.0, np.float64(-35.0)]
+2026-05-02 11:57:57,622 - INFO - Generated: bo2_eval8.inp | T=6.0, W=13.0x11.0, NPS=200000, BEAMPOS=-15.0
+2026-05-02 12:00:10,924 - INFO - FLUKA OK: bo2_eval8.inp (133.3s)
+2026-05-02 12:00:10,938 - INFO - Eval 8: Reward=28.7745  State=[np.float64(6.0), np.float64(13.0), np.float64(11.0), 200000.0, np.float64(-15.0)]
+2026-05-02 12:00:10,939 - INFO - Generated: bo2_eval9.inp | T=7.0, W=7.0x11.0, NPS=200000, BEAMPOS=-45.0
+2026-05-02 12:02:43,481 - INFO - FLUKA OK: bo2_eval9.inp (152.5s)
+2026-05-02 12:02:43,492 - INFO - Eval 9: Reward=20.9845  State=[np.float64(7.0), np.float64(7.0), np.float64(11.0), 200000.0, np.float64(-45.0)]
+2026-05-02 12:02:43,493 - INFO - Generated: bo2_eval10.inp | T=9.0, W=12.0x15.0, NPS=900000, BEAMPOS=-15.0
+2026-05-02 12:12:44,561 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'bo2_eval10.inp']' timed out after 600 seconds
+2026-05-02 12:14:29,735 - INFO - Generated: bo2_eval11.inp | T=10.0, W=20.0x5.0, NPS=100000, BEAMPOS=-10.0
+2026-05-02 12:17:06,062 - INFO - FLUKA OK: bo2_eval11.inp (156.3s)
+2026-05-02 12:17:11,671 - INFO - Eval 11: Reward=30.0469  State=[np.float64(10.0), np.float64(20.0), np.float64(5.0), 100000.0, np.float64(-10.0)]
+2026-05-02 12:24:53,092 - INFO - Generated: bo2_eval12.inp | T=2.0, W=20.0x5.0, NPS=800000, BEAMPOS=-10.0
+2026-05-02 12:28:15,885 - INFO - FLUKA OK: bo2_eval12.inp (202.8s)
+2026-05-02 12:28:16,363 - INFO - Eval 12: Reward=18.1118  State=[np.float64(2.0), np.float64(20.0), np.float64(5.0), 800000.0, np.float64(-10.0)]
+2026-05-02 12:28:17,935 - INFO - Generated: bo2_eval13.inp | T=10.0, W=20.0x20.0, NPS=300000, BEAMPOS=-10.0
+2026-05-02 12:33:59,711 - INFO - FLUKA OK: bo2_eval13.inp (341.8s)
+2026-05-02 12:34:01,146 - INFO - Eval 13: Reward=37.1920  State=[np.float64(10.0), np.float64(20.0), np.float64(20.0), 300000.0, np.float64(-10.0)]
+2026-05-02 12:34:01,146 - INFO - New Best: 37.1920 at eval 13
+2026-05-02 12:34:02,813 - INFO - Generated: bo2_eval14.inp | T=4.0, W=20.0x5.0, NPS=100000, BEAMPOS=-10.0
+2026-05-02 12:34:52,760 - INFO - FLUKA OK: bo2_eval14.inp (49.9s)
+2026-05-02 12:34:52,774 - INFO - Eval 14: Reward=21.8344  State=[np.float64(4.0), np.float64(20.0), np.float64(5.0), 100000.0, np.float64(-10.0)]
+2026-05-02 12:34:54,038 - INFO - Generated: bo2_eval15.inp | T=2.0, W=20.0x20.0, NPS=800000, BEAMPOS=-50.0
+2026-05-02 12:37:38,847 - INFO - FLUKA OK: bo2_eval15.inp (164.8s)
+2026-05-02 12:37:38,886 - INFO - Eval 15: Reward=23.2220  State=[np.float64(2.0), np.float64(20.0), np.float64(20.0), 800000.0, np.float64(-50.0)]
+2026-05-02 12:37:40,398 - INFO - Generated: bo2_eval16.inp | T=10.0, W=5.0x5.0, NPS=200000, BEAMPOS=-50.0
+2026-05-02 12:41:09,100 - INFO - FLUKA OK: bo2_eval16.inp (208.7s)
+2026-05-02 12:41:09,122 - INFO - Eval 16: Reward=26.9480  State=[np.float64(10.0), np.float64(5.0), np.float64(5.0), 200000.0, np.float64(-50.0)]
+2026-05-02 12:41:12,097 - INFO - Generated: bo2_eval17.inp | T=9.0, W=20.0x20.0, NPS=300000, BEAMPOS=-10.0
+2026-05-02 12:46:17,755 - INFO - FLUKA OK: bo2_eval17.inp (305.7s)
+2026-05-02 12:46:17,768 - INFO - Eval 17: Reward=30.6369  State=[np.float64(9.0), np.float64(20.0), np.float64(20.0), 300000.0, np.float64(-10.0)]
+2026-05-02 12:46:18,952 - INFO - Generated: bo2_eval18.inp | T=10.0, W=5.0x20.0, NPS=200000, BEAMPOS=-10.0
+2026-05-02 12:49:58,801 - INFO - FLUKA OK: bo2_eval18.inp (219.8s)
+2026-05-02 12:49:59,560 - INFO - Eval 18: Reward=26.0183  State=[np.float64(10.0), np.float64(5.0), np.float64(20.0), 200000.0, np.float64(-10.0)]
+2026-05-02 12:50:03,585 - INFO - Generated: bo2_eval19.inp | T=8.0, W=20.0x20.0, NPS=100000, BEAMPOS=-10.0
+2026-05-02 12:51:39,829 - INFO - FLUKA OK: bo2_eval19.inp (96.2s)
+2026-05-02 12:51:39,920 - INFO - Eval 19: Reward=30.7182  State=[np.float64(8.0), np.float64(20.0), np.float64(20.0), 100000.0, np.float64(-10.0)]
+2026-05-02 12:51:42,354 - INFO - Generated: bo2_eval20.inp | T=10.0, W=20.0x20.0, NPS=200000, BEAMPOS=-50.0
+2026-05-02 12:55:46,746 - INFO - FLUKA OK: bo2_eval20.inp (244.3s)
+2026-05-02 12:55:46,797 - INFO - Eval 20: Reward=1.0143  State=[np.float64(10.0), np.float64(20.0), np.float64(20.0), 200000.0, np.float64(-50.0)]
+2026-05-02 12:57:53,844 - INFO - Generated: bo2_eval21.inp | T=2.0, W=5.0x5.0, NPS=600000, BEAMPOS=-40.0
+2026-05-02 13:00:00,421 - INFO - FLUKA OK: bo2_eval21.inp (126.6s)
+2026-05-02 13:00:00,441 - INFO - Eval 21: Reward=10.5538  State=[np.float64(2.0), np.float64(5.0), np.float64(5.0), 600000.0, np.float64(-40.0)]
+2026-05-02 13:00:01,527 - INFO - Generated: bo2_eval22.inp | T=9.5, W=9.0x14.0, NPS=500000, BEAMPOS=-20.0
+2026-05-02 13:08:35,871 - INFO - FLUKA OK: bo2_eval22.inp (514.3s)
+2026-05-02 13:08:35,885 - INFO - Eval 22: Reward=34.2061  State=[np.float64(9.5), np.float64(9.0), np.float64(14.0), 500000.0, np.float64(-20.0)]
+2026-05-02 13:08:36,757 - INFO - Generated: bo2_eval23.inp | T=4.0, W=8.0x16.0, NPS=700000, BEAMPOS=-25.0
+2026-05-02 13:13:06,946 - INFO - FLUKA OK: bo2_eval23.inp (270.2s)
+2026-05-02 13:13:06,959 - INFO - Eval 23: Reward=25.4072  State=[np.float64(4.0), np.float64(8.0), np.float64(16.0), 700000.0, np.float64(-25.0)]
+2026-05-02 13:13:08,221 - INFO - Generated: bo2_eval24.inp | T=10.0, W=9.0x20.0, NPS=600000, BEAMPOS=-15.0
+2026-05-02 13:23:08,323 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'bo2_eval24.inp']' timed out after 600 seconds
+2026-05-02 13:23:09,801 - INFO - Generated: bo2_eval25.inp | T=5.0, W=9.0x20.0, NPS=400000, BEAMPOS=-20.0
+2026-05-02 13:26:27,351 - INFO - FLUKA OK: bo2_eval25.inp (197.5s)
+2026-05-02 13:26:27,361 - INFO - Eval 25: Reward=24.1169  State=[np.float64(5.0), np.float64(9.0), np.float64(20.0), 400000.0, np.float64(-20.0)]
+2026-05-02 13:26:28,465 - INFO - Generated: bo2_eval26.inp | T=4.0, W=17.0x14.0, NPS=200000, BEAMPOS=-15.0
+2026-05-02 13:27:51,844 - INFO - FLUKA OK: bo2_eval26.inp (83.4s)
+2026-05-02 13:27:51,857 - INFO - Eval 26: Reward=29.8585  State=[np.float64(4.0), np.float64(17.0), np.float64(14.0), 200000.0, np.float64(-15.0)]
+2026-05-02 13:27:52,644 - INFO - Generated: bo2_eval27.inp | T=10.0, W=8.0x18.0, NPS=400000, BEAMPOS=-20.0
+2026-05-02 13:34:40,689 - INFO - FLUKA OK: bo2_eval27.inp (408.0s)
+2026-05-02 13:34:40,700 - INFO - Eval 27: Reward=34.9797  State=[np.float64(10.0), np.float64(8.0), np.float64(18.0), 400000.0, np.float64(-20.0)]
+2026-05-02 13:34:41,517 - INFO - Generated: bo2_eval28.inp | T=10.0, W=20.0x20.0, NPS=300000, BEAMPOS=-10.0
+2026-05-02 13:40:09,222 - INFO - FLUKA OK: bo2_eval28.inp (327.7s)
+2026-05-02 13:40:09,232 - INFO - Eval 28: Reward=37.1920  State=[np.float64(10.0), np.float64(20.0), np.float64(20.0), 300000.0, np.float64(-10.0)]
+2026-05-02 13:40:10,415 - INFO - Generated: bo2_eval29.inp | T=10.0, W=20.0x20.0, NPS=300000, BEAMPOS=-15.0
+2026-05-02 13:45:41,792 - INFO - FLUKA OK: bo2_eval29.inp (331.4s)
+2026-05-02 13:45:41,803 - INFO - Eval 29: Reward=37.1920  State=[np.float64(10.0), np.float64(20.0), np.float64(20.0), 300000.0, np.float64(-15.0)]
+2026-05-02 13:45:43,311 - INFO - Generated: bo2_eval30.inp | T=9.5, W=8.0x18.0, NPS=300000, BEAMPOS=-20.0
+2026-05-02 13:50:37,610 - INFO - FLUKA OK: bo2_eval30.inp (294.3s)
+2026-05-02 13:50:37,717 - INFO - Eval 30: Reward=36.7325  State=[np.float64(9.5), np.float64(8.0), np.float64(18.0), 300000.0, np.float64(-20.0)]
+2026-05-02 13:50:39,252 - INFO - Generated: bo2_eval31.inp | T=10.0, W=20.0x20.0, NPS=100000, BEAMPOS=-25.0
+2026-05-02 13:52:39,453 - INFO - FLUKA OK: bo2_eval31.inp (120.2s)
+2026-05-02 13:52:39,464 - INFO - Eval 31: Reward=31.2541  State=[np.float64(10.0), np.float64(20.0), np.float64(20.0), 100000.0, np.float64(-25.0)]
+2026-05-02 13:52:40,397 - INFO - Generated: bo2_eval32.inp | T=9.0, W=5.0x20.0, NPS=200000, BEAMPOS=-15.0
+2026-05-02 13:55:43,298 - INFO - FLUKA OK: bo2_eval32.inp (182.9s)
+2026-05-02 13:55:43,309 - INFO - Eval 32: Reward=24.5798  State=[np.float64(9.0), np.float64(5.0), np.float64(20.0), 200000.0, np.float64(-15.0)]
+2026-05-02 13:55:45,779 - INFO - Generated: bo2_eval33.inp | T=2.0, W=5.0x7.0, NPS=200000, BEAMPOS=-30.0
+2026-05-02 13:56:36,618 - INFO - FLUKA OK: bo2_eval33.inp (50.8s)
+2026-05-02 13:56:36,629 - INFO - Eval 33: Reward=16.7824  State=[np.float64(2.0), np.float64(5.0), np.float64(7.0), 200000.0, np.float64(-30.0)]
+2026-05-02 13:56:40,166 - INFO - Generated: bo2_eval34.inp | T=10.0, W=20.0x5.0, NPS=800000, BEAMPOS=-35.0
+2026-05-02 14:06:40,267 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'bo2_eval34.inp']' timed out after 600 seconds
+2026-05-02 14:06:43,327 - INFO - Generated: bo2_eval35.inp | T=8.5, W=5.0x5.0, NPS=400000, BEAMPOS=-40.0
+2026-05-02 14:12:09,652 - INFO - FLUKA OK: bo2_eval35.inp (326.3s)
+2026-05-02 14:12:09,664 - INFO - Eval 35: Reward=31.8755  State=[np.float64(8.5), np.float64(5.0), np.float64(5.0), 400000.0, np.float64(-40.0)]
+2026-05-02 14:12:11,218 - INFO - Generated: bo2_eval36.inp | T=9.0, W=20.0x5.0, NPS=400000, BEAMPOS=-20.0
+2026-05-02 14:18:08,450 - INFO - FLUKA OK: bo2_eval36.inp (357.2s)
+2026-05-02 14:18:08,466 - INFO - Eval 36: Reward=30.5131  State=[np.float64(9.0), np.float64(20.0), np.float64(5.0), 400000.0, np.float64(-20.0)]
+2026-05-02 14:18:11,599 - INFO - Generated: bo2_eval37.inp | T=2.0, W=5.0x5.0, NPS=1000000, BEAMPOS=-50.0
+2026-05-02 14:18:12,149 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'bo2_eval37.inp']' returned non-zero exit status 12.
+2026-05-02 14:18:14,772 - INFO - Generated: bo2_eval38.inp | T=3.0, W=6.0x18.0, NPS=800000, BEAMPOS=-35.0
+2026-05-02 14:22:00,011 - INFO - FLUKA OK: bo2_eval38.inp (225.2s)
+2026-05-02 14:22:00,022 - INFO - Eval 38: Reward=24.4420  State=[np.float64(3.0), np.float64(6.0), np.float64(18.0), 800000.0, np.float64(-35.0)]
+2026-05-02 14:22:01,473 - INFO - Generated: bo2_eval39.inp | T=8.5, W=5.0x5.0, NPS=400000, BEAMPOS=-15.0
+2026-05-02 14:27:25,052 - INFO - FLUKA OK: bo2_eval39.inp (323.6s)
+2026-05-02 14:27:25,063 - INFO - Eval 39: Reward=31.8755  State=[np.float64(8.5), np.float64(5.0), np.float64(5.0), 400000.0, np.float64(-15.0)]
+2026-05-02 14:27:27,392 - INFO - Generated: bo2_eval40.inp | T=10.0, W=20.0x13.0, NPS=300000, BEAMPOS=-15.0
+2026-05-02 14:32:56,082 - INFO - FLUKA OK: bo2_eval40.inp (328.7s)
+2026-05-02 14:32:56,146 - INFO - Eval 40: Reward=-0.1278  State=[np.float64(10.0), np.float64(20.0), np.float64(13.0), 300000.0, np.float64(-15.0)]
+2026-05-02 14:32:57,678 - INFO - Generated: bo2_eval41.inp | T=10.0, W=5.0x5.0, NPS=300000, BEAMPOS=-10.0
+2026-05-02 14:37:46,183 - INFO - FLUKA OK: bo2_eval41.inp (288.5s)
+2026-05-02 14:37:46,194 - INFO - Eval 41: Reward=33.2074  State=[np.float64(10.0), np.float64(5.0), np.float64(5.0), 300000.0, np.float64(-10.0)]
+2026-05-02 14:37:49,010 - INFO - Generated: bo2_eval42.inp | T=2.0, W=5.0x19.0, NPS=500000, BEAMPOS=-50.0
+2026-05-02 14:39:41,831 - INFO - FLUKA OK: bo2_eval42.inp (112.8s)
+2026-05-02 14:39:41,845 - INFO - Eval 42: Reward=18.0503  State=[np.float64(2.0), np.float64(5.0), np.float64(19.0), 500000.0, np.float64(-50.0)]
+2026-05-02 14:39:43,565 - INFO - Generated: bo2_eval43.inp | T=10.0, W=20.0x8.0, NPS=200000, BEAMPOS=-15.0
+2026-05-02 14:43:24,042 - INFO - FLUKA OK: bo2_eval43.inp (220.5s)
+2026-05-02 14:43:24,054 - INFO - Eval 43: Reward=24.5572  State=[np.float64(10.0), np.float64(20.0), np.float64(8.0), 200000.0, np.float64(-15.0)]
+2026-05-02 14:43:27,280 - INFO - Generated: bo2_eval44.inp | T=4.0, W=20.0x5.0, NPS=600000, BEAMPOS=-15.0
+2026-05-02 14:47:31,528 - INFO - FLUKA OK: bo2_eval44.inp (244.2s)
+2026-05-02 14:47:31,540 - INFO - Eval 44: Reward=24.6902  State=[np.float64(4.0), np.float64(20.0), np.float64(5.0), 600000.0, np.float64(-15.0)]
+2026-05-02 14:47:35,802 - INFO - Generated: bo2_eval45.inp | T=6.5, W=20.0x5.0, NPS=300000, BEAMPOS=-20.0
+2026-05-02 14:50:56,745 - INFO - FLUKA OK: bo2_eval45.inp (200.9s)
+2026-05-02 14:50:56,756 - INFO - Eval 45: Reward=31.7825  State=[np.float64(6.5), np.float64(20.0), np.float64(5.0), 300000.0, np.float64(-20.0)]
+2026-05-02 14:51:00,859 - INFO - Generated: bo2_eval46.inp | T=10.0, W=5.0x14.0, NPS=700000, BEAMPOS=-40.0
+2026-05-02 15:01:02,501 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'bo2_eval46.inp']' timed out after 600 seconds
+2026-05-02 15:01:32,473 - INFO - Generated: bo2_eval47.inp | T=2.0, W=20.0x12.0, NPS=700000, BEAMPOS=-10.0
+2026-05-02 15:05:18,858 - INFO - FLUKA OK: bo2_eval47.inp (226.3s)
+2026-05-02 15:05:21,434 - INFO - Eval 47: Reward=22.3546  State=[np.float64(2.0), np.float64(20.0), np.float64(12.0), 700000.0, np.float64(-10.0)]
+2026-05-02 15:05:29,768 - INFO - Generated: bo2_eval48.inp | T=8.0, W=5.0x20.0, NPS=400000, BEAMPOS=-10.0
+2026-05-02 15:13:38,450 - INFO - FLUKA OK: bo2_eval48.inp (488.4s)
+2026-05-02 15:13:39,557 - INFO - Eval 48: Reward=27.8363  State=[np.float64(8.0), np.float64(5.0), np.float64(20.0), 400000.0, np.float64(-10.0)]
+2026-05-02 15:19:44,574 - INFO - Generated: bo2_eval49.inp | T=2.0, W=5.0x20.0, NPS=100000, BEAMPOS=-50.0
+2026-05-02 15:20:31,620 - INFO - FLUKA OK: bo2_eval49.inp (47.0s)
+2026-05-02 15:20:34,089 - INFO - Eval 49: Reward=16.7724  State=[np.float64(2.0), np.float64(5.0), np.float64(20.0), 100000.0, np.float64(-50.0)]
+2026-05-02 15:20:52,900 - INFO - Generated: bo2_eval50.inp | T=8.0, W=5.0x5.0, NPS=400000, BEAMPOS=-10.0
+2026-05-02 15:27:41,356 - INFO - FLUKA OK: bo2_eval50.inp (408.3s)
+2026-05-02 15:27:43,374 - INFO - Eval 50: Reward=-0.2208  State=[np.float64(8.0), np.float64(5.0), np.float64(5.0), 400000.0, np.float64(-10.0)]
+2026-05-02 15:27:49,445 - INFO - Generated: bo2_eval51.inp | T=7.0, W=5.0x20.0, NPS=100000, BEAMPOS=-10.0
+2026-05-02 15:30:47,761 - INFO - FLUKA OK: bo2_eval51.inp (178.3s)
+2026-05-02 15:30:48,050 - INFO - Eval 51: Reward=21.5263  State=[np.float64(7.0), np.float64(5.0), np.float64(20.0), 100000.0, np.float64(-10.0)]
+2026-05-02 15:30:54,678 - INFO - Generated: bo2_eval52.inp | T=10.0, W=6.0x20.0, NPS=400000, BEAMPOS=-35.0
+2026-05-02 15:41:42,114 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'bo2_eval52.inp']' timed out after 600 seconds
+2026-05-02 15:42:57,272 - INFO - Generated: bo2_eval53.inp | T=6.5, W=5.0x5.0, NPS=100000, BEAMPOS=-40.0
+2026-05-02 15:45:08,179 - INFO - FLUKA OK: bo2_eval53.inp (130.6s)
+2026-05-02 15:45:09,250 - INFO - Eval 53: Reward=25.8126  State=[np.float64(6.5), np.float64(5.0), np.float64(5.0), 100000.0, np.float64(-40.0)]
+2026-05-02 15:45:15,695 - INFO - Generated: bo2_eval54.inp | T=7.5, W=5.0x15.0, NPS=100000, BEAMPOS=-25.0
+2026-05-02 15:47:42,541 - INFO - FLUKA OK: bo2_eval54.inp (146.8s)
+2026-05-02 15:47:42,851 - INFO - Eval 54: Reward=29.5542  State=[np.float64(7.5), np.float64(5.0), np.float64(15.0), 100000.0, np.float64(-25.0)]
+2026-05-02 15:47:47,085 - INFO - Generated: bo2_eval55.inp | T=10.0, W=20.0x5.0, NPS=100000, BEAMPOS=-20.0
+2026-05-02 15:49:59,534 - INFO - FLUKA OK: bo2_eval55.inp (132.4s)
+2026-05-02 15:49:59,850 - INFO - Eval 55: Reward=30.0469  State=[np.float64(10.0), np.float64(20.0), np.float64(5.0), 100000.0, np.float64(-20.0)]
+2026-05-02 15:50:04,483 - INFO - Generated: bo2_eval56.inp | T=2.0, W=18.0x5.0, NPS=1000000, BEAMPOS=-35.0
+2026-05-02 15:50:05,323 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'bo2_eval56.inp']' returned non-zero exit status 12.
+2026-05-02 15:50:09,178 - INFO - Generated: bo2_eval57.inp | T=3.0, W=20.0x15.0, NPS=800000, BEAMPOS=-30.0
+2026-05-02 15:54:26,077 - INFO - FLUKA OK: bo2_eval57.inp (256.9s)
+2026-05-02 15:54:26,130 - INFO - Eval 57: Reward=23.2946  State=[np.float64(3.0), np.float64(20.0), np.float64(15.0), 800000.0, np.float64(-30.0)]
+2026-05-02 15:54:31,019 - INFO - Generated: bo2_eval58.inp | T=2.0, W=20.0x20.0, NPS=700000, BEAMPOS=-10.0
+2026-05-02 15:57:36,659 - INFO - FLUKA OK: bo2_eval58.inp (185.6s)
+2026-05-02 15:57:38,110 - INFO - Eval 58: Reward=20.6676  State=[np.float64(2.0), np.float64(20.0), np.float64(20.0), 700000.0, np.float64(-10.0)]
+2026-05-02 16:04:01,819 - INFO - Generated: bo2_eval59.inp | T=3.5, W=9.0x5.0, NPS=200000, BEAMPOS=-20.0
+2026-05-02 16:05:19,693 - INFO - FLUKA OK: bo2_eval59.inp (77.9s)
+2026-05-02 16:05:19,963 - INFO - Eval 59: Reward=21.5902  State=[np.float64(3.5), np.float64(9.0), np.float64(5.0), 200000.0, np.float64(-20.0)]
+2026-05-02 16:05:22,208 - INFO - Generated: bo2_eval60.inp | T=2.5, W=20.0x5.0, NPS=100000, BEAMPOS=-25.0
+2026-05-02 16:05:58,701 - INFO - FLUKA OK: bo2_eval60.inp (36.5s)
+2026-05-02 16:05:59,156 - INFO - Eval 60: Reward=-5.4377  State=[np.float64(2.5), np.float64(20.0), np.float64(5.0), 100000.0, np.float64(-25.0)]
+2026-05-02 16:06:02,017 - INFO - Generated: bo2_eval61.inp | T=5.0, W=20.0x5.0, NPS=600000, BEAMPOS=-10.0
+2026-05-02 16:12:08,963 - INFO - FLUKA OK: bo2_eval61.inp (366.9s)
+2026-05-02 16:12:09,959 - INFO - Eval 61: Reward=25.4259  State=[np.float64(5.0), np.float64(20.0), np.float64(5.0), 600000.0, np.float64(-10.0)]
+2026-05-02 16:12:17,086 - INFO - Generated: bo2_eval62.inp | T=10.0, W=20.0x14.0, NPS=1000000, BEAMPOS=-10.0
+2026-05-02 16:12:17,933 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'bo2_eval62.inp']' returned non-zero exit status 12.
+2026-05-02 16:12:21,438 - INFO - Generated: bo2_eval63.inp | T=10.0, W=20.0x16.0, NPS=100000, BEAMPOS=-10.0
+2026-05-02 16:15:05,946 - INFO - FLUKA OK: bo2_eval63.inp (164.5s)
+2026-05-02 16:15:06,452 - INFO - Eval 63: Reward=28.0989  State=[np.float64(10.0), np.float64(20.0), np.float64(16.0), 100000.0, np.float64(-10.0)]
+2026-05-02 16:15:10,829 - INFO - Generated: bo2_eval64.inp | T=6.0, W=20.0x20.0, NPS=300000, BEAMPOS=-10.0
+2026-05-02 16:19:16,828 - INFO - FLUKA OK: bo2_eval64.inp (246.0s)
+2026-05-02 16:19:17,017 - INFO - Eval 64: Reward=28.9850  State=[np.float64(6.0), np.float64(20.0), np.float64(20.0), 300000.0, np.float64(-10.0)]
+2026-05-02 16:19:21,093 - INFO - Generated: bo2_eval65.inp | T=10.0, W=20.0x5.0, NPS=100000, BEAMPOS=-50.0
+2026-05-02 16:21:57,989 - INFO - FLUKA OK: bo2_eval65.inp (156.9s)
+2026-05-02 16:21:58,048 - INFO - Eval 65: Reward=30.0469  State=[np.float64(10.0), np.float64(20.0), np.float64(5.0), 100000.0, np.float64(-50.0)]
+2026-05-02 16:22:01,519 - INFO - Generated: bo2_eval66.inp | T=5.5, W=20.0x5.0, NPS=400000, BEAMPOS=-50.0
+2026-05-02 16:26:58,687 - INFO - FLUKA OK: bo2_eval66.inp (297.2s)
+2026-05-02 16:26:58,759 - INFO - Eval 66: Reward=25.1063  State=[np.float64(5.5), np.float64(20.0), np.float64(5.0), 400000.0, np.float64(-50.0)]
+2026-05-02 16:27:03,844 - INFO - Generated: bo2_eval67.inp | T=2.0, W=20.0x20.0, NPS=500000, BEAMPOS=-10.0
+2026-05-02 16:29:35,573 - INFO - FLUKA OK: bo2_eval67.inp (151.7s)
+2026-05-02 16:29:35,645 - INFO - Eval 67: Reward=18.0912  State=[np.float64(2.0), np.float64(20.0), np.float64(20.0), 500000.0, np.float64(-10.0)]
+2026-05-02 16:30:15,922 - INFO - Generated: bo2_eval68.inp | T=8.0, W=20.0x5.0, NPS=200000, BEAMPOS=-10.0
+2026-05-02 16:33:56,735 - INFO - FLUKA OK: bo2_eval68.inp (220.8s)
+2026-05-02 16:33:56,758 - INFO - Eval 68: Reward=25.8741  State=[np.float64(8.0), np.float64(20.0), np.float64(5.0), 200000.0, np.float64(-10.0)]
+2026-05-02 16:34:00,882 - INFO - Generated: bo2_eval69.inp | T=2.0, W=15.0x20.0, NPS=900000, BEAMPOS=-10.0
+2026-05-02 16:38:51,283 - INFO - FLUKA OK: bo2_eval69.inp (290.4s)
+2026-05-02 16:38:52,711 - INFO - Eval 69: Reward=13.8062  State=[np.float64(2.0), np.float64(15.0), np.float64(20.0), 900000.0, np.float64(-10.0)]
+2026-05-02 16:38:59,611 - INFO - Generated: bo2_eval70.inp | T=8.5, W=20.0x20.0, NPS=100000, BEAMPOS=-10.0
+2026-05-02 16:41:30,172 - INFO - FLUKA OK: bo2_eval70.inp (150.6s)
+2026-05-02 16:41:31,187 - INFO - Eval 70: Reward=-3.8838  State=[np.float64(8.5), np.float64(20.0), np.float64(20.0), 100000.0, np.float64(-10.0)]
+2026-05-02 16:41:35,951 - INFO - Generated: bo2_eval71.inp | T=4.5, W=6.0x20.0, NPS=700000, BEAMPOS=-10.0
+2026-05-02 16:48:22,146 - INFO - FLUKA OK: bo2_eval71.inp (406.2s)
+2026-05-02 16:48:23,175 - INFO - Eval 71: Reward=24.7706  State=[np.float64(4.5), np.float64(6.0), np.float64(20.0), 700000.0, np.float64(-10.0)]
+2026-05-02 16:48:28,210 - INFO - Generated: bo2_eval72.inp | T=5.5, W=20.0x20.0, NPS=500000, BEAMPOS=-10.0
+2026-05-02 16:54:48,452 - INFO - FLUKA OK: bo2_eval72.inp (380.1s)
+2026-05-02 16:54:48,833 - INFO - Eval 72: Reward=30.2793  State=[np.float64(5.5), np.float64(20.0), np.float64(20.0), 500000.0, np.float64(-10.0)]
+2026-05-02 16:54:53,555 - INFO - Generated: bo2_eval73.inp | T=7.5, W=20.0x5.0, NPS=300000, BEAMPOS=-10.0
+2026-05-02 17:02:53,022 - INFO - FLUKA OK: bo2_eval73.inp (479.5s)
+2026-05-02 17:02:53,238 - INFO - Eval 73: Reward=25.6543  State=[np.float64(7.5), np.float64(20.0), np.float64(5.0), 300000.0, np.float64(-10.0)]
+2026-05-02 17:02:58,027 - INFO - Generated: bo2_eval74.inp | T=5.0, W=5.0x20.0, NPS=500000, BEAMPOS=-10.0
+2026-05-02 17:07:42,847 - INFO - FLUKA OK: bo2_eval74.inp (284.8s)
+2026-05-02 17:07:43,901 - INFO - Eval 74: Reward=24.0909  State=[np.float64(5.0), np.float64(5.0), np.float64(20.0), 500000.0, np.float64(-10.0)]
+2026-05-02 17:07:48,847 - INFO - Generated: bo2_eval75.inp | T=4.5, W=20.0x5.0, NPS=700000, BEAMPOS=-50.0
+2026-05-02 17:12:56,712 - INFO - FLUKA OK: bo2_eval75.inp (307.9s)
+2026-05-02 17:12:56,873 - INFO - Eval 75: Reward=22.1864  State=[np.float64(4.5), np.float64(20.0), np.float64(5.0), 700000.0, np.float64(-50.0)]
+2026-05-02 17:13:00,772 - INFO - Generated: bo2_eval76.inp | T=6.5, W=20.0x5.0, NPS=400000, BEAMPOS=-10.0
+2026-05-02 17:18:12,554 - INFO - FLUKA OK: bo2_eval76.inp (311.8s)
+2026-05-02 17:18:35,937 - INFO - Eval 76: Reward=26.6154  State=[np.float64(6.5), np.float64(20.0), np.float64(5.0), 400000.0, np.float64(-10.0)]
+2026-05-02 17:25:40,897 - INFO - Generated: bo2_eval77.inp | T=7.5, W=19.0x5.0, NPS=300000, BEAMPOS=-50.0
+2026-05-02 17:30:48,446 - INFO - FLUKA OK: bo2_eval77.inp (307.5s)
+2026-05-02 17:30:49,392 - INFO - Eval 77: Reward=28.7063  State=[np.float64(7.5), np.float64(19.0), np.float64(5.0), 300000.0, np.float64(-50.0)]
+2026-05-02 17:30:56,989 - INFO - Generated: bo2_eval78.inp | T=10.0, W=5.0x5.0, NPS=100000, BEAMPOS=-10.0
+2026-05-02 17:33:44,719 - INFO - FLUKA OK: bo2_eval78.inp (167.7s)
+2026-05-02 17:33:45,256 - INFO - Eval 78: Reward=31.1830  State=[np.float64(10.0), np.float64(5.0), np.float64(5.0), 100000.0, np.float64(-10.0)]
+2026-05-02 17:33:54,567 - INFO - Generated: bo2_eval79.inp | T=6.0, W=20.0x5.0, NPS=500000, BEAMPOS=-50.0
+2026-05-02 17:41:16,717 - INFO - FLUKA OK: bo2_eval79.inp (442.1s)
+2026-05-02 17:41:17,379 - INFO - Eval 79: Reward=39.0285  State=[np.float64(6.0), np.float64(20.0), np.float64(5.0), 500000.0, np.float64(-50.0)]
+2026-05-02 17:41:17,430 - INFO - New Best: 39.0285 at eval 79
+2026-05-02 17:41:25,574 - INFO - Generated: bo2_eval80.inp | T=6.0, W=20.0x5.0, NPS=500000, BEAMPOS=-50.0
+2026-05-02 17:48:00,622 - INFO - FLUKA OK: bo2_eval80.inp (395.0s)
+2026-05-02 17:48:01,555 - INFO - Eval 80: Reward=28.9358  State=[np.float64(6.0), np.float64(20.0), np.float64(5.0), 500000.0, np.float64(-50.0)]
+2026-05-02 17:48:08,374 - INFO - Generated: bo2_eval81.inp | T=4.5, W=20.0x5.0, NPS=500000, BEAMPOS=-50.0
+2026-05-02 17:53:05,044 - INFO - FLUKA OK: bo2_eval81.inp (296.7s)
+2026-05-02 17:53:05,291 - INFO - Eval 81: Reward=24.5518  State=[np.float64(4.5), np.float64(20.0), np.float64(5.0), 500000.0, np.float64(-50.0)]
+2026-05-02 17:53:10,028 - INFO - Generated: bo2_eval82.inp | T=6.5, W=5.0x20.0, NPS=400000, BEAMPOS=-10.0
+2026-05-02 17:59:15,208 - INFO - FLUKA OK: bo2_eval82.inp (365.2s)
+2026-05-02 17:59:16,068 - INFO - Eval 82: Reward=29.9468  State=[np.float64(6.5), np.float64(5.0), np.float64(20.0), 400000.0, np.float64(-10.0)]
+2026-05-02 17:59:21,346 - INFO - Generated: bo2_eval83.inp | T=4.5, W=5.0x20.0, NPS=700000, BEAMPOS=-10.0
+2026-05-02 18:06:25,154 - INFO - FLUKA OK: bo2_eval83.inp (423.7s)
+2026-05-02 18:06:25,746 - INFO - Eval 83: Reward=25.9656  State=[np.float64(4.5), np.float64(5.0), np.float64(20.0), 700000.0, np.float64(-10.0)]
+2026-05-02 18:06:32,929 - INFO - Generated: bo2_eval84.inp | T=6.0, W=20.0x20.0, NPS=500000, BEAMPOS=-10.0
+2026-05-02 18:13:43,127 - INFO - FLUKA OK: bo2_eval84.inp (430.2s)
+2026-05-02 18:13:44,439 - INFO - Eval 84: Reward=27.4039  State=[np.float64(6.0), np.float64(20.0), np.float64(20.0), 500000.0, np.float64(-10.0)]
+2026-05-02 18:13:48,400 - INFO - Generated: bo2_eval85.inp | T=5.5, W=5.0x20.0, NPS=100000, BEAMPOS=-50.0
+2026-05-02 18:15:23,688 - INFO - FLUKA OK: bo2_eval85.inp (95.3s)
+2026-05-02 18:15:23,743 - INFO - Eval 85: Reward=29.5461  State=[np.float64(5.5), np.float64(5.0), np.float64(20.0), 100000.0, np.float64(-50.0)]
+2026-05-02 18:15:28,382 - INFO - Generated: bo2_eval86.inp | T=7.0, W=5.0x20.0, NPS=400000, BEAMPOS=-50.0
+2026-05-02 18:21:57,921 - INFO - FLUKA OK: bo2_eval86.inp (389.5s)
+2026-05-02 18:21:57,950 - INFO - Eval 86: Reward=31.9108  State=[np.float64(7.0), np.float64(5.0), np.float64(20.0), 400000.0, np.float64(-50.0)]
+2026-05-02 18:22:06,795 - INFO - Generated: bo2_eval87.inp | T=6.5, W=20.0x5.0, NPS=500000, BEAMPOS=-50.0
+2026-05-02 18:29:18,218 - INFO - FLUKA OK: bo2_eval87.inp (431.4s)
+2026-05-02 18:29:18,343 - INFO - Eval 87: Reward=26.5694  State=[np.float64(6.5), np.float64(20.0), np.float64(5.0), 500000.0, np.float64(-50.0)]
+2026-05-02 18:29:21,375 - INFO - Generated: bo2_eval88.inp | T=5.5, W=5.0x5.0, NPS=100000, BEAMPOS=-30.0
+2026-05-02 18:30:50,230 - INFO - FLUKA OK: bo2_eval88.inp (88.9s)
+2026-05-02 18:30:50,329 - INFO - Eval 88: Reward=25.3596  State=[np.float64(5.5), np.float64(5.0), np.float64(5.0), 100000.0, np.float64(-30.0)]
+2026-05-02 18:30:55,769 - INFO - Generated: bo2_eval89.inp | T=10.0, W=5.0x5.0, NPS=100000, BEAMPOS=-50.0
+2026-05-02 18:33:28,167 - INFO - FLUKA OK: bo2_eval89.inp (152.4s)
+2026-05-02 18:33:28,353 - INFO - Eval 89: Reward=31.1830  State=[np.float64(10.0), np.float64(5.0), np.float64(5.0), 100000.0, np.float64(-50.0)]
+2026-05-02 18:33:31,863 - INFO - Generated: bo2_eval90.inp | T=7.5, W=5.0x5.0, NPS=300000, BEAMPOS=-50.0
+2026-05-02 18:39:02,813 - INFO - FLUKA OK: bo2_eval90.inp (330.9s)
+2026-05-02 18:39:03,259 - INFO - Eval 90: Reward=21.5879  State=[np.float64(7.5), np.float64(5.0), np.float64(5.0), 300000.0, np.float64(-50.0)]
+2026-05-02 18:39:07,298 - INFO - Generated: bo2_eval91.inp | T=4.5, W=20.0x5.0, NPS=800000, BEAMPOS=-10.0
+2026-05-02 18:47:17,725 - INFO - FLUKA OK: bo2_eval91.inp (490.4s)
+2026-05-02 18:47:17,835 - INFO - Eval 91: Reward=28.4184  State=[np.float64(4.5), np.float64(20.0), np.float64(5.0), 800000.0, np.float64(-10.0)]
+2026-05-02 18:47:21,546 - INFO - Generated: bo2_eval92.inp | T=5.5, W=20.0x5.0, NPS=600000, BEAMPOS=-50.0
+2026-05-02 18:53:51,161 - INFO - FLUKA OK: bo2_eval92.inp (389.6s)
+2026-05-02 18:53:51,219 - INFO - Eval 92: Reward=24.4690  State=[np.float64(5.5), np.float64(20.0), np.float64(5.0), 600000.0, np.float64(-50.0)]
+2026-05-02 18:53:55,621 - INFO - Generated: bo2_eval93.inp | T=5.0, W=5.0x20.0, NPS=200000, BEAMPOS=-50.0
+2026-05-02 18:55:56,439 - INFO - FLUKA OK: bo2_eval93.inp (120.8s)
+2026-05-02 18:55:56,488 - INFO - Eval 93: Reward=23.6123  State=[np.float64(5.0), np.float64(5.0), np.float64(20.0), 200000.0, np.float64(-50.0)]
+2026-05-02 18:55:59,119 - INFO - Generated: bo2_eval94.inp | T=4.5, W=5.0x5.0, NPS=400000, BEAMPOS=-10.0
+2026-05-02 18:59:28,942 - INFO - FLUKA OK: bo2_eval94.inp (209.8s)
+2026-05-02 18:59:29,007 - INFO - Eval 94: Reward=26.4362  State=[np.float64(4.5), np.float64(5.0), np.float64(5.0), 400000.0, np.float64(-10.0)]
+2026-05-02 18:59:31,376 - INFO - Generated: bo2_eval95.inp | T=4.5, W=20.0x20.0, NPS=800000, BEAMPOS=-10.0
+2026-05-02 19:06:36,239 - INFO - FLUKA OK: bo2_eval95.inp (424.9s)
+2026-05-02 19:06:36,564 - INFO - Eval 95: Reward=26.2343  State=[np.float64(4.5), np.float64(20.0), np.float64(20.0), 800000.0, np.float64(-10.0)]
+2026-05-02 19:06:45,363 - INFO - Generated: bo2_eval96.inp | T=6.5, W=20.0x5.0, NPS=500000, BEAMPOS=-10.0
+2026-05-02 19:13:17,707 - INFO - FLUKA OK: bo2_eval96.inp (392.3s)
+2026-05-02 19:13:17,726 - INFO - Eval 96: Reward=26.5694  State=[np.float64(6.5), np.float64(20.0), np.float64(5.0), 500000.0, np.float64(-10.0)]
+2026-05-02 19:13:20,327 - INFO - Generated: bo2_eval97.inp | T=4.0, W=5.0x20.0, NPS=600000, BEAMPOS=-50.0
+2026-05-02 19:17:54,471 - INFO - FLUKA OK: bo2_eval97.inp (274.1s)
+2026-05-02 19:17:54,798 - INFO - Eval 97: Reward=25.1329  State=[np.float64(4.0), np.float64(5.0), np.float64(20.0), 600000.0, np.float64(-50.0)]
+2026-05-02 19:17:57,464 - INFO - Generated: bo2_eval98.inp | T=3.5, W=20.0x5.0, NPS=700000, BEAMPOS=-50.0
+2026-05-02 19:22:42,470 - INFO - FLUKA OK: bo2_eval98.inp (285.0s)
+2026-05-02 19:22:42,489 - INFO - Eval 98: Reward=20.3956  State=[np.float64(3.5), np.float64(20.0), np.float64(5.0), 700000.0, np.float64(-50.0)]
+2026-05-02 19:22:45,641 - INFO - Generated: bo2_eval99.inp | T=6.0, W=13.0x13.0, NPS=300000, BEAMPOS=-15.0
+2026-05-02 19:26:31,175 - INFO - FLUKA OK: bo2_eval99.inp (225.5s)
+2026-05-02 19:26:31,195 - INFO - Eval 99: Reward=25.2863  State=[np.float64(6.0), np.float64(13.0), np.float64(13.0), 300000.0, np.float64(-15.0)]
+2026-05-02 19:26:33,320 - INFO - Generated: bo2_eval100.inp | T=10.0, W=5.0x20.0, NPS=100000, BEAMPOS=-10.0
+2026-05-02 19:28:50,725 - INFO - FLUKA OK: bo2_eval100.inp (137.4s)
+2026-05-02 19:28:51,430 - INFO - Eval 100: Reward=1.0982  State=[np.float64(10.0), np.float64(5.0), np.float64(20.0), 100000.0, np.float64(-10.0)]

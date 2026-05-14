@@ -1,0 +1,481 @@
+2026-04-30 23:18:30,212 - INFO - Generated: rs2_ep-1_step1.inp | T=4.5, W=15.0x19.0, NPS=300000, BEAMPOS=-50.0
+2026-04-30 23:21:58,357 - INFO - FLUKA OK: rs2_ep-1_step1.inp (208.1s)
+2026-04-30 23:21:58,659 - INFO - Ep-1 Step1: Reward=27.7726 | Success=True
+2026-04-30 23:21:58,659 - INFO - Eval 1: Reward=27.7726  State=[4.5, 15.0, 19.0, 300000.0, -50.0]
+2026-04-30 23:21:58,659 - INFO - New Best: 27.7726 at eval 1
+2026-04-30 23:21:58,681 - INFO - Generated: rs2_ep-1_step2.inp | T=9.5, W=18.0x19.0, NPS=1000000, BEAMPOS=-35.0
+2026-04-30 23:21:59,717 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step2.inp']' returned non-zero exit status 12.
+2026-04-30 23:21:59,717 - WARNING - Eval 2 failed (total failed=1)
+2026-04-30 23:21:59,717 - INFO - Generated: rs2_ep-1_step3.inp | T=10.0, W=10.0x8.0, NPS=500000, BEAMPOS=-15.0
+2026-04-30 23:32:01,703 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step3.inp']' timed out after 600 seconds
+2026-04-30 23:32:02,510 - WARNING - Eval 3 failed (total failed=2)
+2026-04-30 23:32:03,424 - INFO - Generated: rs2_ep-1_step4.inp | T=6.5, W=5.0x14.0, NPS=1000000, BEAMPOS=-40.0
+2026-04-30 23:32:04,837 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step4.inp']' returned non-zero exit status 12.
+2026-04-30 23:32:04,837 - WARNING - Eval 4 failed (total failed=3)
+2026-04-30 23:32:04,837 - INFO - Generated: rs2_ep-1_step5.inp | T=3.5, W=10.0x12.0, NPS=700000, BEAMPOS=-50.0
+2026-04-30 23:36:45,346 - INFO - FLUKA OK: rs2_ep-1_step5.inp (280.5s)
+2026-04-30 23:36:45,482 - INFO - Ep-1 Step5: Reward=15.2094 | Success=True
+2026-04-30 23:36:45,503 - INFO - Eval 2: Reward=15.2094  State=[3.5, 10.0, 12.0, 700000.0, -50.0]
+2026-04-30 23:36:45,516 - INFO - Generated: rs2_ep-1_step6.inp | T=3.5, W=15.0x14.0, NPS=300000, BEAMPOS=-35.0
+2026-04-30 23:39:08,432 - INFO - FLUKA OK: rs2_ep-1_step6.inp (142.9s)
+2026-04-30 23:39:08,618 - INFO - Ep-1 Step6: Reward=22.5103 | Success=True
+2026-04-30 23:39:08,618 - INFO - Eval 3: Reward=22.5103  State=[3.5, 15.0, 14.0, 300000.0, -35.0]
+2026-04-30 23:39:08,656 - INFO - Generated: rs2_ep-1_step7.inp | T=8.0, W=15.0x13.0, NPS=300000, BEAMPOS=-45.0
+2026-04-30 23:46:30,367 - INFO - FLUKA OK: rs2_ep-1_step7.inp (441.7s)
+2026-04-30 23:46:30,751 - INFO - Ep-1 Step7: Reward=36.1633 | Success=True
+2026-04-30 23:46:30,769 - INFO - Eval 4: Reward=36.1633  State=[8.0, 15.0, 13.0, 300000.0, -45.0]
+2026-04-30 23:46:30,782 - INFO - New Best: 36.1633 at eval 4
+2026-04-30 23:46:30,856 - INFO - Generated: rs2_ep-1_step8.inp | T=8.5, W=10.0x17.0, NPS=500000, BEAMPOS=-40.0
+2026-04-30 23:56:16,472 - INFO - FLUKA OK: rs2_ep-1_step8.inp (585.6s)
+2026-04-30 23:56:16,622 - INFO - Ep-1 Step8: Reward=33.8280 | Success=True
+2026-04-30 23:56:16,622 - INFO - Eval 5: Reward=33.8280  State=[8.5, 10.0, 17.0, 500000.0, -40.0]
+2026-04-30 23:56:16,622 - INFO - Generated: rs2_ep-1_step9.inp | T=5.5, W=18.0x7.0, NPS=1000000, BEAMPOS=-30.0
+2026-04-30 23:56:18,462 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step9.inp']' returned non-zero exit status 12.
+2026-04-30 23:56:18,463 - WARNING - Eval 9 failed (total failed=4)
+2026-04-30 23:56:18,463 - INFO - Generated: rs2_ep-1_step10.inp | T=3.5, W=6.0x7.0, NPS=100000, BEAMPOS=-40.0
+2026-04-30 23:57:16,457 - INFO - FLUKA OK: rs2_ep-1_step10.inp (58.0s)
+2026-04-30 23:57:21,729 - INFO - Ep-1 Step10: Reward=-3.6402 | Success=True
+2026-04-30 23:57:21,731 - INFO - Eval 6: Reward=-3.6402  State=[3.5, 6.0, 7.0, 100000.0, -40.0]
+2026-04-30 23:57:21,986 - INFO - Generated: rs2_ep-1_step11.inp | T=6.0, W=17.0x7.0, NPS=400000, BEAMPOS=-15.0
+2026-05-01 00:02:03,985 - INFO - FLUKA OK: rs2_ep-1_step11.inp (282.0s)
+2026-05-01 00:02:04,144 - INFO - Ep-1 Step11: Reward=30.5114 | Success=True
+2026-05-01 00:02:04,144 - INFO - Eval 7: Reward=30.5114  State=[6.0, 17.0, 7.0, 400000.0, -15.0]
+2026-05-01 00:02:04,207 - INFO - Generated: rs2_ep-1_step12.inp | T=8.5, W=15.0x12.0, NPS=100000, BEAMPOS=-25.0
+2026-05-01 00:04:01,984 - INFO - FLUKA OK: rs2_ep-1_step12.inp (117.8s)
+2026-05-01 00:04:02,006 - INFO - Ep-1 Step12: Reward=26.1217 | Success=True
+2026-05-01 00:04:02,006 - INFO - Eval 8: Reward=26.1217  State=[8.5, 15.0, 12.0, 100000.0, -25.0]
+2026-05-01 00:04:02,006 - INFO - Generated: rs2_ep-1_step13.inp | T=7.5, W=12.0x14.0, NPS=600000, BEAMPOS=-35.0
+2026-05-01 00:12:59,183 - INFO - FLUKA OK: rs2_ep-1_step13.inp (537.2s)
+2026-05-01 00:12:59,301 - INFO - Ep-1 Step13: Reward=35.5557 | Success=True
+2026-05-01 00:12:59,302 - INFO - Eval 9: Reward=35.5557  State=[7.5, 12.0, 14.0, 600000.0, -35.0]
+2026-05-01 00:12:59,343 - INFO - Generated: rs2_ep-1_step14.inp | T=3.5, W=9.0x20.0, NPS=800000, BEAMPOS=-35.0
+2026-05-01 00:18:07,095 - INFO - FLUKA OK: rs2_ep-1_step14.inp (307.8s)
+2026-05-01 00:18:07,137 - INFO - Ep-1 Step14: Reward=21.3912 | Success=True
+2026-05-01 00:18:07,137 - INFO - Eval 10: Reward=21.3912  State=[3.5, 9.0, 20.0, 800000.0, -35.0]
+2026-05-01 00:18:07,137 - INFO - Generated: rs2_ep-1_step15.inp | T=10.0, W=12.0x6.0, NPS=400000, BEAMPOS=-45.0
+2026-05-01 00:26:02,163 - INFO - FLUKA OK: rs2_ep-1_step15.inp (475.0s)
+2026-05-01 00:26:02,226 - INFO - Ep-1 Step15: Reward=28.5731 | Success=True
+2026-05-01 00:26:02,227 - INFO - Eval 11: Reward=28.5731  State=[10.0, 12.0, 6.0, 400000.0, -45.0]
+2026-05-01 00:26:02,243 - INFO - Generated: rs2_ep-1_step16.inp | T=8.0, W=10.0x11.0, NPS=400000, BEAMPOS=-45.0
+2026-05-01 00:32:21,454 - INFO - FLUKA OK: rs2_ep-1_step16.inp (379.2s)
+2026-05-01 00:32:21,541 - INFO - Ep-1 Step16: Reward=41.5569 | Success=True
+2026-05-01 00:32:21,541 - INFO - Eval 12: Reward=41.5569  State=[8.0, 10.0, 11.0, 400000.0, -45.0]
+2026-05-01 00:32:21,542 - INFO - New Best: 41.5569 at eval 12
+2026-05-01 00:32:21,553 - INFO - Generated: rs2_ep-1_step17.inp | T=4.0, W=13.0x5.0, NPS=100000, BEAMPOS=-10.0
+2026-05-01 00:33:17,271 - INFO - FLUKA OK: rs2_ep-1_step17.inp (55.7s)
+2026-05-01 00:33:17,641 - INFO - Ep-1 Step17: Reward=20.0512 | Success=True
+2026-05-01 00:33:17,642 - INFO - Eval 13: Reward=20.0512  State=[4.0, 13.0, 5.0, 100000.0, -10.0]
+2026-05-01 00:33:17,721 - INFO - Generated: rs2_ep-1_step18.inp | T=7.0, W=10.0x12.0, NPS=900000, BEAMPOS=-15.0
+2026-05-01 00:43:18,310 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step18.inp']' timed out after 600 seconds
+2026-05-01 00:43:18,325 - WARNING - Eval 18 failed (total failed=5)
+2026-05-01 00:43:18,339 - INFO - Generated: rs2_ep-1_step19.inp | T=10.0, W=19.0x7.0, NPS=500000, BEAMPOS=-45.0
+2026-05-01 00:53:18,719 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step19.inp']' timed out after 600 seconds
+2026-05-01 00:53:18,733 - WARNING - Eval 19 failed (total failed=6)
+2026-05-01 00:53:18,786 - INFO - Generated: rs2_ep-1_step20.inp | T=7.0, W=5.0x20.0, NPS=500000, BEAMPOS=-30.0
+2026-05-01 00:59:52,551 - INFO - FLUKA OK: rs2_ep-1_step20.inp (393.8s)
+2026-05-01 00:59:53,260 - INFO - Ep-1 Step20: Reward=34.0096 | Success=True
+2026-05-01 00:59:53,262 - INFO - Eval 14: Reward=34.0096  State=[7.0, 5.0, 20.0, 500000.0, -30.0]
+2026-05-01 00:59:53,293 - INFO - Generated: rs2_ep-1_step21.inp | T=8.5, W=17.0x16.0, NPS=100000, BEAMPOS=-15.0
+2026-05-01 01:02:10,718 - INFO - FLUKA OK: rs2_ep-1_step21.inp (137.4s)
+2026-05-01 01:02:10,831 - INFO - Ep-1 Step21: Reward=29.7341 | Success=True
+2026-05-01 01:02:10,831 - INFO - Eval 15: Reward=29.7341  State=[8.5, 17.0, 16.0, 100000.0, -15.0]
+2026-05-01 01:02:10,831 - INFO - Generated: rs2_ep-1_step22.inp | T=7.0, W=10.0x17.0, NPS=200000, BEAMPOS=-15.0
+2026-05-01 01:05:08,585 - INFO - FLUKA OK: rs2_ep-1_step22.inp (177.7s)
+2026-05-01 01:05:08,648 - INFO - Ep-1 Step22: Reward=29.1551 | Success=True
+2026-05-01 01:05:08,649 - INFO - Eval 16: Reward=29.1551  State=[7.0, 10.0, 17.0, 200000.0, -15.0]
+2026-05-01 01:05:08,650 - INFO - Generated: rs2_ep-1_step23.inp | T=6.5, W=8.0x17.0, NPS=100000, BEAMPOS=-40.0
+2026-05-01 01:06:36,018 - INFO - FLUKA OK: rs2_ep-1_step23.inp (87.4s)
+2026-05-01 01:06:36,580 - INFO - Ep-1 Step23: Reward=27.1020 | Success=True
+2026-05-01 01:06:36,582 - INFO - Eval 17: Reward=27.1020  State=[6.5, 8.0, 17.0, 100000.0, -40.0]
+2026-05-01 01:06:36,601 - INFO - Generated: rs2_ep-1_step24.inp | T=5.0, W=13.0x11.0, NPS=600000, BEAMPOS=-45.0
+2026-05-01 01:12:12,725 - INFO - FLUKA OK: rs2_ep-1_step24.inp (336.1s)
+2026-05-01 01:12:13,233 - INFO - Ep-1 Step24: Reward=30.2920 | Success=True
+2026-05-01 01:12:13,233 - INFO - Eval 18: Reward=30.2920  State=[5.0, 13.0, 11.0, 600000.0, -45.0]
+2026-05-01 01:12:13,233 - INFO - Generated: rs2_ep-1_step25.inp | T=3.5, W=14.0x5.0, NPS=900000, BEAMPOS=-50.0
+2026-05-01 01:18:14,166 - INFO - FLUKA OK: rs2_ep-1_step25.inp (360.9s)
+2026-05-01 01:18:14,597 - INFO - Ep-1 Step25: Reward=24.0059 | Success=True
+2026-05-01 01:18:14,597 - INFO - Eval 19: Reward=24.0059  State=[3.5, 14.0, 5.0, 900000.0, -50.0]
+2026-05-01 01:18:14,780 - INFO - Generated: rs2_ep-1_step26.inp | T=7.5, W=15.0x14.0, NPS=700000, BEAMPOS=-30.0
+2026-05-01 01:28:15,257 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step26.inp']' timed out after 600 seconds
+2026-05-01 01:28:15,433 - WARNING - Eval 26 failed (total failed=7)
+2026-05-01 01:28:15,521 - INFO - Generated: rs2_ep-1_step27.inp | T=4.5, W=16.0x12.0, NPS=400000, BEAMPOS=-20.0
+2026-05-01 01:31:44,107 - INFO - FLUKA OK: rs2_ep-1_step27.inp (208.6s)
+2026-05-01 01:31:44,173 - INFO - Ep-1 Step27: Reward=18.5242 | Success=True
+2026-05-01 01:31:44,175 - INFO - Eval 20: Reward=18.5242  State=[4.5, 16.0, 12.0, 400000.0, -20.0]
+2026-05-01 01:31:44,176 - INFO - Generated: rs2_ep-1_step28.inp | T=4.5, W=7.0x9.0, NPS=900000, BEAMPOS=-50.0
+2026-05-01 01:39:12,575 - INFO - FLUKA OK: rs2_ep-1_step28.inp (448.4s)
+2026-05-01 01:39:12,864 - INFO - Ep-1 Step28: Reward=22.0494 | Success=True
+2026-05-01 01:39:12,865 - INFO - Eval 21: Reward=22.0494  State=[4.5, 7.0, 9.0, 900000.0, -50.0]
+2026-05-01 01:39:12,866 - INFO - Generated: rs2_ep-1_step29.inp | T=5.0, W=17.0x16.0, NPS=100000, BEAMPOS=-15.0
+2026-05-01 01:40:33,793 - INFO - FLUKA OK: rs2_ep-1_step29.inp (80.9s)
+2026-05-01 01:40:34,421 - INFO - Ep-1 Step29: Reward=22.0306 | Success=True
+2026-05-01 01:40:34,424 - INFO - Eval 22: Reward=22.0306  State=[5.0, 17.0, 16.0, 100000.0, -15.0]
+2026-05-01 01:40:34,424 - INFO - Generated: rs2_ep-1_step30.inp | T=3.5, W=10.0x13.0, NPS=100000, BEAMPOS=-35.0
+2026-05-01 01:41:30,129 - INFO - FLUKA OK: rs2_ep-1_step30.inp (55.7s)
+2026-05-01 01:41:30,289 - INFO - Ep-1 Step30: Reward=2.0770 | Success=True
+2026-05-01 01:41:30,290 - INFO - Eval 23: Reward=2.0770  State=[3.5, 10.0, 13.0, 100000.0, -35.0]
+2026-05-01 01:41:30,291 - INFO - Generated: rs2_ep-1_step31.inp | T=9.0, W=7.0x15.0, NPS=200000, BEAMPOS=-30.0
+2026-05-01 01:45:13,387 - INFO - FLUKA OK: rs2_ep-1_step31.inp (223.1s)
+2026-05-01 01:45:13,525 - INFO - Ep-1 Step31: Reward=35.6124 | Success=True
+2026-05-01 01:45:13,525 - INFO - Eval 24: Reward=35.6124  State=[9.0, 7.0, 15.0, 200000.0, -30.0]
+2026-05-01 01:45:13,525 - INFO - Generated: rs2_ep-1_step32.inp | T=7.0, W=9.0x16.0, NPS=600000, BEAMPOS=-35.0
+2026-05-01 01:53:31,329 - INFO - FLUKA OK: rs2_ep-1_step32.inp (497.8s)
+2026-05-01 01:53:31,822 - INFO - Ep-1 Step32: Reward=31.9263 | Success=True
+2026-05-01 01:53:31,825 - INFO - Eval 25: Reward=31.9263  State=[7.0, 9.0, 16.0, 600000.0, -35.0]
+2026-05-01 01:53:31,825 - INFO - Generated: rs2_ep-1_step33.inp | T=6.0, W=13.0x6.0, NPS=200000, BEAMPOS=-10.0
+2026-05-01 01:55:57,719 - INFO - FLUKA OK: rs2_ep-1_step33.inp (145.9s)
+2026-05-01 01:55:57,803 - INFO - Ep-1 Step33: Reward=22.7755 | Success=True
+2026-05-01 01:55:57,804 - INFO - Eval 26: Reward=22.7755  State=[6.0, 13.0, 6.0, 200000.0, -10.0]
+2026-05-01 01:55:57,804 - INFO - Generated: rs2_ep-1_step34.inp | T=7.0, W=13.0x14.0, NPS=200000, BEAMPOS=-40.0
+2026-05-01 01:58:55,127 - INFO - FLUKA OK: rs2_ep-1_step34.inp (177.3s)
+2026-05-01 01:58:55,707 - INFO - Ep-1 Step34: Reward=31.4218 | Success=True
+2026-05-01 01:58:55,708 - INFO - Eval 27: Reward=31.4218  State=[7.0, 13.0, 14.0, 200000.0, -40.0]
+2026-05-01 01:58:55,708 - INFO - Generated: rs2_ep-1_step35.inp | T=8.0, W=16.0x10.0, NPS=100000, BEAMPOS=-45.0
+2026-05-01 02:00:44,780 - INFO - FLUKA OK: rs2_ep-1_step35.inp (109.1s)
+2026-05-01 02:00:44,821 - INFO - Ep-1 Step35: Reward=28.4291 | Success=True
+2026-05-01 02:00:44,821 - INFO - Eval 28: Reward=28.4291  State=[8.0, 16.0, 10.0, 100000.0, -45.0]
+2026-05-01 02:00:44,821 - INFO - Generated: rs2_ep-1_step36.inp | T=7.5, W=6.0x11.0, NPS=400000, BEAMPOS=-10.0
+2026-05-01 02:06:31,566 - INFO - FLUKA OK: rs2_ep-1_step36.inp (346.7s)
+2026-05-01 02:06:31,992 - INFO - Ep-1 Step36: Reward=30.4382 | Success=True
+2026-05-01 02:06:31,992 - INFO - Eval 29: Reward=30.4382  State=[7.5, 6.0, 11.0, 400000.0, -10.0]
+2026-05-01 02:06:32,052 - INFO - Generated: rs2_ep-1_step37.inp | T=2.0, W=10.0x17.0, NPS=200000, BEAMPOS=-25.0
+2026-05-01 02:07:35,660 - INFO - FLUKA OK: rs2_ep-1_step37.inp (63.6s)
+2026-05-01 02:07:35,927 - INFO - Ep-1 Step37: Reward=16.2259 | Success=True
+2026-05-01 02:07:35,928 - INFO - Eval 30: Reward=16.2259  State=[2.0, 10.0, 17.0, 200000.0, -25.0]
+2026-05-01 02:07:35,929 - INFO - Generated: rs2_ep-1_step38.inp | T=6.5, W=14.0x17.0, NPS=800000, BEAMPOS=-50.0
+2026-05-01 02:17:26,226 - INFO - FLUKA OK: rs2_ep-1_step38.inp (590.3s)
+2026-05-01 02:17:26,479 - INFO - Ep-1 Step38: Reward=31.4764 | Success=True
+2026-05-01 02:17:26,482 - INFO - Eval 31: Reward=31.4764  State=[6.5, 14.0, 17.0, 800000.0, -50.0]
+2026-05-01 02:17:26,482 - INFO - Generated: rs2_ep-1_step39.inp | T=4.0, W=20.0x8.0, NPS=500000, BEAMPOS=-45.0
+2026-05-01 02:21:13,448 - INFO - FLUKA OK: rs2_ep-1_step39.inp (227.0s)
+2026-05-01 02:21:13,896 - INFO - Ep-1 Step39: Reward=29.7976 | Success=True
+2026-05-01 02:21:13,896 - INFO - Eval 32: Reward=29.7976  State=[4.0, 20.0, 8.0, 500000.0, -45.0]
+2026-05-01 02:21:13,896 - INFO - Generated: rs2_ep-1_step40.inp | T=5.5, W=6.0x18.0, NPS=400000, BEAMPOS=-45.0
+2026-05-01 02:25:38,485 - INFO - FLUKA OK: rs2_ep-1_step40.inp (264.6s)
+2026-05-01 02:25:38,801 - INFO - Ep-1 Step40: Reward=20.4964 | Success=True
+2026-05-01 02:25:38,802 - INFO - Eval 33: Reward=20.4964  State=[5.5, 6.0, 18.0, 400000.0, -45.0]
+2026-05-01 02:25:38,802 - INFO - Generated: rs2_ep-1_step41.inp | T=5.0, W=13.0x13.0, NPS=900000, BEAMPOS=-50.0
+2026-05-01 02:34:14,825 - INFO - FLUKA OK: rs2_ep-1_step41.inp (516.0s)
+2026-05-01 02:34:15,371 - INFO - Ep-1 Step41: Reward=25.6222 | Success=True
+2026-05-01 02:34:15,371 - INFO - Eval 34: Reward=25.6222  State=[5.0, 13.0, 13.0, 900000.0, -50.0]
+2026-05-01 02:34:15,371 - INFO - Generated: rs2_ep-1_step42.inp | T=4.5, W=8.0x12.0, NPS=700000, BEAMPOS=-20.0
+2026-05-01 02:40:09,202 - INFO - FLUKA OK: rs2_ep-1_step42.inp (353.8s)
+2026-05-01 02:40:09,703 - INFO - Ep-1 Step42: Reward=29.6277 | Success=True
+2026-05-01 02:40:09,703 - INFO - Eval 35: Reward=29.6277  State=[4.5, 8.0, 12.0, 700000.0, -20.0]
+2026-05-01 02:40:09,703 - INFO - Generated: rs2_ep-1_step43.inp | T=7.5, W=7.0x20.0, NPS=500000, BEAMPOS=-45.0
+2026-05-01 02:47:30,281 - INFO - FLUKA OK: rs2_ep-1_step43.inp (440.6s)
+2026-05-01 02:47:30,441 - INFO - Ep-1 Step43: Reward=25.3456 | Success=True
+2026-05-01 02:47:30,441 - INFO - Eval 36: Reward=25.3456  State=[7.5, 7.0, 20.0, 500000.0, -45.0]
+2026-05-01 02:47:30,441 - INFO - Generated: rs2_ep-1_step44.inp | T=8.5, W=8.0x16.0, NPS=900000, BEAMPOS=-45.0
+2026-05-01 02:57:30,549 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step44.inp']' timed out after 600 seconds
+2026-05-01 02:57:30,550 - WARNING - Eval 44 failed (total failed=8)
+2026-05-01 02:57:30,550 - INFO - Generated: rs2_ep-1_step45.inp | T=3.5, W=18.0x6.0, NPS=200000, BEAMPOS=-25.0
+2026-05-01 02:59:15,956 - INFO - FLUKA OK: rs2_ep-1_step45.inp (105.4s)
+2026-05-01 02:59:16,010 - INFO - Ep-1 Step45: Reward=21.7716 | Success=True
+2026-05-01 02:59:16,012 - INFO - Eval 37: Reward=21.7716  State=[3.5, 18.0, 6.0, 200000.0, -25.0]
+2026-05-01 02:59:16,012 - INFO - Generated: rs2_ep-1_step46.inp | T=7.0, W=19.0x8.0, NPS=100000, BEAMPOS=-35.0
+2026-05-01 03:00:55,894 - INFO - FLUKA OK: rs2_ep-1_step46.inp (99.9s)
+2026-05-01 03:00:55,981 - INFO - Ep-1 Step46: Reward=25.9389 | Success=True
+2026-05-01 03:00:55,981 - INFO - Eval 38: Reward=25.9389  State=[7.0, 19.0, 8.0, 100000.0, -35.0]
+2026-05-01 03:00:55,981 - INFO - Generated: rs2_ep-1_step47.inp | T=9.0, W=14.0x6.0, NPS=800000, BEAMPOS=-20.0
+2026-05-01 03:10:56,063 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step47.inp']' timed out after 600 seconds
+2026-05-01 03:10:56,130 - WARNING - Eval 47 failed (total failed=9)
+2026-05-01 03:10:56,131 - INFO - Generated: rs2_ep-1_step48.inp | T=3.5, W=17.0x6.0, NPS=300000, BEAMPOS=-15.0
+2026-05-01 03:13:17,749 - INFO - FLUKA OK: rs2_ep-1_step48.inp (141.6s)
+2026-05-01 03:13:17,797 - INFO - Ep-1 Step48: Reward=21.4430 | Success=True
+2026-05-01 03:13:17,798 - INFO - Eval 39: Reward=21.4430  State=[3.5, 17.0, 6.0, 300000.0, -15.0]
+2026-05-01 03:13:17,798 - INFO - Generated: rs2_ep-1_step49.inp | T=4.0, W=15.0x11.0, NPS=900000, BEAMPOS=-25.0
+2026-05-01 03:20:05,412 - INFO - FLUKA OK: rs2_ep-1_step49.inp (407.6s)
+2026-05-01 03:20:05,465 - INFO - Ep-1 Step49: Reward=20.3489 | Success=True
+2026-05-01 03:20:05,468 - INFO - Eval 40: Reward=20.3489  State=[4.0, 15.0, 11.0, 900000.0, -25.0]
+2026-05-01 03:20:05,468 - INFO - Generated: rs2_ep-1_step50.inp | T=8.5, W=6.0x17.0, NPS=500000, BEAMPOS=-20.0
+2026-05-01 03:28:22,609 - INFO - FLUKA OK: rs2_ep-1_step50.inp (497.1s)
+2026-05-01 03:28:22,753 - INFO - Ep-1 Step50: Reward=-1.5113 | Success=True
+2026-05-01 03:28:22,755 - INFO - Eval 41: Reward=-1.5113  State=[8.5, 6.0, 17.0, 500000.0, -20.0]
+2026-05-01 03:28:22,755 - INFO - Generated: rs2_ep-1_step51.inp | T=9.0, W=15.0x9.0, NPS=400000, BEAMPOS=-45.0
+2026-05-01 03:35:42,857 - INFO - FLUKA OK: rs2_ep-1_step51.inp (440.1s)
+2026-05-01 03:35:42,920 - INFO - Ep-1 Step51: Reward=32.4334 | Success=True
+2026-05-01 03:35:42,920 - INFO - Eval 42: Reward=32.4334  State=[9.0, 15.0, 9.0, 400000.0, -45.0]
+2026-05-01 03:35:42,939 - INFO - Generated: rs2_ep-1_step52.inp | T=6.5, W=19.0x10.0, NPS=400000, BEAMPOS=-15.0
+2026-05-01 03:40:53,961 - INFO - FLUKA OK: rs2_ep-1_step52.inp (311.0s)
+2026-05-01 03:40:54,423 - INFO - Ep-1 Step52: Reward=24.7939 | Success=True
+2026-05-01 03:40:54,423 - INFO - Eval 43: Reward=24.7939  State=[6.5, 19.0, 10.0, 400000.0, -15.0]
+2026-05-01 03:40:54,424 - INFO - Generated: rs2_ep-1_step53.inp | T=9.5, W=11.0x20.0, NPS=600000, BEAMPOS=-20.0
+2026-05-01 03:50:54,449 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step53.inp']' timed out after 600 seconds
+2026-05-01 03:50:54,466 - WARNING - Eval 53 failed (total failed=10)
+2026-05-01 03:50:54,494 - INFO - Generated: rs2_ep-1_step54.inp | T=4.5, W=9.0x18.0, NPS=300000, BEAMPOS=-25.0
+2026-05-01 03:54:06,700 - INFO - FLUKA OK: rs2_ep-1_step54.inp (192.2s)
+2026-05-01 03:54:06,774 - INFO - Ep-1 Step54: Reward=24.1381 | Success=True
+2026-05-01 03:54:06,774 - INFO - Eval 44: Reward=24.1381  State=[4.5, 9.0, 18.0, 300000.0, -25.0]
+2026-05-01 03:54:06,775 - INFO - Generated: rs2_ep-1_step55.inp | T=9.5, W=6.0x17.0, NPS=100000, BEAMPOS=-10.0
+2026-05-01 03:56:10,303 - INFO - FLUKA OK: rs2_ep-1_step55.inp (123.5s)
+2026-05-01 03:56:10,400 - INFO - Ep-1 Step55: Reward=24.7932 | Success=True
+2026-05-01 03:56:10,400 - INFO - Eval 45: Reward=24.7932  State=[9.5, 6.0, 17.0, 100000.0, -10.0]
+2026-05-01 03:56:10,401 - INFO - Generated: rs2_ep-1_step56.inp | T=4.0, W=5.0x9.0, NPS=700000, BEAMPOS=-30.0
+2026-05-01 04:01:16,649 - INFO - FLUKA OK: rs2_ep-1_step56.inp (306.2s)
+2026-05-01 04:01:16,952 - INFO - Ep-1 Step56: Reward=27.9759 | Success=True
+2026-05-01 04:01:16,952 - INFO - Eval 46: Reward=27.9759  State=[4.0, 5.0, 9.0, 700000.0, -30.0]
+2026-05-01 04:01:16,953 - INFO - Generated: rs2_ep-1_step57.inp | T=2.5, W=14.0x19.0, NPS=700000, BEAMPOS=-45.0
+2026-05-01 04:04:41,004 - INFO - FLUKA OK: rs2_ep-1_step57.inp (204.1s)
+2026-05-01 04:04:41,189 - INFO - Ep-1 Step57: Reward=13.3045 | Success=True
+2026-05-01 04:04:41,190 - INFO - Eval 47: Reward=13.3045  State=[2.5, 14.0, 19.0, 700000.0, -45.0]
+2026-05-01 04:04:41,190 - INFO - Generated: rs2_ep-1_step58.inp | T=9.0, W=14.0x9.0, NPS=900000, BEAMPOS=-15.0
+2026-05-01 04:14:41,544 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step58.inp']' timed out after 600 seconds
+2026-05-01 04:14:41,544 - WARNING - Eval 58 failed (total failed=11)
+2026-05-01 04:14:41,545 - INFO - Generated: rs2_ep-1_step59.inp | T=4.0, W=11.0x19.0, NPS=500000, BEAMPOS=-45.0
+2026-05-01 04:19:02,662 - INFO - FLUKA OK: rs2_ep-1_step59.inp (261.1s)
+2026-05-01 04:19:02,775 - INFO - Ep-1 Step59: Reward=21.5491 | Success=True
+2026-05-01 04:19:02,776 - INFO - Eval 48: Reward=21.5491  State=[4.0, 11.0, 19.0, 500000.0, -45.0]
+2026-05-01 04:19:02,784 - INFO - Generated: rs2_ep-1_step60.inp | T=4.0, W=14.0x6.0, NPS=1000000, BEAMPOS=-50.0
+2026-05-01 04:19:03,363 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step60.inp']' returned non-zero exit status 12.
+2026-05-01 04:19:03,363 - WARNING - Eval 60 failed (total failed=12)
+2026-05-01 04:19:03,363 - INFO - Generated: rs2_ep-1_step61.inp | T=5.0, W=17.0x17.0, NPS=600000, BEAMPOS=-45.0
+2026-05-01 04:24:49,759 - INFO - FLUKA OK: rs2_ep-1_step61.inp (346.4s)
+2026-05-01 04:24:49,813 - INFO - Ep-1 Step61: Reward=26.1251 | Success=True
+2026-05-01 04:24:49,815 - INFO - Eval 49: Reward=26.1251  State=[5.0, 17.0, 17.0, 600000.0, -45.0]
+2026-05-01 04:24:49,816 - INFO - Generated: rs2_ep-1_step62.inp | T=4.0, W=9.0x6.0, NPS=400000, BEAMPOS=-40.0
+2026-05-01 04:27:52,749 - INFO - FLUKA OK: rs2_ep-1_step62.inp (182.9s)
+2026-05-01 04:27:52,794 - INFO - Ep-1 Step62: Reward=26.1976 | Success=True
+2026-05-01 04:27:52,794 - INFO - Eval 50: Reward=26.1976  State=[4.0, 9.0, 6.0, 400000.0, -40.0]
+2026-05-01 04:27:52,795 - INFO - Generated: rs2_ep-1_step63.inp | T=4.5, W=15.0x8.0, NPS=400000, BEAMPOS=-15.0
+2026-05-01 04:31:42,535 - INFO - FLUKA OK: rs2_ep-1_step63.inp (229.7s)
+2026-05-01 04:31:42,899 - INFO - Ep-1 Step63: Reward=25.3896 | Success=True
+2026-05-01 04:31:42,899 - INFO - Eval 51: Reward=25.3896  State=[4.5, 15.0, 8.0, 400000.0, -15.0]
+2026-05-01 04:31:42,899 - INFO - Generated: rs2_ep-1_step64.inp | T=6.5, W=12.0x11.0, NPS=1000000, BEAMPOS=-45.0
+2026-05-01 04:31:43,724 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step64.inp']' returned non-zero exit status 12.
+2026-05-01 04:31:43,724 - WARNING - Eval 64 failed (total failed=13)
+2026-05-01 04:31:43,724 - INFO - Generated: rs2_ep-1_step65.inp | T=2.5, W=18.0x14.0, NPS=700000, BEAMPOS=-30.0
+2026-05-01 04:35:17,404 - INFO - FLUKA OK: rs2_ep-1_step65.inp (213.7s)
+2026-05-01 04:35:17,767 - INFO - Ep-1 Step65: Reward=12.7289 | Success=True
+2026-05-01 04:35:17,767 - INFO - Eval 52: Reward=12.7289  State=[2.5, 18.0, 14.0, 700000.0, -30.0]
+2026-05-01 04:35:17,767 - INFO - Generated: rs2_ep-1_step66.inp | T=6.0, W=17.0x6.0, NPS=900000, BEAMPOS=-30.0
+2026-05-01 04:45:17,712 - INFO - FLUKA OK: rs2_ep-1_step66.inp (599.9s)
+2026-05-01 04:45:17,736 - INFO - Ep-1 Step66: Reward=29.6067 | Success=True
+2026-05-01 04:45:17,736 - INFO - Eval 53: Reward=29.6067  State=[6.0, 17.0, 6.0, 900000.0, -30.0]
+2026-05-01 04:45:17,736 - INFO - Generated: rs2_ep-1_step67.inp | T=4.5, W=15.0x14.0, NPS=800000, BEAMPOS=-45.0
+2026-05-01 04:52:04,762 - INFO - FLUKA OK: rs2_ep-1_step67.inp (407.0s)
+2026-05-01 04:52:05,749 - INFO - Ep-1 Step67: Reward=30.7206 | Success=True
+2026-05-01 04:52:05,749 - INFO - Eval 54: Reward=30.7206  State=[4.5, 15.0, 14.0, 800000.0, -45.0]
+2026-05-01 04:52:05,751 - INFO - Generated: rs2_ep-1_step68.inp | T=3.5, W=12.0x5.0, NPS=1000000, BEAMPOS=-25.0
+2026-05-01 04:52:06,338 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step68.inp']' returned non-zero exit status 12.
+2026-05-01 04:52:06,338 - WARNING - Eval 68 failed (total failed=14)
+2026-05-01 04:52:06,338 - INFO - Generated: rs2_ep-1_step69.inp | T=10.0, W=18.0x20.0, NPS=100000, BEAMPOS=-20.0
+2026-05-01 04:54:29,033 - INFO - FLUKA OK: rs2_ep-1_step69.inp (142.7s)
+2026-05-01 04:54:29,128 - INFO - Ep-1 Step69: Reward=32.8016 | Success=True
+2026-05-01 04:54:29,128 - INFO - Eval 55: Reward=32.8016  State=[10.0, 18.0, 20.0, 100000.0, -20.0]
+2026-05-01 04:54:29,128 - INFO - Generated: rs2_ep-1_step70.inp | T=2.5, W=16.0x18.0, NPS=600000, BEAMPOS=-25.0
+2026-05-01 04:57:28,899 - INFO - FLUKA OK: rs2_ep-1_step70.inp (179.8s)
+2026-05-01 04:57:29,351 - INFO - Ep-1 Step70: Reward=-3.5718 | Success=True
+2026-05-01 04:57:29,351 - INFO - Eval 56: Reward=-3.5718  State=[2.5, 16.0, 18.0, 600000.0, -25.0]
+2026-05-01 04:57:29,352 - INFO - Generated: rs2_ep-1_step71.inp | T=6.5, W=11.0x11.0, NPS=900000, BEAMPOS=-30.0
+2026-05-01 05:07:29,441 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step71.inp']' timed out after 600 seconds
+2026-05-01 05:07:29,441 - WARNING - Eval 71 failed (total failed=15)
+2026-05-01 05:07:29,441 - INFO - Generated: rs2_ep-1_step72.inp | T=6.0, W=19.0x14.0, NPS=800000, BEAMPOS=-25.0
+2026-05-01 05:17:04,107 - INFO - FLUKA OK: rs2_ep-1_step72.inp (574.7s)
+2026-05-01 05:17:04,239 - INFO - Ep-1 Step72: Reward=27.3623 | Success=True
+2026-05-01 05:17:04,241 - INFO - Eval 57: Reward=27.3623  State=[6.0, 19.0, 14.0, 800000.0, -25.0]
+2026-05-01 05:17:04,269 - INFO - Generated: rs2_ep-1_step73.inp | T=5.0, W=8.0x14.0, NPS=800000, BEAMPOS=-30.0
+2026-05-01 05:24:46,399 - INFO - FLUKA OK: rs2_ep-1_step73.inp (462.1s)
+2026-05-01 05:24:46,502 - INFO - Ep-1 Step73: Reward=28.3937 | Success=True
+2026-05-01 05:24:46,502 - INFO - Eval 58: Reward=28.3937  State=[5.0, 8.0, 14.0, 800000.0, -30.0]
+2026-05-01 05:24:46,502 - INFO - Generated: rs2_ep-1_step74.inp | T=6.0, W=14.0x18.0, NPS=500000, BEAMPOS=-35.0
+2026-05-01 05:30:37,889 - INFO - FLUKA OK: rs2_ep-1_step74.inp (351.4s)
+2026-05-01 05:30:38,808 - INFO - Ep-1 Step74: Reward=31.5974 | Success=True
+2026-05-01 05:30:38,809 - INFO - Eval 59: Reward=31.5974  State=[6.0, 14.0, 18.0, 500000.0, -35.0]
+2026-05-01 05:30:38,809 - INFO - Generated: rs2_ep-1_step75.inp | T=6.0, W=10.0x18.0, NPS=100000, BEAMPOS=-45.0
+2026-05-01 05:32:03,739 - INFO - FLUKA OK: rs2_ep-1_step75.inp (84.9s)
+2026-05-01 05:32:03,780 - INFO - Ep-1 Step75: Reward=25.7397 | Success=True
+2026-05-01 05:32:03,781 - INFO - Eval 60: Reward=25.7397  State=[6.0, 10.0, 18.0, 100000.0, -45.0]
+2026-05-01 05:32:03,815 - INFO - Generated: rs2_ep-1_step76.inp | T=8.0, W=11.0x14.0, NPS=100000, BEAMPOS=-40.0
+2026-05-01 05:33:53,111 - INFO - FLUKA OK: rs2_ep-1_step76.inp (109.3s)
+2026-05-01 05:33:53,142 - INFO - Ep-1 Step76: Reward=27.1413 | Success=True
+2026-05-01 05:33:53,142 - INFO - Eval 61: Reward=27.1413  State=[8.0, 11.0, 14.0, 100000.0, -40.0]
+2026-05-01 05:33:53,142 - INFO - Generated: rs2_ep-1_step77.inp | T=10.0, W=8.0x9.0, NPS=200000, BEAMPOS=-10.0
+2026-05-01 05:38:03,984 - INFO - FLUKA OK: rs2_ep-1_step77.inp (250.8s)
+2026-05-01 05:38:04,070 - INFO - Ep-1 Step77: Reward=29.7072 | Success=True
+2026-05-01 05:38:04,071 - INFO - Eval 62: Reward=29.7072  State=[10.0, 8.0, 9.0, 200000.0, -10.0]
+2026-05-01 05:38:04,071 - INFO - Generated: rs2_ep-1_step78.inp | T=6.0, W=10.0x14.0, NPS=900000, BEAMPOS=-15.0
+2026-05-01 05:48:04,232 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step78.inp']' timed out after 600 seconds
+2026-05-01 05:48:04,232 - WARNING - Eval 78 failed (total failed=16)
+2026-05-01 05:48:04,329 - INFO - Generated: rs2_ep-1_step79.inp | T=7.0, W=10.0x12.0, NPS=800000, BEAMPOS=-25.0
+2026-05-01 05:58:04,421 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step79.inp']' timed out after 600 seconds
+2026-05-01 05:58:04,421 - WARNING - Eval 79 failed (total failed=17)
+2026-05-01 05:58:04,421 - INFO - Generated: rs2_ep-1_step80.inp | T=5.0, W=12.0x7.0, NPS=100000, BEAMPOS=-25.0
+2026-05-01 05:59:26,868 - INFO - FLUKA OK: rs2_ep-1_step80.inp (82.4s)
+2026-05-01 05:59:27,144 - INFO - Ep-1 Step80: Reward=1.4477 | Success=True
+2026-05-01 05:59:27,144 - INFO - Eval 63: Reward=1.4477  State=[5.0, 12.0, 7.0, 100000.0, -25.0]
+2026-05-01 05:59:27,145 - INFO - Generated: rs2_ep-1_step81.inp | T=5.5, W=11.0x16.0, NPS=800000, BEAMPOS=-40.0
+2026-05-01 06:07:45,872 - INFO - FLUKA OK: rs2_ep-1_step81.inp (498.7s)
+2026-05-01 06:07:45,917 - INFO - Ep-1 Step81: Reward=26.7501 | Success=True
+2026-05-01 06:07:45,920 - INFO - Eval 64: Reward=26.7501  State=[5.5, 11.0, 16.0, 800000.0, -40.0]
+2026-05-01 06:07:45,920 - INFO - Generated: rs2_ep-1_step82.inp | T=9.0, W=17.0x20.0, NPS=800000, BEAMPOS=-20.0
+2026-05-01 06:17:45,979 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step82.inp']' timed out after 600 seconds
+2026-05-01 06:17:46,020 - WARNING - Eval 82 failed (total failed=18)
+2026-05-01 06:17:46,049 - INFO - Generated: rs2_ep-1_step83.inp | T=6.0, W=7.0x14.0, NPS=200000, BEAMPOS=-10.0
+2026-05-01 06:20:30,223 - INFO - FLUKA OK: rs2_ep-1_step83.inp (164.2s)
+2026-05-01 06:20:30,365 - INFO - Ep-1 Step83: Reward=26.7012 | Success=True
+2026-05-01 06:20:30,365 - INFO - Eval 65: Reward=26.7012  State=[6.0, 7.0, 14.0, 200000.0, -10.0]
+2026-05-01 06:20:30,374 - INFO - Generated: rs2_ep-1_step84.inp | T=2.0, W=18.0x17.0, NPS=900000, BEAMPOS=-45.0
+2026-05-01 06:24:11,775 - INFO - FLUKA OK: rs2_ep-1_step84.inp (221.4s)
+2026-05-01 06:24:11,963 - INFO - Ep-1 Step84: Reward=14.5018 | Success=True
+2026-05-01 06:24:11,965 - INFO - Eval 66: Reward=14.5018  State=[2.0, 18.0, 17.0, 900000.0, -45.0]
+2026-05-01 06:24:11,965 - INFO - Generated: rs2_ep-1_step85.inp | T=3.0, W=8.0x10.0, NPS=600000, BEAMPOS=-35.0
+2026-05-01 06:27:57,935 - INFO - FLUKA OK: rs2_ep-1_step85.inp (226.0s)
+2026-05-01 06:27:58,392 - INFO - Ep-1 Step85: Reward=21.0591 | Success=True
+2026-05-01 06:27:58,392 - INFO - Eval 67: Reward=21.0591  State=[3.0, 8.0, 10.0, 600000.0, -35.0]
+2026-05-01 06:27:58,415 - INFO - Generated: rs2_ep-1_step86.inp | T=6.5, W=17.0x11.0, NPS=800000, BEAMPOS=-10.0
+2026-05-01 06:37:03,300 - INFO - FLUKA OK: rs2_ep-1_step86.inp (544.9s)
+2026-05-01 06:37:03,694 - INFO - Ep-1 Step86: Reward=29.5802 | Success=True
+2026-05-01 06:37:03,694 - INFO - Eval 68: Reward=29.5802  State=[6.5, 17.0, 11.0, 800000.0, -10.0]
+2026-05-01 06:37:03,777 - INFO - Generated: rs2_ep-1_step87.inp | T=10.0, W=16.0x10.0, NPS=500000, BEAMPOS=-50.0
+2026-05-01 06:46:05,698 - INFO - FLUKA OK: rs2_ep-1_step87.inp (541.9s)
+2026-05-01 06:46:05,750 - INFO - Ep-1 Step87: Reward=35.2279 | Success=True
+2026-05-01 06:46:05,750 - INFO - Eval 69: Reward=35.2279  State=[10.0, 16.0, 10.0, 500000.0, -50.0]
+2026-05-01 06:46:05,751 - INFO - Generated: rs2_ep-1_step88.inp | T=7.5, W=19.0x8.0, NPS=500000, BEAMPOS=-45.0
+2026-05-01 06:52:17,692 - INFO - FLUKA OK: rs2_ep-1_step88.inp (371.9s)
+2026-05-01 06:52:17,753 - INFO - Ep-1 Step88: Reward=26.7879 | Success=True
+2026-05-01 06:52:17,753 - INFO - Eval 70: Reward=26.7879  State=[7.5, 19.0, 8.0, 500000.0, -45.0]
+2026-05-01 06:52:17,753 - INFO - Generated: rs2_ep-1_step89.inp | T=6.5, W=13.0x10.0, NPS=600000, BEAMPOS=-40.0
+2026-05-01 06:58:47,286 - INFO - FLUKA OK: rs2_ep-1_step89.inp (389.5s)
+2026-05-01 06:58:47,503 - INFO - Ep-1 Step89: Reward=25.4063 | Success=True
+2026-05-01 06:58:47,503 - INFO - Eval 71: Reward=25.4063  State=[6.5, 13.0, 10.0, 600000.0, -40.0]
+2026-05-01 06:58:47,503 - INFO - Generated: rs2_ep-1_step90.inp | T=6.0, W=15.0x6.0, NPS=200000, BEAMPOS=-40.0
+2026-05-01 07:00:51,808 - INFO - FLUKA OK: rs2_ep-1_step90.inp (124.3s)
+2026-05-01 07:00:52,067 - INFO - Ep-1 Step90: Reward=24.6138 | Success=True
+2026-05-01 07:00:52,067 - INFO - Eval 72: Reward=24.6138  State=[6.0, 15.0, 6.0, 200000.0, -40.0]
+2026-05-01 07:00:52,067 - INFO - Generated: rs2_ep-1_step91.inp | T=7.0, W=10.0x12.0, NPS=100000, BEAMPOS=-35.0
+2026-05-01 07:02:27,405 - INFO - FLUKA OK: rs2_ep-1_step91.inp (95.3s)
+2026-05-01 07:02:27,438 - INFO - Ep-1 Step91: Reward=24.3086 | Success=True
+2026-05-01 07:02:27,439 - INFO - Eval 73: Reward=24.3086  State=[7.0, 10.0, 12.0, 100000.0, -35.0]
+2026-05-01 07:02:27,439 - INFO - Generated: rs2_ep-1_step92.inp | T=6.5, W=9.0x15.0, NPS=700000, BEAMPOS=-35.0
+2026-05-01 07:10:05,173 - INFO - FLUKA OK: rs2_ep-1_step92.inp (457.7s)
+2026-05-01 07:10:05,404 - INFO - Ep-1 Step92: Reward=32.5764 | Success=True
+2026-05-01 07:10:05,404 - INFO - Eval 74: Reward=32.5764  State=[6.5, 9.0, 15.0, 700000.0, -35.0]
+2026-05-01 07:10:05,508 - INFO - Generated: rs2_ep-1_step93.inp | T=6.5, W=13.0x11.0, NPS=1000000, BEAMPOS=-10.0
+2026-05-01 07:10:06,064 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step93.inp']' returned non-zero exit status 12.
+2026-05-01 07:10:06,065 - WARNING - Eval 93 failed (total failed=19)
+2026-05-01 07:10:06,065 - INFO - Generated: rs2_ep-1_step94.inp | T=7.0, W=12.0x16.0, NPS=100000, BEAMPOS=-10.0
+2026-05-01 07:11:27,653 - INFO - FLUKA OK: rs2_ep-1_step94.inp (81.6s)
+2026-05-01 07:11:27,710 - INFO - Ep-1 Step94: Reward=25.9335 | Success=True
+2026-05-01 07:11:27,710 - INFO - Eval 75: Reward=25.9335  State=[7.0, 12.0, 16.0, 100000.0, -10.0]
+2026-05-01 07:11:27,710 - INFO - Generated: rs2_ep-1_step95.inp | T=10.0, W=8.0x9.0, NPS=600000, BEAMPOS=-35.0
+2026-05-01 07:21:27,807 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step95.inp']' timed out after 600 seconds
+2026-05-01 07:21:27,807 - WARNING - Eval 95 failed (total failed=20)
+2026-05-01 07:21:27,807 - INFO - Generated: rs2_ep-1_step96.inp | T=5.5, W=14.0x10.0, NPS=600000, BEAMPOS=-35.0
+2026-05-01 07:27:03,535 - INFO - FLUKA OK: rs2_ep-1_step96.inp (335.7s)
+2026-05-01 07:27:03,628 - INFO - Ep-1 Step96: Reward=25.7338 | Success=True
+2026-05-01 07:27:03,628 - INFO - Eval 76: Reward=25.7338  State=[5.5, 14.0, 10.0, 600000.0, -35.0]
+2026-05-01 07:27:03,628 - INFO - Generated: rs2_ep-1_step97.inp | T=5.0, W=14.0x15.0, NPS=500000, BEAMPOS=-25.0
+2026-05-01 07:31:11,654 - INFO - FLUKA OK: rs2_ep-1_step97.inp (248.0s)
+2026-05-01 07:31:11,984 - INFO - Ep-1 Step97: Reward=31.9639 | Success=True
+2026-05-01 07:31:11,984 - INFO - Eval 77: Reward=31.9639  State=[5.0, 14.0, 15.0, 500000.0, -25.0]
+2026-05-01 07:31:11,984 - INFO - Generated: rs2_ep-1_step98.inp | T=2.0, W=11.0x13.0, NPS=400000, BEAMPOS=-15.0
+2026-05-01 07:32:39,745 - INFO - FLUKA OK: rs2_ep-1_step98.inp (87.8s)
+2026-05-01 07:32:39,953 - INFO - Ep-1 Step98: Reward=15.2127 | Success=True
+2026-05-01 07:32:39,953 - INFO - Eval 78: Reward=15.2127  State=[2.0, 11.0, 13.0, 400000.0, -15.0]
+2026-05-01 07:32:39,953 - INFO - Generated: rs2_ep-1_step99.inp | T=7.0, W=12.0x18.0, NPS=1000000, BEAMPOS=-30.0
+2026-05-01 07:32:40,485 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step99.inp']' returned non-zero exit status 12.
+2026-05-01 07:32:40,485 - WARNING - Eval 99 failed (total failed=21)
+2026-05-01 07:32:40,486 - INFO - Generated: rs2_ep-1_step100.inp | T=7.5, W=7.0x19.0, NPS=100000, BEAMPOS=-35.0
+2026-05-01 07:34:03,953 - INFO - FLUKA OK: rs2_ep-1_step100.inp (83.5s)
+2026-05-01 07:34:04,333 - INFO - Ep-1 Step100: Reward=-2.4702 | Success=True
+2026-05-01 07:34:04,333 - INFO - Eval 79: Reward=-2.4702  State=[7.5, 7.0, 19.0, 100000.0, -35.0]
+2026-05-01 07:34:04,333 - INFO - Generated: rs2_ep-1_step101.inp | T=6.5, W=15.0x9.0, NPS=200000, BEAMPOS=-20.0
+2026-05-01 07:36:19,974 - INFO - FLUKA OK: rs2_ep-1_step101.inp (135.6s)
+2026-05-01 07:36:20,267 - INFO - Ep-1 Step101: Reward=24.7767 | Success=True
+2026-05-01 07:36:20,267 - INFO - Eval 80: Reward=24.7767  State=[6.5, 15.0, 9.0, 200000.0, -20.0]
+2026-05-01 07:36:20,267 - INFO - Generated: rs2_ep-1_step102.inp | T=5.0, W=9.0x13.0, NPS=1000000, BEAMPOS=-50.0
+2026-05-01 07:36:20,763 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step102.inp']' returned non-zero exit status 12.
+2026-05-01 07:36:20,763 - WARNING - Eval 102 failed (total failed=22)
+2026-05-01 07:36:20,763 - INFO - Generated: rs2_ep-1_step103.inp | T=9.0, W=20.0x20.0, NPS=500000, BEAMPOS=-50.0
+2026-05-01 07:44:27,935 - INFO - FLUKA OK: rs2_ep-1_step103.inp (487.2s)
+2026-05-01 07:44:28,122 - INFO - Ep-1 Step103: Reward=28.5780 | Success=True
+2026-05-01 07:44:28,122 - INFO - Eval 81: Reward=28.5780  State=[9.0, 20.0, 20.0, 500000.0, -50.0]
+2026-05-01 07:44:28,122 - INFO - Generated: rs2_ep-1_step104.inp | T=3.0, W=12.0x19.0, NPS=600000, BEAMPOS=-50.0
+2026-05-01 07:47:22,926 - INFO - FLUKA OK: rs2_ep-1_step104.inp (174.8s)
+2026-05-01 07:47:22,961 - INFO - Ep-1 Step104: Reward=21.0546 | Success=True
+2026-05-01 07:47:22,961 - INFO - Eval 82: Reward=21.0546  State=[3.0, 12.0, 19.0, 600000.0, -50.0]
+2026-05-01 07:47:22,961 - INFO - Generated: rs2_ep-1_step105.inp | T=5.0, W=9.0x19.0, NPS=900000, BEAMPOS=-20.0
+2026-05-01 07:54:15,660 - INFO - FLUKA OK: rs2_ep-1_step105.inp (412.7s)
+2026-05-01 07:54:15,764 - INFO - Ep-1 Step105: Reward=27.0570 | Success=True
+2026-05-01 07:54:15,765 - INFO - Eval 83: Reward=27.0570  State=[5.0, 9.0, 19.0, 900000.0, -20.0]
+2026-05-01 07:54:15,765 - INFO - Generated: rs2_ep-1_step106.inp | T=9.0, W=16.0x16.0, NPS=300000, BEAMPOS=-30.0
+2026-05-01 07:58:57,794 - INFO - FLUKA OK: rs2_ep-1_step106.inp (282.0s)
+2026-05-01 07:58:57,826 - INFO - Ep-1 Step106: Reward=34.2584 | Success=True
+2026-05-01 07:58:57,826 - INFO - Eval 84: Reward=34.2584  State=[9.0, 16.0, 16.0, 300000.0, -30.0]
+2026-05-01 07:58:57,827 - INFO - Generated: rs2_ep-1_step107.inp | T=3.0, W=18.0x7.0, NPS=300000, BEAMPOS=-15.0
+2026-05-01 08:00:27,048 - INFO - FLUKA OK: rs2_ep-1_step107.inp (89.2s)
+2026-05-01 08:00:27,101 - INFO - Ep-1 Step107: Reward=21.7937 | Success=True
+2026-05-01 08:00:27,101 - INFO - Eval 85: Reward=21.7937  State=[3.0, 18.0, 7.0, 300000.0, -15.0]
+2026-05-01 08:00:27,102 - INFO - Generated: rs2_ep-1_step108.inp | T=2.0, W=6.0x10.0, NPS=500000, BEAMPOS=-40.0
+2026-05-01 08:02:08,364 - INFO - FLUKA OK: rs2_ep-1_step108.inp (101.3s)
+2026-05-01 08:02:08,632 - INFO - Ep-1 Step108: Reward=17.2126 | Success=True
+2026-05-01 08:02:08,632 - INFO - Eval 86: Reward=17.2126  State=[2.0, 6.0, 10.0, 500000.0, -40.0]
+2026-05-01 08:02:08,632 - INFO - Generated: rs2_ep-1_step109.inp | T=7.5, W=18.0x11.0, NPS=500000, BEAMPOS=-25.0
+2026-05-01 08:08:11,678 - INFO - FLUKA OK: rs2_ep-1_step109.inp (363.0s)
+2026-05-01 08:08:11,752 - INFO - Ep-1 Step109: Reward=32.5592 | Success=True
+2026-05-01 08:08:11,753 - INFO - Eval 87: Reward=32.5592  State=[7.5, 18.0, 11.0, 500000.0, -25.0]
+2026-05-01 08:08:11,753 - INFO - Generated: rs2_ep-1_step110.inp | T=4.5, W=14.0x7.0, NPS=500000, BEAMPOS=-40.0
+2026-05-01 08:11:36,090 - INFO - FLUKA OK: rs2_ep-1_step110.inp (204.3s)
+2026-05-01 08:11:36,866 - INFO - Ep-1 Step110: Reward=-2.1533 | Success=True
+2026-05-01 08:11:36,867 - INFO - Eval 88: Reward=-2.1533  State=[4.5, 14.0, 7.0, 500000.0, -40.0]
+2026-05-01 08:11:36,926 - INFO - Generated: rs2_ep-1_step111.inp | T=8.0, W=14.0x10.0, NPS=800000, BEAMPOS=-40.0
+2026-05-01 08:21:37,047 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step111.inp']' timed out after 600 seconds
+2026-05-01 08:21:37,048 - WARNING - Eval 111 failed (total failed=23)
+2026-05-01 08:21:37,048 - INFO - Generated: rs2_ep-1_step112.inp | T=3.5, W=16.0x15.0, NPS=400000, BEAMPOS=-45.0
+2026-05-01 08:23:51,689 - INFO - FLUKA OK: rs2_ep-1_step112.inp (134.6s)
+2026-05-01 08:23:51,784 - INFO - Ep-1 Step112: Reward=24.9655 | Success=True
+2026-05-01 08:23:51,784 - INFO - Eval 89: Reward=24.9655  State=[3.5, 16.0, 15.0, 400000.0, -45.0]
+2026-05-01 08:23:51,785 - INFO - Generated: rs2_ep-1_step113.inp | T=6.0, W=15.0x12.0, NPS=500000, BEAMPOS=-10.0
+2026-05-01 08:28:30,566 - INFO - FLUKA OK: rs2_ep-1_step113.inp (278.8s)
+2026-05-01 08:28:30,939 - INFO - Ep-1 Step113: Reward=25.8662 | Success=True
+2026-05-01 08:28:30,939 - INFO - Eval 90: Reward=25.8662  State=[6.0, 15.0, 12.0, 500000.0, -10.0]
+2026-05-01 08:28:30,939 - INFO - Generated: rs2_ep-1_step114.inp | T=10.0, W=7.0x12.0, NPS=700000, BEAMPOS=-20.0
+2026-05-01 08:38:31,008 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step114.inp']' timed out after 600 seconds
+2026-05-01 08:38:31,008 - WARNING - Eval 114 failed (total failed=24)
+2026-05-01 08:38:31,009 - INFO - Generated: rs2_ep-1_step115.inp | T=9.5, W=9.0x10.0, NPS=1000000, BEAMPOS=-15.0
+2026-05-01 08:38:31,632 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step115.inp']' returned non-zero exit status 12.
+2026-05-01 08:38:31,632 - WARNING - Eval 115 failed (total failed=25)
+2026-05-01 08:38:31,633 - INFO - Generated: rs2_ep-1_step116.inp | T=5.5, W=13.0x11.0, NPS=300000, BEAMPOS=-45.0
+2026-05-01 08:41:15,536 - INFO - FLUKA OK: rs2_ep-1_step116.inp (163.9s)
+2026-05-01 08:41:15,670 - INFO - Ep-1 Step116: Reward=25.7211 | Success=True
+2026-05-01 08:41:15,670 - INFO - Eval 91: Reward=25.7211  State=[5.5, 13.0, 11.0, 300000.0, -45.0]
+2026-05-01 08:41:15,670 - INFO - Generated: rs2_ep-1_step117.inp | T=5.0, W=14.0x6.0, NPS=300000, BEAMPOS=-10.0
+2026-05-01 08:43:42,195 - INFO - FLUKA OK: rs2_ep-1_step117.inp (146.5s)
+2026-05-01 08:43:42,345 - INFO - Ep-1 Step117: Reward=23.4136 | Success=True
+2026-05-01 08:43:42,345 - INFO - Eval 92: Reward=23.4136  State=[5.0, 14.0, 6.0, 300000.0, -10.0]
+2026-05-01 08:43:42,345 - INFO - Generated: rs2_ep-1_step118.inp | T=8.5, W=6.0x5.0, NPS=700000, BEAMPOS=-10.0
+2026-05-01 08:52:33,885 - INFO - FLUKA OK: rs2_ep-1_step118.inp (531.5s)
+2026-05-01 08:52:34,259 - INFO - Ep-1 Step118: Reward=29.5282 | Success=True
+2026-05-01 08:52:34,259 - INFO - Eval 93: Reward=29.5282  State=[8.5, 6.0, 5.0, 700000.0, -10.0]
+2026-05-01 08:52:34,259 - INFO - Generated: rs2_ep-1_step119.inp | T=6.5, W=7.0x9.0, NPS=600000, BEAMPOS=-15.0
+2026-05-01 08:58:34,159 - INFO - FLUKA OK: rs2_ep-1_step119.inp (359.9s)
+2026-05-01 08:58:34,514 - INFO - Ep-1 Step119: Reward=30.3860 | Success=True
+2026-05-01 08:58:34,514 - INFO - Eval 94: Reward=30.3860  State=[6.5, 7.0, 9.0, 600000.0, -15.0]
+2026-05-01 08:58:34,515 - INFO - Generated: rs2_ep-1_step120.inp | T=4.0, W=8.0x6.0, NPS=600000, BEAMPOS=-40.0
+2026-05-01 09:02:08,308 - INFO - FLUKA OK: rs2_ep-1_step120.inp (213.8s)
+2026-05-01 09:02:08,442 - INFO - Ep-1 Step120: Reward=-3.0367 | Success=True
+2026-05-01 09:02:08,442 - INFO - Eval 95: Reward=-3.0367  State=[4.0, 8.0, 6.0, 600000.0, -40.0]
+2026-05-01 09:02:08,442 - INFO - Generated: rs2_ep-1_step121.inp | T=7.0, W=8.0x13.0, NPS=800000, BEAMPOS=-45.0
+2026-05-01 09:10:27,688 - INFO - FLUKA OK: rs2_ep-1_step121.inp (499.2s)
+2026-05-01 09:10:27,856 - INFO - Ep-1 Step121: Reward=33.2913 | Success=True
+2026-05-01 09:10:27,856 - INFO - Eval 96: Reward=33.2913  State=[7.0, 8.0, 13.0, 800000.0, -45.0]
+2026-05-01 09:10:27,857 - INFO - Generated: rs2_ep-1_step122.inp | T=6.0, W=18.0x8.0, NPS=500000, BEAMPOS=-30.0
+2026-05-01 09:14:51,185 - INFO - FLUKA OK: rs2_ep-1_step122.inp (263.3s)
+2026-05-01 09:14:51,233 - INFO - Ep-1 Step122: Reward=27.2628 | Success=True
+2026-05-01 09:14:51,233 - INFO - Eval 97: Reward=27.2628  State=[6.0, 18.0, 8.0, 500000.0, -30.0]
+2026-05-01 09:14:51,233 - INFO - Generated: rs2_ep-1_step123.inp | T=9.5, W=6.0x19.0, NPS=500000, BEAMPOS=-30.0
+2026-05-01 09:22:09,113 - INFO - FLUKA OK: rs2_ep-1_step123.inp (437.9s)
+2026-05-01 09:22:09,667 - INFO - Ep-1 Step123: Reward=29.9990 | Success=True
+2026-05-01 09:22:09,668 - INFO - Eval 98: Reward=29.9990  State=[9.5, 6.0, 19.0, 500000.0, -30.0]
+2026-05-01 09:22:09,668 - INFO - Generated: rs2_ep-1_step124.inp | T=9.0, W=19.0x17.0, NPS=900000, BEAMPOS=-20.0
+2026-05-01 09:32:09,968 - ERROR - FLUKA failed: Command '['rfluka', '-M', '5', 'rs2_ep-1_step124.inp']' timed out after 600 seconds
+2026-05-01 09:32:09,968 - WARNING - Eval 124 failed (total failed=26)
+2026-05-01 09:32:09,969 - INFO - Generated: rs2_ep-1_step125.inp | T=7.0, W=12.0x15.0, NPS=100000, BEAMPOS=-50.0
+2026-05-01 09:33:24,392 - INFO - FLUKA OK: rs2_ep-1_step125.inp (74.4s)
+2026-05-01 09:33:24,469 - INFO - Ep-1 Step125: Reward=27.8260 | Success=True
+2026-05-01 09:33:24,469 - INFO - Eval 99: Reward=27.8260  State=[7.0, 12.0, 15.0, 100000.0, -50.0]
+2026-05-01 09:33:24,470 - INFO - Generated: rs2_ep-1_step126.inp | T=7.5, W=19.0x14.0, NPS=200000, BEAMPOS=-25.0
+2026-05-01 09:35:54,541 - INFO - FLUKA OK: rs2_ep-1_step126.inp (150.1s)
+2026-05-01 09:35:54,619 - INFO - Ep-1 Step126: Reward=32.5706 | Success=True
+2026-05-01 09:35:54,619 - INFO - Eval 100: Reward=32.5706  State=[7.5, 19.0, 14.0, 200000.0, -25.0]
