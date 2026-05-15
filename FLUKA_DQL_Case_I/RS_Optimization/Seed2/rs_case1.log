@@ -1,0 +1,515 @@
+2026-05-07 19:06:49,281 - INFO - FLUKA OK: abl_rs_ep-1_step1.inp (38.7s)
+2026-05-07 19:06:49,283 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:06:49,283 - INFO - Ep-1 Step1: HCNO: N=31.4%  H=9.5%  C=26.7%  O=32.4%
+2026-05-07 19:06:49,283 - INFO - Ep-1 Step1: Reward=22.9306
+2026-05-07 19:06:49,283 - INFO - Eval 1: Reward=22.9306  State=[5.0, 7.0, 2.0, 4.0, 6.0, 3.5, 7.0]
+2026-05-07 19:06:49,283 - INFO - New Best: 22.9306 at eval 1
+2026-05-07 19:07:26,145 - INFO - FLUKA OK: abl_rs_ep-1_step2.inp (36.9s)
+2026-05-07 19:07:26,147 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:07:26,148 - INFO - Ep-1 Step2: HCNO: N=43.4%  H=7.5%  C=21.5%  O=27.6%
+2026-05-07 19:07:26,148 - INFO - Ep-1 Step2: Reward=25.9369
+2026-05-07 19:07:26,148 - INFO - Eval 2: Reward=25.9369  State=[7.5, 2.5, 7.0, 4.5, 5.0, 5.0, 2.0]
+2026-05-07 19:07:26,148 - INFO - New Best: 25.9369 at eval 2
+2026-05-07 19:08:04,216 - INFO - FLUKA OK: abl_rs_ep-1_step3.inp (38.1s)
+2026-05-07 19:08:04,221 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:08:04,221 - INFO - Ep-1 Step3: HCNO: N=47.9%  H=6.1%  C=24.7%  O=21.2%
+2026-05-07 19:08:04,221 - INFO - Ep-1 Step3: Reward=13.4883
+2026-05-07 19:08:04,222 - INFO - Eval 3: Reward=13.4883  State=[4.5, 5.5, 3.5, 2.5, 3.0, 7.5, 4.0]
+2026-05-07 19:08:43,832 - INFO - FLUKA OK: abl_rs_ep-1_step4.inp (39.6s)
+2026-05-07 19:08:43,834 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:08:43,835 - INFO - Ep-1 Step4: HCNO: N=39.2%  H=6.6%  C=22.7%  O=31.6%
+2026-05-07 19:08:43,835 - INFO - Ep-1 Step4: Reward=32.1798
+2026-05-07 19:08:43,835 - INFO - Eval 4: Reward=32.1798  State=[3.5, 4.0, 3.5, 3.0, 4.5, 5.0, 2.5]
+2026-05-07 19:08:43,835 - INFO - New Best: 32.1798 at eval 4
+2026-05-07 19:09:28,223 - INFO - FLUKA OK: abl_rs_ep-1_step5.inp (44.4s)
+2026-05-07 19:09:28,407 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:09:28,499 - INFO - Ep-1 Step5: HCNO: N=36.4%  H=9.7%  C=19.8%  O=34.2%
+2026-05-07 19:09:28,499 - INFO - Ep-1 Step5: Reward=21.6946
+2026-05-07 19:09:28,499 - INFO - Eval 5: Reward=21.6946  State=[5.0, 4.5, 7.0, 2.5, 3.0, 6.5, 3.5]
+2026-05-07 19:10:33,720 - INFO - FLUKA OK: abl_rs_ep-1_step6.inp (65.2s)
+2026-05-07 19:10:33,762 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:10:33,772 - INFO - Ep-1 Step6: HCNO: N=31.6%  H=8.6%  C=25.7%  O=34.1%
+2026-05-07 19:10:33,772 - INFO - Ep-1 Step6: Reward=7.0262
+2026-05-07 19:10:33,772 - INFO - Eval 6: Reward=7.0262  State=[3.5, 7.5, 2.5, 6.5, 7.0, 6.5, 5.0]
+2026-05-07 19:11:34,634 - INFO - FLUKA OK: abl_rs_ep-1_step7.inp (60.8s)
+2026-05-07 19:11:34,788 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:11:34,973 - INFO - Ep-1 Step7: HCNO: N=44.3%  H=10.7%  C=19.3%  O=25.7%
+2026-05-07 19:11:34,973 - INFO - Ep-1 Step7: Reward=22.7732
+2026-05-07 19:11:34,974 - INFO - Eval 7: Reward=22.7732  State=[7.5, 2.5, 3.5, 7.0, 5.0, 3.0, 7.0]
+2026-05-07 19:12:31,947 - INFO - FLUKA OK: abl_rs_ep-1_step8.inp (56.7s)
+2026-05-07 19:12:31,951 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:12:31,979 - INFO - Ep-1 Step8: HCNO: N=35.4%  H=18.6%  C=21.7%  O=24.3%
+2026-05-07 19:12:31,979 - INFO - Ep-1 Step8: Reward=13.9848
+2026-05-07 19:12:31,979 - INFO - Eval 8: Reward=13.9848  State=[4.5, 5.0, 6.5, 2.5, 6.5, 6.0, 9.0]
+2026-05-07 19:13:37,117 - INFO - FLUKA OK: abl_rs_ep-1_step9.inp (65.1s)
+2026-05-07 19:13:37,126 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:13:37,127 - INFO - Ep-1 Step9: HCNO: N=26.0%  H=5.4%  C=20.9%  O=47.7%
+2026-05-07 19:13:37,127 - INFO - Ep-1 Step9: Reward=12.6223
+2026-05-07 19:13:37,128 - INFO - Eval 9: Reward=12.6223  State=[3.5, 7.5, 7.0, 6.5, 6.0, 7.5, 6.0]
+2026-05-07 19:14:38,347 - INFO - FLUKA OK: abl_rs_ep-1_step10.inp (61.2s)
+2026-05-07 19:14:38,571 - WARNING - prefix 'abl_rs_ep-1_step10' unit 24: expected 5 cycle files, found 10: ['abl_rs_ep-1_step10001_fort.24', 'abl_rs_ep-1_step10002_fort.24', 'abl_rs_ep-1_step10003_fort.24', 'abl_rs_ep-1_step10004_fort.24', 'abl_rs_ep-1_step10005_fort.24', 'abl_rs_ep-1_step1001_fort.24', 'abl_rs_ep-1_step1002_fort.24', 'abl_rs_ep-1_step1003_fort.24', 'abl_rs_ep-1_step1004_fort.24', 'abl_rs_ep-1_step1005_fort.24']
+2026-05-07 19:14:38,847 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 19:14:38,849 - INFO - Ep-1 Step10: HCNO: N=38.9%  H=10.5%  C=20.2%  O=30.5%
+2026-05-07 19:14:38,849 - INFO - Ep-1 Step10: Reward=26.7378
+2026-05-07 19:14:38,849 - INFO - Eval 10: Reward=26.7378  State=[6.5, 6.0, 3.0, 6.5, 2.5, 3.0, 4.0]
+2026-05-07 19:15:40,997 - INFO - FLUKA OK: abl_rs_ep-1_step11.inp (62.1s)
+2026-05-07 19:15:41,131 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step11_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:15:41,131 - INFO - Ep-1 Step11: HCNO: N=25.1%  H=11.5%  C=25.5%  O=37.9%
+2026-05-07 19:15:41,131 - INFO - Ep-1 Step11: Reward=13.8937
+2026-05-07 19:15:41,132 - INFO - Eval 11: Reward=13.8937  State=[7.5, 6.5, 6.5, 5.0, 3.0, 6.0, 1.5]
+2026-05-07 19:16:35,086 - INFO - FLUKA OK: abl_rs_ep-1_step12.inp (53.9s)
+2026-05-07 19:16:35,091 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step12_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:16:35,143 - INFO - Ep-1 Step12: HCNO: N=40.9%  H=9.2%  C=15.0%  O=34.9%
+2026-05-07 19:16:35,143 - INFO - Ep-1 Step12: Reward=23.8407
+2026-05-07 19:16:35,146 - INFO - Eval 12: Reward=23.8407  State=[6.5, 6.0, 3.0, 3.5, 2.5, 6.0, 6.5]
+2026-05-07 19:17:29,316 - INFO - FLUKA OK: abl_rs_ep-1_step13.inp (54.2s)
+2026-05-07 19:17:29,379 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step13_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:17:29,401 - INFO - Ep-1 Step13: HCNO: N=43.5%  H=11.6%  C=22.5%  O=22.4%
+2026-05-07 19:17:29,401 - INFO - Ep-1 Step13: Reward=19.0672
+2026-05-07 19:17:29,401 - INFO - Eval 13: Reward=19.0672  State=[4.0, 6.0, 5.0, 4.5, 5.0, 8.0, 3.0]
+2026-05-07 19:18:19,539 - INFO - FLUKA OK: abl_rs_ep-1_step14.inp (50.1s)
+2026-05-07 19:18:20,109 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step14_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:18:20,112 - INFO - Ep-1 Step14: HCNO: N=31.5%  H=5.4%  C=27.1%  O=36.0%
+2026-05-07 19:18:20,112 - INFO - Ep-1 Step14: Reward=24.6337
+2026-05-07 19:18:20,112 - INFO - Eval 14: Reward=24.6337  State=[7.0, 7.0, 2.5, 2.5, 3.0, 2.5, 6.5]
+2026-05-07 19:19:07,490 - INFO - FLUKA OK: abl_rs_ep-1_step15.inp (47.4s)
+2026-05-07 19:19:07,576 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step15_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:19:07,577 - INFO - Ep-1 Step15: HCNO: N=45.7%  H=11.1%  C=16.8%  O=26.5%
+2026-05-07 19:19:07,577 - INFO - Ep-1 Step15: Reward=25.6056
+2026-05-07 19:19:07,577 - INFO - Eval 15: Reward=25.6056  State=[6.5, 4.0, 2.5, 5.0, 8.0, 3.5, 5.5]
+2026-05-07 19:19:55,343 - INFO - FLUKA OK: abl_rs_ep-1_step16.inp (47.7s)
+2026-05-07 19:19:55,366 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step16_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:19:55,375 - INFO - Ep-1 Step16: HCNO: N=31.0%  H=11.1%  C=23.3%  O=34.7%
+2026-05-07 19:19:55,375 - INFO - Ep-1 Step16: Reward=23.5237
+2026-05-07 19:19:55,375 - INFO - Eval 16: Reward=23.5237  State=[4.0, 2.5, 3.5, 5.5, 4.5, 6.5, 1.5]
+2026-05-07 19:20:44,372 - INFO - FLUKA OK: abl_rs_ep-1_step17.inp (49.0s)
+2026-05-07 19:20:44,424 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step17_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:20:44,425 - INFO - Ep-1 Step17: HCNO: N=27.2%  H=13.1%  C=24.8%  O=34.9%
+2026-05-07 19:20:44,425 - INFO - Ep-1 Step17: Reward=29.1956
+2026-05-07 19:20:44,425 - INFO - Eval 17: Reward=29.1956  State=[3.0, 5.0, 2.5, 5.5, 4.0, 3.5, 3.0]
+2026-05-07 19:21:18,703 - INFO - FLUKA OK: abl_rs_ep-1_step18.inp (34.3s)
+2026-05-07 19:21:18,728 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step18_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:21:18,745 - INFO - Ep-1 Step18: HCNO: N=46.9%  H=4.2%  C=23.9%  O=25.0%
+2026-05-07 19:21:18,745 - INFO - Ep-1 Step18: Reward=20.4829
+2026-05-07 19:21:18,745 - INFO - Eval 18: Reward=20.4829  State=[8.0, 4.5, 3.5, 6.5, 3.5, 7.5, 7.5]
+2026-05-07 19:21:54,087 - INFO - FLUKA OK: abl_rs_ep-1_step19.inp (35.3s)
+2026-05-07 19:21:54,105 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step19_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:21:54,128 - INFO - Ep-1 Step19: HCNO: N=28.2%  H=12.8%  C=28.8%  O=30.2%
+2026-05-07 19:21:54,128 - INFO - Ep-1 Step19: Reward=24.6613
+2026-05-07 19:21:54,128 - INFO - Eval 19: Reward=24.6613  State=[5.5, 4.5, 3.0, 6.5, 8.0, 7.5, 5.0]
+2026-05-07 19:22:30,631 - INFO - FLUKA OK: abl_rs_ep-1_step20.inp (36.5s)
+2026-05-07 19:22:30,661 - WARNING - prefix 'abl_rs_ep-1_step20' unit 24: expected 5 cycle files, found 10: ['abl_rs_ep-1_step20001_fort.24', 'abl_rs_ep-1_step20002_fort.24', 'abl_rs_ep-1_step20003_fort.24', 'abl_rs_ep-1_step20004_fort.24', 'abl_rs_ep-1_step20005_fort.24', 'abl_rs_ep-1_step2001_fort.24', 'abl_rs_ep-1_step2002_fort.24', 'abl_rs_ep-1_step2003_fort.24', 'abl_rs_ep-1_step2004_fort.24', 'abl_rs_ep-1_step2005_fort.24']
+2026-05-07 19:22:30,876 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step20_out_tab.lis (10 cycles, unit 24)
+2026-05-07 19:22:30,904 - INFO - Ep-1 Step20: HCNO: N=40.4%  H=10.0%  C=20.7%  O=28.9%
+2026-05-07 19:22:30,904 - INFO - Ep-1 Step20: Reward=31.7119
+2026-05-07 19:22:30,904 - INFO - Eval 20: Reward=31.7119  State=[6.0, 3.0, 7.0, 8.0, 3.0, 6.0, 8.5]
+2026-05-07 19:23:08,146 - INFO - FLUKA OK: abl_rs_ep-1_step21.inp (37.2s)
+2026-05-07 19:23:08,174 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step21_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:23:08,175 - INFO - Ep-1 Step21: HCNO: N=36.3%  H=9.6%  C=26.9%  O=27.3%
+2026-05-07 19:23:08,175 - INFO - Ep-1 Step21: Reward=31.5906
+2026-05-07 19:23:08,175 - INFO - Eval 21: Reward=31.5906  State=[4.5, 5.0, 2.5, 7.0, 7.5, 5.0, 1.0]
+2026-05-07 19:23:44,056 - INFO - FLUKA OK: abl_rs_ep-1_step22.inp (35.9s)
+2026-05-07 19:23:44,112 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step22_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:23:44,185 - INFO - Ep-1 Step22: HCNO: N=43.3%  H=12.8%  C=19.4%  O=24.5%
+2026-05-07 19:23:44,185 - INFO - Ep-1 Step22: Reward=16.7755
+2026-05-07 19:23:44,185 - INFO - Eval 22: Reward=16.7755  State=[7.0, 4.5, 3.0, 2.5, 2.5, 7.5, 9.0]
+2026-05-07 19:24:26,684 - INFO - FLUKA OK: abl_rs_ep-1_step23.inp (42.5s)
+2026-05-07 19:24:26,700 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step23_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:24:26,703 - INFO - Ep-1 Step23: HCNO: N=43.4%  H=8.4%  C=27.4%  O=20.8%
+2026-05-07 19:24:26,704 - INFO - Ep-1 Step23: Reward=26.1438
+2026-05-07 19:24:26,704 - INFO - Eval 23: Reward=26.1438  State=[3.5, 7.5, 3.0, 5.0, 5.5, 4.0, 1.5]
+2026-05-07 19:25:17,328 - INFO - FLUKA OK: abl_rs_ep-1_step24.inp (50.6s)
+2026-05-07 19:25:17,333 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step24_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:25:17,335 - INFO - Ep-1 Step24: HCNO: N=38.2%  H=10.7%  C=22.7%  O=28.5%
+2026-05-07 19:25:17,335 - INFO - Ep-1 Step24: Reward=17.5521
+2026-05-07 19:25:17,337 - INFO - Eval 24: Reward=17.5521  State=[6.5, 3.5, 5.5, 6.0, 6.5, 4.5, 2.0]
+2026-05-07 19:26:15,933 - INFO - FLUKA OK: abl_rs_ep-1_step25.inp (58.6s)
+2026-05-07 19:26:15,972 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step25_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:26:15,973 - INFO - Ep-1 Step25: HCNO: N=40.8%  H=8.3%  C=24.2%  O=26.8%
+2026-05-07 19:26:15,973 - INFO - Ep-1 Step25: Reward=23.1037
+2026-05-07 19:26:15,973 - INFO - Eval 25: Reward=23.1037  State=[4.5, 3.5, 7.0, 4.5, 6.5, 5.5, 1.5]
+2026-05-07 19:27:04,603 - INFO - FLUKA OK: abl_rs_ep-1_step26.inp (48.6s)
+2026-05-07 19:27:04,801 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step26_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:27:04,801 - INFO - Ep-1 Step26: HCNO: N=33.4%  H=6.5%  C=30.8%  O=29.3%
+2026-05-07 19:27:04,801 - INFO - Ep-1 Step26: Reward=20.4607
+2026-05-07 19:27:04,802 - INFO - Eval 26: Reward=20.4607  State=[7.5, 5.0, 2.5, 3.5, 2.0, 7.5, 2.0]
+2026-05-07 19:27:56,246 - INFO - FLUKA OK: abl_rs_ep-1_step27.inp (51.4s)
+2026-05-07 19:27:56,285 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step27_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:27:56,286 - INFO - Ep-1 Step27: HCNO: N=35.9%  H=10.8%  C=23.4%  O=29.9%
+2026-05-07 19:27:56,286 - INFO - Ep-1 Step27: Reward=11.1898
+2026-05-07 19:27:56,286 - INFO - Eval 27: Reward=11.1898  State=[4.5, 2.5, 8.0, 7.0, 7.5, 2.5, 4.0]
+2026-05-07 19:28:43,762 - INFO - FLUKA OK: abl_rs_ep-1_step28.inp (47.5s)
+2026-05-07 19:28:43,813 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step28_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:28:43,821 - INFO - Ep-1 Step28: HCNO: N=30.9%  H=5.5%  C=15.6%  O=48.0%
+2026-05-07 19:28:43,821 - INFO - Ep-1 Step28: Reward=19.8646
+2026-05-07 19:28:43,821 - INFO - Eval 28: Reward=19.8646  State=[6.0, 7.0, 6.5, 2.5, 4.0, 2.5, 8.5]
+2026-05-07 19:29:44,462 - INFO - FLUKA OK: abl_rs_ep-1_step29.inp (60.6s)
+2026-05-07 19:29:44,503 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step29_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:29:44,534 - INFO - Ep-1 Step29: HCNO: N=36.7%  H=14.6%  C=26.2%  O=22.5%
+2026-05-07 19:29:44,534 - INFO - Ep-1 Step29: Reward=30.6694
+2026-05-07 19:29:44,534 - INFO - Eval 29: Reward=30.6694  State=[2.5, 4.0, 5.0, 2.5, 4.0, 6.0, 7.5]
+2026-05-07 19:30:40,119 - INFO - FLUKA OK: abl_rs_ep-1_step30.inp (55.6s)
+2026-05-07 19:30:40,132 - WARNING - prefix 'abl_rs_ep-1_step30' unit 24: expected 5 cycle files, found 10: ['abl_rs_ep-1_step30001_fort.24', 'abl_rs_ep-1_step30002_fort.24', 'abl_rs_ep-1_step30003_fort.24', 'abl_rs_ep-1_step30004_fort.24', 'abl_rs_ep-1_step30005_fort.24', 'abl_rs_ep-1_step3001_fort.24', 'abl_rs_ep-1_step3002_fort.24', 'abl_rs_ep-1_step3003_fort.24', 'abl_rs_ep-1_step3004_fort.24', 'abl_rs_ep-1_step3005_fort.24']
+2026-05-07 19:30:40,198 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step30_out_tab.lis (10 cycles, unit 24)
+2026-05-07 19:30:40,209 - INFO - Ep-1 Step30: HCNO: N=41.1%  H=7.3%  C=23.0%  O=28.7%
+2026-05-07 19:30:40,209 - INFO - Ep-1 Step30: Reward=24.7882
+2026-05-07 19:30:40,209 - INFO - Eval 30: Reward=24.7882  State=[5.0, 5.0, 4.0, 6.0, 2.0, 3.5, 8.5]
+2026-05-07 19:31:40,110 - INFO - FLUKA OK: abl_rs_ep-1_step31.inp (59.9s)
+2026-05-07 19:31:40,144 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step31_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:31:40,153 - INFO - Ep-1 Step31: HCNO: N=24.9%  H=4.8%  C=32.5%  O=37.7%
+2026-05-07 19:31:40,153 - INFO - Ep-1 Step31: Reward=17.7400
+2026-05-07 19:31:40,153 - INFO - Eval 31: Reward=17.7400  State=[6.5, 7.0, 3.0, 2.5, 4.0, 3.5, 4.5]
+2026-05-07 19:32:31,741 - INFO - FLUKA OK: abl_rs_ep-1_step32.inp (51.6s)
+2026-05-07 19:32:31,744 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step32_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:32:31,838 - INFO - Ep-1 Step32: HCNO: N=25.9%  H=19.8%  C=26.1%  O=28.3%
+2026-05-07 19:32:31,838 - INFO - Ep-1 Step32: Reward=16.7822
+2026-05-07 19:32:31,838 - INFO - Eval 32: Reward=16.7822  State=[4.0, 7.0, 3.5, 8.0, 5.0, 5.0, 4.0]
+2026-05-07 19:33:10,188 - INFO - FLUKA OK: abl_rs_ep-1_step33.inp (38.3s)
+2026-05-07 19:33:10,230 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step33_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:33:10,230 - INFO - Ep-1 Step33: HCNO: N=43.6%  H=7.4%  C=17.4%  O=31.7%
+2026-05-07 19:33:10,230 - INFO - Ep-1 Step33: Reward=18.3465
+2026-05-07 19:33:10,231 - INFO - Eval 33: Reward=18.3465  State=[2.5, 7.0, 3.5, 5.0, 8.0, 3.0, 8.0]
+2026-05-07 19:33:47,454 - INFO - FLUKA OK: abl_rs_ep-1_step34.inp (37.2s)
+2026-05-07 19:33:47,486 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step34_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:33:47,487 - INFO - Ep-1 Step34: HCNO: N=38.5%  H=10.3%  C=31.1%  O=20.2%
+2026-05-07 19:33:47,487 - INFO - Ep-1 Step34: Reward=26.4762
+2026-05-07 19:33:47,487 - INFO - Eval 34: Reward=26.4762  State=[4.5, 2.5, 6.0, 4.5, 4.5, 4.0, 1.5]
+2026-05-07 19:34:40,952 - INFO - FLUKA OK: abl_rs_ep-1_step35.inp (53.5s)
+2026-05-07 19:34:40,974 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step35_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:34:40,974 - INFO - Ep-1 Step35: HCNO: N=33.2%  H=16.4%  C=30.3%  O=20.0%
+2026-05-07 19:34:40,975 - INFO - Ep-1 Step35: Reward=23.0267
+2026-05-07 19:34:40,975 - INFO - Eval 35: Reward=23.0267  State=[2.0, 6.5, 3.5, 8.0, 7.5, 5.0, 3.5]
+2026-05-07 19:35:32,867 - INFO - FLUKA OK: abl_rs_ep-1_step36.inp (51.9s)
+2026-05-07 19:35:32,906 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step36_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:35:32,906 - INFO - Ep-1 Step36: HCNO: N=50.2%  H=7.3%  C=18.8%  O=23.7%
+2026-05-07 19:35:32,906 - INFO - Ep-1 Step36: Reward=16.2423
+2026-05-07 19:35:32,906 - INFO - Eval 36: Reward=16.2423  State=[5.0, 2.5, 2.0, 5.5, 6.0, 4.5, 7.0]
+2026-05-07 19:36:25,058 - INFO - FLUKA OK: abl_rs_ep-1_step37.inp (52.2s)
+2026-05-07 19:36:25,148 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step37_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:36:25,167 - INFO - Ep-1 Step37: HCNO: N=37.6%  H=10.1%  C=26.2%  O=26.1%
+2026-05-07 19:36:25,167 - INFO - Ep-1 Step37: Reward=25.0611
+2026-05-07 19:36:25,167 - INFO - Eval 37: Reward=25.0611  State=[4.5, 4.5, 4.0, 6.5, 5.0, 3.5, 6.0]
+2026-05-07 19:37:12,115 - INFO - FLUKA OK: abl_rs_ep-1_step38.inp (46.9s)
+2026-05-07 19:37:12,156 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step38_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:37:12,164 - INFO - Ep-1 Step38: HCNO: N=34.8%  H=9.6%  C=30.5%  O=25.1%
+2026-05-07 19:37:12,164 - INFO - Ep-1 Step38: Reward=21.9082
+2026-05-07 19:37:12,164 - INFO - Eval 38: Reward=21.9082  State=[5.0, 6.5, 5.5, 2.5, 5.5, 3.5, 9.0]
+2026-05-07 19:38:04,581 - INFO - FLUKA OK: abl_rs_ep-1_step39.inp (52.4s)
+2026-05-07 19:38:04,617 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step39_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:38:04,617 - INFO - Ep-1 Step39: HCNO: N=34.9%  H=5.6%  C=23.4%  O=36.2%
+2026-05-07 19:38:04,617 - INFO - Ep-1 Step39: Reward=11.0352
+2026-05-07 19:38:04,618 - INFO - Eval 39: Reward=11.0352  State=[4.5, 3.0, 5.5, 7.0, 7.5, 6.0, 7.0]
+2026-05-07 19:38:49,540 - INFO - FLUKA OK: abl_rs_ep-1_step40.inp (44.9s)
+2026-05-07 19:38:49,590 - WARNING - prefix 'abl_rs_ep-1_step40' unit 24: expected 5 cycle files, found 10: ['abl_rs_ep-1_step40001_fort.24', 'abl_rs_ep-1_step40002_fort.24', 'abl_rs_ep-1_step40003_fort.24', 'abl_rs_ep-1_step40004_fort.24', 'abl_rs_ep-1_step40005_fort.24', 'abl_rs_ep-1_step4001_fort.24', 'abl_rs_ep-1_step4002_fort.24', 'abl_rs_ep-1_step4003_fort.24', 'abl_rs_ep-1_step4004_fort.24', 'abl_rs_ep-1_step4005_fort.24']
+2026-05-07 19:38:49,633 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step40_out_tab.lis (10 cycles, unit 24)
+2026-05-07 19:38:49,654 - INFO - Ep-1 Step40: HCNO: N=38.5%  H=9.7%  C=22.8%  O=29.0%
+2026-05-07 19:38:49,654 - INFO - Ep-1 Step40: Reward=30.7069
+2026-05-07 19:38:49,654 - INFO - Eval 40: Reward=30.7069  State=[8.0, 3.5, 5.0, 3.0, 6.5, 2.5, 1.0]
+2026-05-07 19:39:43,573 - INFO - FLUKA OK: abl_rs_ep-1_step41.inp (53.9s)
+2026-05-07 19:39:43,607 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step41_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:39:43,613 - INFO - Ep-1 Step41: HCNO: N=41.8%  H=10.5%  C=21.2%  O=26.5%
+2026-05-07 19:39:43,613 - INFO - Ep-1 Step41: Reward=25.6746
+2026-05-07 19:39:43,613 - INFO - Eval 41: Reward=25.6746  State=[3.0, 6.5, 3.5, 6.0, 4.5, 3.0, 2.5]
+2026-05-07 19:40:32,963 - INFO - FLUKA OK: abl_rs_ep-1_step42.inp (49.3s)
+2026-05-07 19:40:33,006 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step42_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:40:33,006 - INFO - Ep-1 Step42: HCNO: N=29.7%  H=8.7%  C=30.7%  O=31.0%
+2026-05-07 19:40:33,006 - INFO - Ep-1 Step42: Reward=25.0264
+2026-05-07 19:40:33,006 - INFO - Eval 42: Reward=25.0264  State=[5.0, 3.0, 5.5, 8.0, 2.0, 6.0, 5.5]
+2026-05-07 19:41:23,986 - INFO - FLUKA OK: abl_rs_ep-1_step43.inp (51.0s)
+2026-05-07 19:41:24,115 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step43_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:41:24,160 - INFO - Ep-1 Step43: HCNO: N=35.1%  H=11.4%  C=28.4%  O=25.2%
+2026-05-07 19:41:24,160 - INFO - Ep-1 Step43: Reward=18.4003
+2026-05-07 19:41:24,160 - INFO - Eval 43: Reward=18.4003  State=[5.5, 6.5, 5.0, 4.5, 7.5, 5.0, 9.0]
+2026-05-07 19:42:17,846 - INFO - FLUKA OK: abl_rs_ep-1_step44.inp (53.7s)
+2026-05-07 19:42:17,892 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step44_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:42:17,899 - INFO - Ep-1 Step44: HCNO: N=39.4%  H=7.9%  C=22.6%  O=30.0%
+2026-05-07 19:42:17,899 - INFO - Ep-1 Step44: Reward=25.4825
+2026-05-07 19:42:17,899 - INFO - Eval 44: Reward=25.4825  State=[3.5, 5.5, 8.0, 5.5, 2.5, 6.0, 1.5]
+2026-05-07 19:43:04,506 - INFO - FLUKA OK: abl_rs_ep-1_step45.inp (46.5s)
+2026-05-07 19:43:04,559 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step45_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:43:04,559 - INFO - Ep-1 Step45: HCNO: N=41.7%  H=11.1%  C=30.2%  O=17.0%
+2026-05-07 19:43:04,560 - INFO - Ep-1 Step45: Reward=24.4664
+2026-05-07 19:43:04,560 - INFO - Eval 45: Reward=24.4664  State=[5.5, 4.0, 6.0, 3.0, 7.5, 7.0, 6.5]
+2026-05-07 19:43:57,476 - INFO - FLUKA OK: abl_rs_ep-1_step46.inp (52.9s)
+2026-05-07 19:43:57,530 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step46_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:43:57,533 - INFO - Ep-1 Step46: HCNO: N=37.3%  H=12.1%  C=27.5%  O=23.2%
+2026-05-07 19:43:57,533 - INFO - Ep-1 Step46: Reward=16.2607
+2026-05-07 19:43:57,533 - INFO - Eval 46: Reward=16.2607  State=[2.5, 5.0, 3.5, 8.0, 6.5, 5.5, 8.0]
+2026-05-07 19:44:53,925 - INFO - FLUKA OK: abl_rs_ep-1_step47.inp (56.4s)
+2026-05-07 19:44:54,077 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step47_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:44:54,114 - INFO - Ep-1 Step47: HCNO: N=37.2%  H=8.8%  C=27.5%  O=26.4%
+2026-05-07 19:44:54,114 - INFO - Ep-1 Step47: Reward=30.1155
+2026-05-07 19:44:54,114 - INFO - Eval 47: Reward=30.1155  State=[3.0, 2.0, 3.0, 4.0, 4.0, 6.0, 3.5]
+2026-05-07 19:45:47,893 - INFO - FLUKA OK: abl_rs_ep-1_step48.inp (53.8s)
+2026-05-07 19:45:48,103 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step48_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:45:48,116 - INFO - Ep-1 Step48: HCNO: N=37.6%  H=14.4%  C=17.0%  O=31.0%
+2026-05-07 19:45:48,116 - INFO - Ep-1 Step48: Reward=26.3801
+2026-05-07 19:45:48,116 - INFO - Eval 48: Reward=26.3801  State=[5.0, 6.0, 3.0, 2.0, 6.0, 5.0, 1.5]
+2026-05-07 19:46:41,741 - INFO - FLUKA OK: abl_rs_ep-1_step49.inp (53.6s)
+2026-05-07 19:46:41,768 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step49_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:46:41,768 - INFO - Ep-1 Step49: HCNO: N=49.7%  H=8.0%  C=19.1%  O=23.2%
+2026-05-07 19:46:41,768 - INFO - Ep-1 Step49: Reward=15.6391
+2026-05-07 19:46:41,768 - INFO - Eval 49: Reward=15.6391  State=[5.0, 5.0, 6.0, 2.5, 7.5, 5.0, 3.5]
+2026-05-07 19:47:30,115 - INFO - FLUKA OK: abl_rs_ep-1_step50.inp (48.3s)
+2026-05-07 19:47:30,118 - WARNING - prefix 'abl_rs_ep-1_step50' unit 24: expected 5 cycle files, found 10: ['abl_rs_ep-1_step50001_fort.24', 'abl_rs_ep-1_step50002_fort.24', 'abl_rs_ep-1_step50003_fort.24', 'abl_rs_ep-1_step50004_fort.24', 'abl_rs_ep-1_step50005_fort.24', 'abl_rs_ep-1_step5001_fort.24', 'abl_rs_ep-1_step5002_fort.24', 'abl_rs_ep-1_step5003_fort.24', 'abl_rs_ep-1_step5004_fort.24', 'abl_rs_ep-1_step5005_fort.24']
+2026-05-07 19:47:30,476 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step50_out_tab.lis (10 cycles, unit 24)
+2026-05-07 19:47:30,495 - INFO - Ep-1 Step50: HCNO: N=37.5%  H=6.6%  C=25.4%  O=30.5%
+2026-05-07 19:47:30,495 - INFO - Ep-1 Step50: Reward=21.6942
+2026-05-07 19:47:30,495 - INFO - Eval 50: Reward=21.6942  State=[8.0, 8.0, 3.5, 7.0, 3.5, 4.0, 6.0]
+2026-05-07 19:48:22,201 - INFO - FLUKA OK: abl_rs_ep-1_step51.inp (51.7s)
+2026-05-07 19:48:22,313 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step51_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:48:22,313 - INFO - Ep-1 Step51: HCNO: N=44.8%  H=5.0%  C=22.1%  O=28.2%
+2026-05-07 19:48:22,313 - INFO - Ep-1 Step51: Reward=12.4741
+2026-05-07 19:48:22,316 - INFO - Eval 51: Reward=12.4741  State=[4.0, 6.5, 6.5, 5.5, 6.0, 6.0, 7.5]
+2026-05-07 19:49:14,747 - INFO - FLUKA OK: abl_rs_ep-1_step52.inp (52.4s)
+2026-05-07 19:49:14,774 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step52_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:49:14,776 - INFO - Ep-1 Step52: HCNO: N=12.3%  H=6.9%  C=49.7%  O=31.1%
+2026-05-07 19:49:14,776 - INFO - Ep-1 Step52: Reward=7.4529
+2026-05-07 19:49:14,776 - INFO - Eval 52: Reward=7.4529  State=[3.5, 6.5, 4.5, 5.5, 6.5, 8.0, 8.0]
+2026-05-07 19:50:04,831 - INFO - FLUKA OK: abl_rs_ep-1_step53.inp (50.1s)
+2026-05-07 19:50:04,839 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step53_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:50:04,842 - INFO - Ep-1 Step53: HCNO: N=37.4%  H=10.1%  C=24.2%  O=28.3%
+2026-05-07 19:50:04,842 - INFO - Ep-1 Step53: Reward=20.5294
+2026-05-07 19:50:04,842 - INFO - Eval 53: Reward=20.5294  State=[4.0, 3.0, 3.5, 5.0, 6.0, 2.0, 5.0]
+2026-05-07 19:50:56,833 - INFO - FLUKA OK: abl_rs_ep-1_step54.inp (52.0s)
+2026-05-07 19:50:56,866 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step54_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:50:56,866 - INFO - Ep-1 Step54: HCNO: N=40.5%  H=10.9%  C=19.6%  O=29.0%
+2026-05-07 19:50:56,866 - INFO - Ep-1 Step54: Reward=23.1118
+2026-05-07 19:50:56,866 - INFO - Eval 54: Reward=23.1118  State=[7.0, 3.5, 3.5, 5.5, 3.5, 3.5, 3.5]
+2026-05-07 19:51:56,602 - INFO - FLUKA OK: abl_rs_ep-1_step55.inp (59.7s)
+2026-05-07 19:51:56,694 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step55_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:51:56,696 - INFO - Ep-1 Step55: HCNO: N=31.0%  H=15.1%  C=19.9%  O=34.1%
+2026-05-07 19:51:56,696 - INFO - Ep-1 Step55: Reward=28.2307
+2026-05-07 19:51:56,696 - INFO - Eval 55: Reward=28.2307  State=[2.0, 5.5, 6.0, 3.0, 6.5, 3.0, 9.0]
+2026-05-07 19:52:49,814 - INFO - FLUKA OK: abl_rs_ep-1_step56.inp (53.1s)
+2026-05-07 19:52:49,889 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step56_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:52:49,889 - INFO - Ep-1 Step56: HCNO: N=35.9%  H=16.0%  C=24.3%  O=23.8%
+2026-05-07 19:52:49,889 - INFO - Ep-1 Step56: Reward=29.2446
+2026-05-07 19:52:49,890 - INFO - Eval 56: Reward=29.2446  State=[5.5, 3.5, 4.0, 5.5, 4.0, 4.0, 5.0]
+2026-05-07 19:53:43,717 - INFO - FLUKA OK: abl_rs_ep-1_step57.inp (53.8s)
+2026-05-07 19:53:43,756 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step57_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:53:43,759 - INFO - Ep-1 Step57: HCNO: N=36.9%  H=14.8%  C=18.0%  O=30.3%
+2026-05-07 19:53:43,759 - INFO - Ep-1 Step57: Reward=34.7475
+2026-05-07 19:53:43,759 - INFO - Eval 57: Reward=34.7475  State=[6.5, 4.5, 2.5, 3.0, 4.0, 3.5, 5.0]
+2026-05-07 19:53:43,789 - INFO - New Best: 34.7475 at eval 57
+2026-05-07 19:54:38,078 - INFO - FLUKA OK: abl_rs_ep-1_step58.inp (54.3s)
+2026-05-07 19:54:38,129 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step58_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:54:38,143 - INFO - Ep-1 Step58: HCNO: N=35.4%  H=6.6%  C=27.1%  O=30.8%
+2026-05-07 19:54:38,143 - INFO - Ep-1 Step58: Reward=16.9241
+2026-05-07 19:54:38,143 - INFO - Eval 58: Reward=16.9241  State=[8.0, 3.5, 4.0, 2.0, 3.5, 7.0, 6.0]
+2026-05-07 19:55:26,432 - INFO - FLUKA OK: abl_rs_ep-1_step59.inp (48.3s)
+2026-05-07 19:55:26,512 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step59_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:55:26,549 - INFO - Ep-1 Step59: HCNO: N=36.6%  H=10.2%  C=28.2%  O=25.0%
+2026-05-07 19:55:26,549 - INFO - Ep-1 Step59: Reward=30.3523
+2026-05-07 19:55:26,549 - INFO - Eval 59: Reward=30.3523  State=[6.5, 3.0, 3.5, 7.5, 8.0, 6.0, 1.5]
+2026-05-07 19:56:14,689 - INFO - FLUKA OK: abl_rs_ep-1_step60.inp (48.1s)
+2026-05-07 19:56:14,723 - WARNING - prefix 'abl_rs_ep-1_step60' unit 24: expected 5 cycle files, found 10: ['abl_rs_ep-1_step60001_fort.24', 'abl_rs_ep-1_step60002_fort.24', 'abl_rs_ep-1_step60003_fort.24', 'abl_rs_ep-1_step60004_fort.24', 'abl_rs_ep-1_step60005_fort.24', 'abl_rs_ep-1_step6001_fort.24', 'abl_rs_ep-1_step6002_fort.24', 'abl_rs_ep-1_step6003_fort.24', 'abl_rs_ep-1_step6004_fort.24', 'abl_rs_ep-1_step6005_fort.24']
+2026-05-07 19:56:14,821 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step60_out_tab.lis (10 cycles, unit 24)
+2026-05-07 19:56:14,821 - INFO - Ep-1 Step60: HCNO: N=41.9%  H=11.1%  C=22.2%  O=24.8%
+2026-05-07 19:56:14,821 - INFO - Ep-1 Step60: Reward=25.2628
+2026-05-07 19:56:14,822 - INFO - Eval 60: Reward=25.2628  State=[7.0, 4.0, 2.5, 2.0, 7.5, 7.5, 3.5]
+2026-05-07 19:57:08,172 - INFO - FLUKA OK: abl_rs_ep-1_step61.inp (53.4s)
+2026-05-07 19:57:08,270 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step61_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:57:08,271 - INFO - Ep-1 Step61: HCNO: N=39.6%  H=8.4%  C=23.2%  O=28.7%
+2026-05-07 19:57:08,271 - INFO - Ep-1 Step61: Reward=18.8515
+2026-05-07 19:57:08,271 - INFO - Eval 61: Reward=18.8515  State=[6.5, 7.0, 6.0, 2.0, 2.5, 7.5, 7.5]
+2026-05-07 19:58:06,451 - INFO - FLUKA OK: abl_rs_ep-1_step62.inp (58.2s)
+2026-05-07 19:58:06,486 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step62_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:58:06,490 - INFO - Ep-1 Step62: HCNO: N=44.7%  H=11.7%  C=18.3%  O=25.3%
+2026-05-07 19:58:06,490 - INFO - Ep-1 Step62: Reward=31.5888
+2026-05-07 19:58:06,490 - INFO - Eval 62: Reward=31.5888  State=[2.0, 3.5, 4.0, 6.5, 3.5, 5.0, 8.5]
+2026-05-07 19:58:59,109 - INFO - FLUKA OK: abl_rs_ep-1_step63.inp (52.6s)
+2026-05-07 19:58:59,146 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step63_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:58:59,146 - INFO - Ep-1 Step63: HCNO: N=32.3%  H=6.4%  C=22.6%  O=38.8%
+2026-05-07 19:58:59,147 - INFO - Ep-1 Step63: Reward=14.5345
+2026-05-07 19:58:59,149 - INFO - Eval 63: Reward=14.5345  State=[6.5, 6.5, 4.5, 4.0, 8.0, 6.5, 9.5]
+2026-05-07 19:59:59,215 - INFO - FLUKA OK: abl_rs_ep-1_step64.inp (60.1s)
+2026-05-07 19:59:59,242 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step64_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:59:59,243 - INFO - Ep-1 Step64: HCNO: N=47.5%  H=3.2%  C=31.0%  O=18.3%
+2026-05-07 19:59:59,243 - INFO - Ep-1 Step64: Reward=18.6222
+2026-05-07 19:59:59,243 - INFO - Eval 64: Reward=18.6222  State=[2.0, 8.0, 4.5, 6.0, 3.0, 6.0, 7.5]
+2026-05-07 20:00:56,378 - INFO - FLUKA OK: abl_rs_ep-1_step65.inp (57.1s)
+2026-05-07 20:00:56,405 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step65_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:00:56,405 - INFO - Ep-1 Step65: HCNO: N=39.8%  H=5.6%  C=26.9%  O=27.7%
+2026-05-07 20:00:56,405 - INFO - Ep-1 Step65: Reward=21.1659
+2026-05-07 20:00:56,405 - INFO - Eval 65: Reward=21.1659  State=[2.5, 3.5, 5.5, 5.5, 2.0, 3.5, 7.0]
+2026-05-07 20:01:48,139 - INFO - FLUKA OK: abl_rs_ep-1_step66.inp (51.7s)
+2026-05-07 20:01:48,148 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step66_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:01:48,149 - INFO - Ep-1 Step66: HCNO: N=37.9%  H=7.0%  C=27.3%  O=27.9%
+2026-05-07 20:01:48,149 - INFO - Ep-1 Step66: Reward=18.3897
+2026-05-07 20:01:48,149 - INFO - Eval 66: Reward=18.3897  State=[6.0, 7.0, 6.5, 5.0, 4.0, 6.0, 5.0]
+2026-05-07 20:02:38,136 - INFO - FLUKA OK: abl_rs_ep-1_step67.inp (50.0s)
+2026-05-07 20:02:38,167 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step67_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:02:38,167 - INFO - Ep-1 Step67: HCNO: N=35.1%  H=11.7%  C=21.7%  O=31.5%
+2026-05-07 20:02:38,168 - INFO - Ep-1 Step67: Reward=21.3325
+2026-05-07 20:02:38,168 - INFO - Eval 67: Reward=21.3325  State=[6.5, 6.5, 5.5, 4.0, 5.0, 6.0, 8.5]
+2026-05-07 20:03:31,021 - INFO - FLUKA OK: abl_rs_ep-1_step68.inp (52.9s)
+2026-05-07 20:03:31,046 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step68_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:03:31,050 - INFO - Ep-1 Step68: HCNO: N=35.3%  H=14.2%  C=24.9%  O=25.6%
+2026-05-07 20:03:31,050 - INFO - Ep-1 Step68: Reward=19.9783
+2026-05-07 20:03:31,050 - INFO - Eval 68: Reward=19.9783  State=[3.0, 2.5, 7.5, 6.5, 7.0, 5.0, 1.5]
+2026-05-07 20:04:23,584 - INFO - FLUKA OK: abl_rs_ep-1_step69.inp (52.5s)
+2026-05-07 20:04:23,626 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step69_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:04:23,627 - INFO - Ep-1 Step69: HCNO: N=34.2%  H=12.8%  C=15.3%  O=37.8%
+2026-05-07 20:04:23,627 - INFO - Ep-1 Step69: Reward=17.8431
+2026-05-07 20:04:23,627 - INFO - Eval 69: Reward=17.8431  State=[5.0, 3.0, 6.5, 7.5, 4.0, 7.0, 8.0]
+2026-05-07 20:05:15,948 - INFO - FLUKA OK: abl_rs_ep-1_step70.inp (52.3s)
+2026-05-07 20:05:15,968 - WARNING - prefix 'abl_rs_ep-1_step70' unit 24: expected 5 cycle files, found 10: ['abl_rs_ep-1_step70001_fort.24', 'abl_rs_ep-1_step70002_fort.24', 'abl_rs_ep-1_step70003_fort.24', 'abl_rs_ep-1_step70004_fort.24', 'abl_rs_ep-1_step70005_fort.24', 'abl_rs_ep-1_step7001_fort.24', 'abl_rs_ep-1_step7002_fort.24', 'abl_rs_ep-1_step7003_fort.24', 'abl_rs_ep-1_step7004_fort.24', 'abl_rs_ep-1_step7005_fort.24']
+2026-05-07 20:05:15,982 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step70_out_tab.lis (10 cycles, unit 24)
+2026-05-07 20:05:15,984 - INFO - Ep-1 Step70: HCNO: N=39.8%  H=8.8%  C=20.0%  O=31.4%
+2026-05-07 20:05:15,984 - INFO - Ep-1 Step70: Reward=29.8045
+2026-05-07 20:05:15,985 - INFO - Eval 70: Reward=29.8045  State=[6.5, 5.5, 2.5, 7.5, 2.0, 4.0, 6.5]
+2026-05-07 20:06:08,228 - INFO - FLUKA OK: abl_rs_ep-1_step71.inp (52.2s)
+2026-05-07 20:06:08,263 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step71_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:06:08,263 - INFO - Ep-1 Step71: HCNO: N=30.0%  H=10.6%  C=25.1%  O=34.4%
+2026-05-07 20:06:08,264 - INFO - Ep-1 Step71: Reward=26.6616
+2026-05-07 20:06:08,264 - INFO - Eval 71: Reward=26.6616  State=[5.5, 7.5, 2.5, 5.0, 3.0, 3.0, 2.0]
+2026-05-07 20:07:02,498 - INFO - FLUKA OK: abl_rs_ep-1_step72.inp (54.2s)
+2026-05-07 20:07:02,557 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step72_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:07:02,560 - INFO - Ep-1 Step72: HCNO: N=33.3%  H=12.0%  C=20.7%  O=33.9%
+2026-05-07 20:07:02,560 - INFO - Ep-1 Step72: Reward=20.9552
+2026-05-07 20:07:02,560 - INFO - Eval 72: Reward=20.9552  State=[4.5, 7.0, 2.5, 3.0, 6.5, 2.5, 2.5]
+2026-05-07 20:07:59,065 - INFO - FLUKA OK: abl_rs_ep-1_step73.inp (56.5s)
+2026-05-07 20:07:59,133 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step73_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:07:59,214 - INFO - Ep-1 Step73: HCNO: N=45.9%  H=7.2%  C=28.8%  O=18.1%
+2026-05-07 20:07:59,214 - INFO - Ep-1 Step73: Reward=13.8375
+2026-05-07 20:07:59,214 - INFO - Eval 73: Reward=13.8375  State=[7.0, 2.5, 5.0, 2.5, 7.5, 6.5, 9.5]
+2026-05-07 20:08:54,097 - INFO - FLUKA OK: abl_rs_ep-1_step74.inp (54.9s)
+2026-05-07 20:08:54,117 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step74_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:08:54,118 - INFO - Ep-1 Step74: HCNO: N=41.0%  H=7.6%  C=31.0%  O=20.4%
+2026-05-07 20:08:54,118 - INFO - Ep-1 Step74: Reward=13.9922
+2026-05-07 20:08:54,118 - INFO - Eval 74: Reward=13.9922  State=[3.0, 6.0, 7.0, 7.5, 6.0, 7.0, 3.5]
+2026-05-07 20:09:47,735 - INFO - FLUKA OK: abl_rs_ep-1_step75.inp (53.6s)
+2026-05-07 20:09:47,784 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step75_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:09:47,834 - INFO - Ep-1 Step75: HCNO: N=40.4%  H=14.2%  C=20.1%  O=25.3%
+2026-05-07 20:09:47,834 - INFO - Ep-1 Step75: Reward=25.0182
+2026-05-07 20:09:47,834 - INFO - Eval 75: Reward=25.0182  State=[2.5, 5.5, 4.5, 4.0, 4.5, 2.5, 10.0]
+2026-05-07 20:10:42,224 - INFO - FLUKA OK: abl_rs_ep-1_step76.inp (54.4s)
+2026-05-07 20:10:42,656 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step76_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:10:42,658 - INFO - Ep-1 Step76: HCNO: N=37.5%  H=7.9%  C=27.2%  O=27.5%
+2026-05-07 20:10:42,658 - INFO - Ep-1 Step76: Reward=26.0119
+2026-05-07 20:10:42,658 - INFO - Eval 76: Reward=26.0119  State=[4.5, 4.0, 5.0, 2.5, 4.0, 6.5, 6.0]
+2026-05-07 20:11:37,585 - INFO - FLUKA OK: abl_rs_ep-1_step77.inp (54.9s)
+2026-05-07 20:11:37,680 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step77_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:11:37,702 - INFO - Ep-1 Step77: HCNO: N=27.6%  H=14.5%  C=25.0%  O=32.9%
+2026-05-07 20:11:37,702 - INFO - Ep-1 Step77: Reward=25.2016
+2026-05-07 20:11:37,703 - INFO - Eval 77: Reward=25.2016  State=[5.0, 6.0, 2.0, 7.0, 5.5, 2.5, 5.0]
+2026-05-07 20:12:30,903 - INFO - FLUKA OK: abl_rs_ep-1_step78.inp (53.2s)
+2026-05-07 20:12:32,944 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step78_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:12:32,964 - INFO - Ep-1 Step78: HCNO: N=34.3%  H=13.4%  C=20.9%  O=31.5%
+2026-05-07 20:12:32,964 - INFO - Ep-1 Step78: Reward=18.0692
+2026-05-07 20:12:32,964 - INFO - Eval 78: Reward=18.0692  State=[4.5, 8.0, 3.0, 7.5, 4.0, 7.0, 8.0]
+2026-05-07 20:13:25,943 - INFO - FLUKA OK: abl_rs_ep-1_step79.inp (53.0s)
+2026-05-07 20:13:25,979 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step79_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:13:25,980 - INFO - Ep-1 Step79: HCNO: N=36.6%  H=8.5%  C=31.5%  O=23.5%
+2026-05-07 20:13:25,980 - INFO - Ep-1 Step79: Reward=16.3389
+2026-05-07 20:13:25,981 - INFO - Eval 79: Reward=16.3389  State=[4.0, 7.0, 6.5, 8.0, 7.0, 4.5, 4.0]
+2026-05-07 20:14:19,004 - INFO - FLUKA OK: abl_rs_ep-1_step80.inp (53.0s)
+2026-05-07 20:14:19,039 - WARNING - prefix 'abl_rs_ep-1_step80' unit 24: expected 5 cycle files, found 10: ['abl_rs_ep-1_step80001_fort.24', 'abl_rs_ep-1_step80002_fort.24', 'abl_rs_ep-1_step80003_fort.24', 'abl_rs_ep-1_step80004_fort.24', 'abl_rs_ep-1_step80005_fort.24', 'abl_rs_ep-1_step8001_fort.24', 'abl_rs_ep-1_step8002_fort.24', 'abl_rs_ep-1_step8003_fort.24', 'abl_rs_ep-1_step8004_fort.24', 'abl_rs_ep-1_step8005_fort.24']
+2026-05-07 20:14:19,228 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step80_out_tab.lis (10 cycles, unit 24)
+2026-05-07 20:14:19,273 - INFO - Ep-1 Step80: HCNO: N=35.7%  H=13.4%  C=20.7%  O=30.2%
+2026-05-07 20:14:19,274 - INFO - Ep-1 Step80: Reward=28.5909
+2026-05-07 20:14:19,274 - INFO - Eval 80: Reward=28.5909  State=[4.0, 4.0, 2.5, 3.5, 3.5, 4.5, 4.5]
+2026-05-07 20:15:08,111 - INFO - FLUKA OK: abl_rs_ep-1_step81.inp (48.8s)
+2026-05-07 20:15:08,115 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step81_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:15:08,116 - INFO - Ep-1 Step81: HCNO: N=31.4%  H=8.6%  C=26.2%  O=33.8%
+2026-05-07 20:15:08,116 - INFO - Ep-1 Step81: Reward=12.1623
+2026-05-07 20:15:08,116 - INFO - Eval 81: Reward=12.1623  State=[7.0, 7.0, 7.0, 8.0, 6.5, 6.5, 8.5]
+2026-05-07 20:16:02,916 - INFO - FLUKA OK: abl_rs_ep-1_step82.inp (54.8s)
+2026-05-07 20:16:03,286 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step82_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:16:03,287 - INFO - Ep-1 Step82: HCNO: N=32.6%  H=15.3%  C=20.1%  O=32.0%
+2026-05-07 20:16:03,287 - INFO - Ep-1 Step82: Reward=27.0238
+2026-05-07 20:16:03,290 - INFO - Eval 82: Reward=27.0238  State=[3.5, 3.5, 7.5, 5.5, 7.0, 6.0, 2.0]
+2026-05-07 20:16:57,731 - INFO - FLUKA OK: abl_rs_ep-1_step83.inp (54.4s)
+2026-05-07 20:16:57,759 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step83_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:16:57,760 - INFO - Ep-1 Step83: HCNO: N=33.2%  H=15.3%  C=25.3%  O=26.3%
+2026-05-07 20:16:57,760 - INFO - Ep-1 Step83: Reward=19.2449
+2026-05-07 20:16:57,760 - INFO - Eval 83: Reward=19.2449  State=[4.0, 2.0, 7.5, 8.0, 7.5, 4.0, 9.0]
+2026-05-07 20:17:56,663 - INFO - FLUKA OK: abl_rs_ep-1_step84.inp (58.9s)
+2026-05-07 20:17:56,929 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step84_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:17:57,128 - INFO - Ep-1 Step84: HCNO: N=30.3%  H=9.9%  C=23.8%  O=36.0%
+2026-05-07 20:17:57,128 - INFO - Ep-1 Step84: Reward=27.0771
+2026-05-07 20:17:57,128 - INFO - Eval 84: Reward=27.0771  State=[2.5, 5.0, 3.0, 2.5, 4.0, 5.5, 8.0]
+2026-05-07 20:18:54,958 - INFO - FLUKA OK: abl_rs_ep-1_step85.inp (57.8s)
+2026-05-07 20:18:55,256 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step85_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:18:55,256 - INFO - Ep-1 Step85: HCNO: N=40.9%  H=7.6%  C=27.0%  O=24.6%
+2026-05-07 20:18:55,256 - INFO - Ep-1 Step85: Reward=24.0293
+2026-05-07 20:18:55,256 - INFO - Eval 85: Reward=24.0293  State=[5.5, 3.0, 7.0, 2.0, 3.0, 2.0, 9.5]
+2026-05-07 20:19:54,981 - INFO - FLUKA OK: abl_rs_ep-1_step86.inp (59.7s)
+2026-05-07 20:19:55,037 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step86_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:19:55,052 - INFO - Ep-1 Step86: HCNO: N=39.5%  H=10.0%  C=24.3%  O=26.2%
+2026-05-07 20:19:55,052 - INFO - Ep-1 Step86: Reward=22.9180
+2026-05-07 20:19:55,052 - INFO - Eval 86: Reward=22.9180  State=[2.5, 3.0, 5.0, 7.0, 6.0, 4.5, 2.0]
+2026-05-07 20:20:53,326 - INFO - FLUKA OK: abl_rs_ep-1_step87.inp (58.3s)
+2026-05-07 20:20:54,837 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step87_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:20:54,838 - INFO - Ep-1 Step87: HCNO: N=31.7%  H=7.7%  C=26.6%  O=34.1%
+2026-05-07 20:20:54,838 - INFO - Ep-1 Step87: Reward=19.3131
+2026-05-07 20:20:54,838 - INFO - Eval 87: Reward=19.3131  State=[2.5, 3.5, 3.5, 6.0, 4.0, 5.0, 9.5]
+2026-05-07 20:21:58,091 - INFO - FLUKA OK: abl_rs_ep-1_step88.inp (63.3s)
+2026-05-07 20:21:58,099 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step88_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:21:58,101 - INFO - Ep-1 Step88: HCNO: N=28.3%  H=5.0%  C=34.8%  O=31.9%
+2026-05-07 20:21:58,101 - INFO - Ep-1 Step88: Reward=24.4200
+2026-05-07 20:21:58,101 - INFO - Eval 88: Reward=24.4200  State=[5.0, 3.5, 7.0, 8.0, 3.0, 5.5, 9.5]
+2026-05-07 20:22:47,549 - INFO - FLUKA OK: abl_rs_ep-1_step89.inp (49.4s)
+2026-05-07 20:22:47,603 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step89_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:22:47,603 - INFO - Ep-1 Step89: HCNO: N=41.8%  H=9.6%  C=27.7%  O=20.9%
+2026-05-07 20:22:47,603 - INFO - Ep-1 Step89: Reward=21.4769
+2026-05-07 20:22:47,604 - INFO - Eval 89: Reward=21.4769  State=[7.5, 7.5, 4.0, 5.5, 3.0, 4.0, 4.0]
+2026-05-07 20:23:41,585 - INFO - FLUKA OK: abl_rs_ep-1_step90.inp (54.0s)
+2026-05-07 20:23:42,157 - WARNING - prefix 'abl_rs_ep-1_step90' unit 24: expected 5 cycle files, found 10: ['abl_rs_ep-1_step90001_fort.24', 'abl_rs_ep-1_step90002_fort.24', 'abl_rs_ep-1_step90003_fort.24', 'abl_rs_ep-1_step90004_fort.24', 'abl_rs_ep-1_step90005_fort.24', 'abl_rs_ep-1_step9001_fort.24', 'abl_rs_ep-1_step9002_fort.24', 'abl_rs_ep-1_step9003_fort.24', 'abl_rs_ep-1_step9004_fort.24', 'abl_rs_ep-1_step9005_fort.24']
+2026-05-07 20:23:42,196 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step90_out_tab.lis (10 cycles, unit 24)
+2026-05-07 20:23:42,229 - INFO - Ep-1 Step90: HCNO: N=30.8%  H=13.0%  C=20.9%  O=35.4%
+2026-05-07 20:23:42,229 - INFO - Ep-1 Step90: Reward=20.6173
+2026-05-07 20:23:42,229 - INFO - Eval 90: Reward=20.6173  State=[3.0, 4.5, 6.5, 6.5, 7.0, 7.0, 3.0]
+2026-05-07 20:24:36,872 - INFO - FLUKA OK: abl_rs_ep-1_step91.inp (54.6s)
+2026-05-07 20:24:36,879 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step91_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:24:36,881 - INFO - Ep-1 Step91: HCNO: N=31.4%  H=6.7%  C=22.0%  O=39.9%
+2026-05-07 20:24:36,881 - INFO - Ep-1 Step91: Reward=16.6924
+2026-05-07 20:24:36,881 - INFO - Eval 91: Reward=16.6924  State=[6.0, 6.0, 3.0, 6.5, 7.0, 2.5, 7.0]
+2026-05-07 20:25:29,025 - INFO - FLUKA OK: abl_rs_ep-1_step92.inp (52.1s)
+2026-05-07 20:25:29,041 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step92_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:25:29,066 - INFO - Ep-1 Step92: HCNO: N=32.1%  H=9.3%  C=22.7%  O=35.9%
+2026-05-07 20:25:29,066 - INFO - Ep-1 Step92: Reward=25.9924
+2026-05-07 20:25:29,066 - INFO - Eval 92: Reward=25.9924  State=[6.0, 5.0, 3.0, 5.5, 5.0, 7.5, 1.0]
+2026-05-07 20:26:23,556 - INFO - FLUKA OK: abl_rs_ep-1_step93.inp (54.5s)
+2026-05-07 20:26:23,563 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step93_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:26:23,566 - INFO - Ep-1 Step93: HCNO: N=31.6%  H=5.9%  C=25.6%  O=36.9%
+2026-05-07 20:26:23,566 - INFO - Ep-1 Step93: Reward=7.0255
+2026-05-07 20:26:23,566 - INFO - Eval 93: Reward=7.0255  State=[6.0, 8.0, 2.0, 6.5, 5.0, 5.0, 10.0]
+2026-05-07 20:27:12,832 - INFO - FLUKA OK: abl_rs_ep-1_step94.inp (49.3s)
+2026-05-07 20:27:12,879 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step94_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:27:12,968 - INFO - Ep-1 Step94: HCNO: N=38.6%  H=4.9%  C=21.9%  O=34.5%
+2026-05-07 20:27:12,968 - INFO - Ep-1 Step94: Reward=11.6298
+2026-05-07 20:27:12,969 - INFO - Eval 94: Reward=11.6298  State=[7.5, 6.5, 7.0, 2.5, 3.0, 2.5, 3.0]
+2026-05-07 20:28:07,993 - INFO - FLUKA OK: abl_rs_ep-1_step95.inp (55.0s)
+2026-05-07 20:28:08,000 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step95_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:28:08,027 - INFO - Ep-1 Step95: HCNO: N=34.2%  H=13.5%  C=21.8%  O=30.5%
+2026-05-07 20:28:08,027 - INFO - Ep-1 Step95: Reward=26.1310
+2026-05-07 20:28:08,029 - INFO - Eval 95: Reward=26.1310  State=[3.0, 6.5, 4.5, 4.0, 3.0, 3.0, 4.0]
+2026-05-07 20:29:10,577 - INFO - FLUKA OK: abl_rs_ep-1_step96.inp (62.5s)
+2026-05-07 20:29:10,586 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step96_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:29:10,604 - INFO - Ep-1 Step96: HCNO: N=40.0%  H=3.3%  C=28.5%  O=28.1%
+2026-05-07 20:29:10,604 - INFO - Ep-1 Step96: Reward=21.9513
+2026-05-07 20:29:10,604 - INFO - Eval 96: Reward=21.9513  State=[4.5, 6.0, 4.5, 7.0, 7.5, 6.5, 2.5]
+2026-05-07 20:30:11,017 - INFO - FLUKA OK: abl_rs_ep-1_step97.inp (60.4s)
+2026-05-07 20:30:11,024 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step97_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:30:11,026 - INFO - Ep-1 Step97: HCNO: N=29.0%  H=12.7%  C=26.4%  O=31.9%
+2026-05-07 20:30:11,026 - INFO - Ep-1 Step97: Reward=22.1437
+2026-05-07 20:30:11,026 - INFO - Eval 97: Reward=22.1437  State=[3.0, 7.0, 7.0, 6.0, 3.0, 4.5, 5.5]
+2026-05-07 20:31:06,114 - INFO - FLUKA OK: abl_rs_ep-1_step98.inp (55.1s)
+2026-05-07 20:31:06,150 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step98_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:31:06,152 - INFO - Ep-1 Step98: HCNO: N=31.0%  H=7.8%  C=29.3%  O=31.9%
+2026-05-07 20:31:06,152 - INFO - Ep-1 Step98: Reward=16.4461
+2026-05-07 20:31:06,152 - INFO - Eval 98: Reward=16.4461  State=[3.5, 8.0, 8.0, 5.0, 6.0, 7.5, 5.0]
+2026-05-07 20:32:05,144 - INFO - FLUKA OK: abl_rs_ep-1_step99.inp (59.0s)
+2026-05-07 20:32:05,315 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step99_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:32:05,316 - INFO - Ep-1 Step99: HCNO: N=37.3%  H=10.1%  C=20.3%  O=32.4%
+2026-05-07 20:32:05,316 - INFO - Ep-1 Step99: Reward=19.5177
+2026-05-07 20:32:05,316 - INFO - Eval 99: Reward=19.5177  State=[2.0, 5.5, 3.0, 5.5, 4.5, 4.0, 6.5]
+2026-05-07 20:32:58,837 - INFO - FLUKA OK: abl_rs_ep-1_step100.inp (53.5s)
+2026-05-07 20:32:58,872 - WARNING - prefix 'abl_rs_ep-1_step100' unit 24: expected 5 cycle files, found 15: ['abl_rs_ep-1_step100001_fort.24', 'abl_rs_ep-1_step100002_fort.24', 'abl_rs_ep-1_step100003_fort.24', 'abl_rs_ep-1_step100004_fort.24', 'abl_rs_ep-1_step100005_fort.24', 'abl_rs_ep-1_step10001_fort.24', 'abl_rs_ep-1_step10002_fort.24', 'abl_rs_ep-1_step10003_fort.24', 'abl_rs_ep-1_step10004_fort.24', 'abl_rs_ep-1_step10005_fort.24', 'abl_rs_ep-1_step1001_fort.24', 'abl_rs_ep-1_step1002_fort.24', 'abl_rs_ep-1_step1003_fort.24', 'abl_rs_ep-1_step1004_fort.24', 'abl_rs_ep-1_step1005_fort.24']
+2026-05-07 20:32:59,122 - INFO - ustsuw OK â†?/home/marina/caseI/5runrs/run2/abl_rs_ep-1_step100_out_tab.lis (15 cycles, unit 24)
+2026-05-07 20:32:59,124 - INFO - Ep-1 Step100: HCNO: N=37.7%  H=10.5%  C=20.2%  O=31.6%
+2026-05-07 20:32:59,124 - INFO - Ep-1 Step100: Reward=30.3462
+2026-05-07 20:32:59,124 - INFO - Eval 100: Reward=30.3462  State=[2.0, 5.0, 3.0, 3.0, 7.0, 4.5, 9.5]
+

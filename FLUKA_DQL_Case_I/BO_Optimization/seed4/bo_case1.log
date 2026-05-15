@@ -1,0 +1,418 @@
+2026-05-07 19:09:42,137 - INFO - FLUKA OK: abl_bo_eval1.inp (54.7s)
+2026-05-07 19:09:43,446 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:09:43,759 - INFO - Eval 1: HCNO: N=32.8%  H=4.6%  C=28.0%  O=34.6%
+2026-05-07 19:09:43,880 - INFO - Eval 1: Reward=22.7407  State=[np.float64(2.0), np.float64(2.5), np.float64(6.0), np.float64(3.0), np.float64(7.0), np.float64(5.0), np.float64(5.5)]
+2026-05-07 19:09:43,882 - INFO - New Best: 22.7407 at eval 1
+2026-05-07 19:10:50,007 - INFO - FLUKA OK: abl_bo_eval2.inp (65.1s)
+2026-05-07 19:10:50,047 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:10:50,069 - INFO - Eval 2: HCNO: N=48.4%  H=9.2%  C=21.9%  O=20.5%
+2026-05-07 19:10:50,069 - INFO - Eval 2: Reward=19.4813  State=[np.float64(4.0), np.float64(3.5), np.float64(5.5), np.float64(7.5), np.float64(3.5), np.float64(7.5), np.float64(2.5)]
+2026-05-07 19:11:53,441 - INFO - FLUKA OK: abl_bo_eval3.inp (62.7s)
+2026-05-07 19:12:01,710 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:12:02,963 - INFO - Eval 3: HCNO: N=39.0%  H=7.6%  C=20.4%  O=33.0%
+2026-05-07 19:12:03,842 - INFO - Eval 3: Reward=25.8570  State=[np.float64(6.5), np.float64(3.0), np.float64(2.5), np.float64(3.0), np.float64(3.5), np.float64(8.0), np.float64(4.5)]
+2026-05-07 19:12:03,923 - INFO - New Best: 25.8570 at eval 3
+2026-05-07 19:13:18,672 - INFO - FLUKA OK: abl_bo_eval4.inp (65.1s)
+2026-05-07 19:13:18,727 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:13:18,766 - INFO - Eval 4: HCNO: N=40.0%  H=9.1%  C=14.5%  O=36.4%
+2026-05-07 19:13:18,822 - INFO - Eval 4: Reward=27.9293  State=[np.float64(5.5), np.float64(8.0), np.float64(3.5), np.float64(3.0), np.float64(3.0), np.float64(7.0), np.float64(2.0)]
+2026-05-07 19:13:18,822 - INFO - New Best: 27.9293 at eval 4
+2026-05-07 19:14:22,233 - INFO - FLUKA OK: abl_bo_eval5.inp (63.3s)
+2026-05-07 19:14:22,349 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:14:22,352 - INFO - Eval 5: HCNO: N=32.6%  H=9.6%  C=33.9%  O=23.9%
+2026-05-07 19:14:22,451 - INFO - Eval 5: Reward=21.1458  State=[np.float64(6.0), np.float64(4.5), np.float64(3.0), np.float64(4.0), np.float64(7.0), np.float64(7.5), np.float64(4.0)]
+2026-05-07 19:15:21,663 - INFO - FLUKA OK: abl_bo_eval6.inp (59.1s)
+2026-05-07 19:15:21,717 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:15:21,754 - INFO - Eval 6: HCNO: N=46.3%  H=9.5%  C=23.3%  O=21.0%
+2026-05-07 19:15:21,784 - INFO - Eval 6: Reward=18.9091  State=[np.float64(5.0), np.float64(5.5), np.float64(4.5), np.float64(2.5), np.float64(7.5), np.float64(5.5), np.float64(2.0)]
+2026-05-07 19:16:18,487 - INFO - FLUKA OK: abl_bo_eval7.inp (56.7s)
+2026-05-07 19:16:18,538 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:16:18,548 - INFO - Eval 7: HCNO: N=34.0%  H=8.7%  C=32.4%  O=24.9%
+2026-05-07 19:16:18,549 - INFO - Eval 7: Reward=14.1465  State=[np.float64(4.5), np.float64(2.5), np.float64(2.5), np.float64(7.0), np.float64(5.0), np.float64(6.0), np.float64(9.0)]
+2026-05-07 19:17:08,235 - INFO - FLUKA OK: abl_bo_eval8.inp (49.6s)
+2026-05-07 19:17:08,291 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:17:08,307 - INFO - Eval 8: HCNO: N=27.0%  H=9.5%  C=19.9%  O=43.6%
+2026-05-07 19:17:08,308 - INFO - Eval 8: Reward=8.0948  State=[np.float64(7.0), np.float64(3.0), np.float64(6.5), np.float64(6.5), np.float64(7.5), np.float64(5.0), np.float64(5.5)]
+2026-05-07 19:17:58,414 - INFO - FLUKA OK: abl_bo_eval9.inp (50.1s)
+2026-05-07 19:17:58,488 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:17:58,491 - INFO - Eval 9: HCNO: N=26.1%  H=7.6%  C=27.1%  O=39.2%
+2026-05-07 19:17:58,491 - INFO - Eval 9: Reward=14.9263  State=[np.float64(6.0), np.float64(7.0), np.float64(5.0), np.float64(6.5), np.float64(4.5), np.float64(5.0), np.float64(1.0)]
+2026-05-07 19:18:47,398 - INFO - FLUKA OK: abl_bo_eval10.inp (48.9s)
+2026-05-07 19:18:47,721 - WARNING - prefix 'abl_bo_eval10' unit 24: expected 5 cycle files, found 10: ['abl_bo_eval10001_fort.24', 'abl_bo_eval10002_fort.24', 'abl_bo_eval10003_fort.24', 'abl_bo_eval10004_fort.24', 'abl_bo_eval10005_fort.24', 'abl_bo_eval1001_fort.24', 'abl_bo_eval1002_fort.24', 'abl_bo_eval1003_fort.24', 'abl_bo_eval1004_fort.24', 'abl_bo_eval1005_fort.24']
+2026-05-07 19:18:47,983 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 19:18:48,065 - INFO - Eval 10: HCNO: N=32.7%  H=8.1%  C=24.3%  O=34.9%
+2026-05-07 19:18:48,087 - INFO - Eval 10: Reward=25.9096  State=[np.float64(6.5), np.float64(2.5), np.float64(7.5), np.float64(2.5), np.float64(6.0), np.float64(4.5), np.float64(3.0)]
+2026-05-07 19:20:23,599 - INFO - FLUKA OK: abl_bo_eval11.inp (53.8s)
+2026-05-07 19:20:23,647 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval11_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:20:23,650 - INFO - Eval 11: HCNO: N=31.9%  H=13.9%  C=27.6%  O=26.5%
+2026-05-07 19:20:23,650 - INFO - Eval 11: Reward=35.1101  State=[np.float64(2.0), np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(3.5), np.float64(2.0), np.float64(6.5)]
+2026-05-07 19:20:23,650 - INFO - New Best: 35.1101 at eval 11
+2026-05-07 19:25:03,985 - INFO - FLUKA OK: abl_bo_eval12.inp (56.8s)
+2026-05-07 19:25:04,658 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval12_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:25:04,875 - INFO - Eval 12: HCNO: N=33.3%  H=12.6%  C=22.3%  O=31.8%
+2026-05-07 19:25:05,109 - INFO - Eval 12: Reward=27.1666  State=[np.float64(2.0), np.float64(2.0), np.float64(8.0), np.float64(3.0), np.float64(2.0), np.float64(2.0), np.float64(10.0)]
+2026-05-07 19:25:59,781 - INFO - FLUKA OK: abl_bo_eval13.inp (52.1s)
+2026-05-07 19:25:59,784 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval13_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:25:59,785 - INFO - Eval 13: HCNO: N=32.2%  H=3.7%  C=17.7%  O=46.4%
+2026-05-07 19:25:59,785 - INFO - Eval 13: Reward=8.5630  State=[np.float64(2.0), np.float64(8.0), np.float64(8.0), np.float64(2.0), np.float64(4.0), np.float64(7.0), np.float64(9.5)]
+2026-05-07 19:26:51,864 - INFO - FLUKA OK: abl_bo_eval14.inp (49.8s)
+2026-05-07 19:26:51,871 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval14_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:26:51,874 - INFO - Eval 14: HCNO: N=37.8%  H=5.7%  C=26.0%  O=30.5%
+2026-05-07 19:26:51,874 - INFO - Eval 14: Reward=27.3436  State=[np.float64(4.0), np.float64(2.0), np.float64(7.5), np.float64(2.0), np.float64(3.5), np.float64(2.0), np.float64(3.5)]
+2026-05-07 19:27:50,019 - INFO - FLUKA OK: abl_bo_eval15.inp (56.7s)
+2026-05-07 19:27:50,025 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval15_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:27:50,025 - INFO - Eval 15: HCNO: N=42.3%  H=14.3%  C=18.3%  O=25.1%
+2026-05-07 19:27:50,026 - INFO - Eval 15: Reward=29.6394  State=[np.float64(2.0), np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(5.5), np.float64(2.0), np.float64(5.0)]
+2026-05-07 19:28:39,957 - INFO - FLUKA OK: abl_bo_eval16.inp (48.6s)
+2026-05-07 19:28:39,978 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval16_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:28:39,979 - INFO - Eval 16: HCNO: N=33.9%  H=8.5%  C=27.0%  O=30.6%
+2026-05-07 19:28:39,979 - INFO - Eval 16: Reward=29.3335  State=[np.float64(5.0), np.float64(2.5), np.float64(8.0), np.float64(2.0), np.float64(2.0), np.float64(2.5), np.float64(6.5)]
+2026-05-07 19:29:37,335 - INFO - FLUKA OK: abl_bo_eval17.inp (55.5s)
+2026-05-07 19:29:37,340 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval17_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:29:37,341 - INFO - Eval 17: HCNO: N=41.7%  H=9.0%  C=23.1%  O=26.2%
+2026-05-07 19:29:37,342 - INFO - Eval 17: Reward=29.1288  State=[np.float64(3.5), np.float64(2.5), np.float64(5.5), np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(8.0)]
+2026-05-07 19:30:33,025 - INFO - FLUKA OK: abl_bo_eval18.inp (54.4s)
+2026-05-07 19:30:33,046 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval18_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:30:33,049 - INFO - Eval 18: HCNO: N=45.4%  H=11.2%  C=13.5%  O=29.9%
+2026-05-07 19:30:33,050 - INFO - Eval 18: Reward=26.4423  State=[np.float64(8.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(8.0), np.float64(1.0)]
+2026-05-07 19:31:32,627 - INFO - FLUKA OK: abl_bo_eval19.inp (58.0s)
+2026-05-07 19:31:32,647 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval19_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:31:32,648 - INFO - Eval 19: HCNO: N=33.3%  H=14.0%  C=27.7%  O=25.0%
+2026-05-07 19:31:32,648 - INFO - Eval 19: Reward=36.6787  State=[np.float64(2.0), np.float64(6.5), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(6.5)]
+2026-05-07 19:31:32,658 - INFO - New Best: 36.6787 at eval 19
+2026-05-07 19:32:25,383 - INFO - FLUKA OK: abl_bo_eval20.inp (50.7s)
+2026-05-07 19:32:25,385 - WARNING - prefix 'abl_bo_eval20' unit 24: expected 5 cycle files, found 10: ['abl_bo_eval20001_fort.24', 'abl_bo_eval20002_fort.24', 'abl_bo_eval20003_fort.24', 'abl_bo_eval20004_fort.24', 'abl_bo_eval20005_fort.24', 'abl_bo_eval2001_fort.24', 'abl_bo_eval2002_fort.24', 'abl_bo_eval2003_fort.24', 'abl_bo_eval2004_fort.24', 'abl_bo_eval2005_fort.24']
+2026-05-07 19:32:25,857 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval20_out_tab.lis (10 cycles, unit 24)
+2026-05-07 19:32:25,859 - INFO - Eval 20: HCNO: N=39.9%  H=12.7%  C=25.6%  O=21.8%
+2026-05-07 19:32:25,859 - INFO - Eval 20: Reward=29.9352  State=[np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(3.0), np.float64(2.0), np.float64(2.0), np.float64(6.5)]
+2026-05-07 19:34:29,973 - INFO - FLUKA OK: abl_bo_eval21.inp (47.9s)
+2026-05-07 19:34:29,991 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval21_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:34:29,991 - INFO - Eval 21: HCNO: N=35.8%  H=14.6%  C=25.7%  O=23.8%
+2026-05-07 19:34:29,994 - INFO - Eval 21: Reward=25.4545  State=[np.float64(2.0), np.float64(6.0), np.float64(3.0), np.float64(8.0), np.float64(2.0), np.float64(2.0), np.float64(10.0)]
+2026-05-07 19:35:17,628 - INFO - FLUKA OK: abl_bo_eval22.inp (45.7s)
+2026-05-07 19:35:17,635 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval22_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:35:17,635 - INFO - Eval 22: HCNO: N=50.0%  H=5.7%  C=20.1%  O=24.1%
+2026-05-07 19:35:17,636 - INFO - Eval 22: Reward=21.2613  State=[np.float64(8.0), np.float64(3.5), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(6.5)]
+2026-05-07 19:36:10,887 - INFO - FLUKA OK: abl_bo_eval23.inp (51.7s)
+2026-05-07 19:36:10,893 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval23_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:36:10,896 - INFO - Eval 23: HCNO: N=31.4%  H=10.6%  C=24.2%  O=33.9%
+2026-05-07 19:36:10,896 - INFO - Eval 23: Reward=30.3997  State=[np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(2.5), np.float64(7.0)]
+2026-05-07 19:37:02,724 - INFO - FLUKA OK: abl_bo_eval24.inp (50.4s)
+2026-05-07 19:37:02,729 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval24_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:37:02,732 - INFO - Eval 24: HCNO: N=39.8%  H=10.1%  C=28.4%  O=21.7%
+2026-05-07 19:37:02,732 - INFO - Eval 24: Reward=33.1206  State=[np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(5.5), np.float64(8.0), np.float64(2.0), np.float64(1.0)]
+2026-05-07 19:37:52,521 - INFO - FLUKA OK: abl_bo_eval25.inp (48.4s)
+2026-05-07 19:37:52,526 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval25_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:37:52,530 - INFO - Eval 25: HCNO: N=41.4%  H=12.3%  C=20.8%  O=25.5%
+2026-05-07 19:37:52,530 - INFO - Eval 25: Reward=38.1394  State=[np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(1.0)]
+2026-05-07 19:37:52,530 - INFO - New Best: 38.1394 at eval 25
+2026-05-07 19:38:40,613 - INFO - FLUKA OK: abl_bo_eval26.inp (46.8s)
+2026-05-07 19:38:40,618 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval26_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:38:40,620 - INFO - Eval 26: HCNO: N=39.9%  H=9.2%  C=23.2%  O=27.7%
+2026-05-07 19:38:40,620 - INFO - Eval 26: Reward=26.4899  State=[np.float64(8.0), np.float64(5.5), np.float64(3.0), np.float64(6.5), np.float64(7.0), np.float64(3.5), np.float64(9.0)]
+2026-05-07 19:39:31,064 - INFO - FLUKA OK: abl_bo_eval27.inp (49.2s)
+2026-05-07 19:39:31,072 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval27_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:39:31,072 - INFO - Eval 27: HCNO: N=43.5%  H=8.4%  C=26.4%  O=21.7%
+2026-05-07 19:39:31,073 - INFO - Eval 27: Reward=36.8344  State=[np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(2.0), np.float64(3.5), np.float64(3.0), np.float64(1.0)]
+2026-05-07 19:40:33,370 - INFO - FLUKA OK: abl_bo_eval28.inp (61.1s)
+2026-05-07 19:40:33,376 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval28_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:40:33,377 - INFO - Eval 28: HCNO: N=38.0%  H=12.1%  C=22.2%  O=27.7%
+2026-05-07 19:40:33,377 - INFO - Eval 28: Reward=34.9306  State=[np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(6.5), np.float64(3.0), np.float64(1.0)]
+2026-05-07 19:41:27,303 - INFO - FLUKA OK: abl_bo_eval29.inp (52.5s)
+2026-05-07 19:41:27,309 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval29_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:41:27,309 - INFO - Eval 29: HCNO: N=35.1%  H=14.9%  C=25.9%  O=24.1%
+2026-05-07 19:41:27,310 - INFO - Eval 29: Reward=33.8419  State=[np.float64(2.0), np.float64(7.5), np.float64(2.0), np.float64(2.0), np.float64(7.5), np.float64(3.5), np.float64(1.0)]
+2026-05-07 19:42:20,679 - INFO - FLUKA OK: abl_bo_eval30.inp (51.9s)
+2026-05-07 19:42:20,680 - WARNING - prefix 'abl_bo_eval30' unit 24: expected 5 cycle files, found 10: ['abl_bo_eval30001_fort.24', 'abl_bo_eval30002_fort.24', 'abl_bo_eval30003_fort.24', 'abl_bo_eval30004_fort.24', 'abl_bo_eval30005_fort.24', 'abl_bo_eval3001_fort.24', 'abl_bo_eval3002_fort.24', 'abl_bo_eval3003_fort.24', 'abl_bo_eval3004_fort.24', 'abl_bo_eval3005_fort.24']
+2026-05-07 19:42:20,820 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval30_out_tab.lis (10 cycles, unit 24)
+2026-05-07 19:42:20,821 - INFO - Eval 30: HCNO: N=42.2%  H=11.5%  C=18.2%  O=28.1%
+2026-05-07 19:42:20,821 - INFO - Eval 30: Reward=32.2327  State=[np.float64(2.0), np.float64(2.5), np.float64(2.0), np.float64(6.5), np.float64(2.5), np.float64(3.0), np.float64(1.0)]
+2026-05-07 19:43:14,555 - INFO - FLUKA OK: abl_bo_eval31.inp (50.4s)
+2026-05-07 19:43:14,563 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval31_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:43:14,563 - INFO - Eval 31: HCNO: N=39.8%  H=14.3%  C=23.8%  O=22.0%
+2026-05-07 19:43:14,564 - INFO - Eval 31: Reward=22.2623  State=[np.float64(5.0), np.float64(8.0), np.float64(2.0), np.float64(2.0), np.float64(5.5), np.float64(3.5), np.float64(1.0)]
+2026-05-07 19:44:06,619 - INFO - FLUKA OK: abl_bo_eval32.inp (51.0s)
+2026-05-07 19:44:06,625 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval32_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:44:06,628 - INFO - Eval 32: HCNO: N=40.0%  H=13.0%  C=23.6%  O=23.4%
+2026-05-07 19:44:06,628 - INFO - Eval 32: Reward=17.8913  State=[np.float64(8.0), np.float64(5.0), np.float64(5.5), np.float64(8.0), np.float64(4.0), np.float64(2.0), np.float64(1.0)]
+2026-05-07 19:44:58,961 - INFO - FLUKA OK: abl_bo_eval33.inp (50.2s)
+2026-05-07 19:44:58,964 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval33_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:44:58,965 - INFO - Eval 33: HCNO: N=44.9%  H=8.7%  C=24.7%  O=21.8%
+2026-05-07 19:44:58,965 - INFO - Eval 33: Reward=18.9301  State=[np.float64(6.5), np.float64(8.0), np.float64(3.0), np.float64(6.0), np.float64(3.0), np.float64(7.0), np.float64(5.5)]
+2026-05-07 19:45:55,359 - INFO - FLUKA OK: abl_bo_eval34.inp (53.4s)
+2026-05-07 19:45:55,365 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval34_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:45:55,365 - INFO - Eval 34: HCNO: N=40.7%  H=9.1%  C=13.6%  O=36.7%
+2026-05-07 19:45:55,366 - INFO - Eval 34: Reward=37.1327  State=[np.float64(5.5), np.float64(2.5), np.float64(2.5), np.float64(2.5), np.float64(4.5), np.float64(6.5), np.float64(3.5)]
+2026-05-07 19:46:55,177 - INFO - FLUKA OK: abl_bo_eval35.inp (56.7s)
+2026-05-07 19:46:55,183 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval35_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:46:55,183 - INFO - Eval 35: HCNO: N=47.0%  H=14.9%  C=18.5%  O=19.6%
+2026-05-07 19:46:55,183 - INFO - Eval 35: Reward=27.0450  State=[np.float64(5.5), np.float64(2.0), np.float64(2.5), np.float64(2.5), np.float64(5.5), np.float64(2.5), np.float64(3.0)]
+2026-05-07 19:47:54,669 - INFO - FLUKA OK: abl_bo_eval36.inp (56.8s)
+2026-05-07 19:47:54,675 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval36_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:47:54,677 - INFO - Eval 36: HCNO: N=45.1%  H=8.9%  C=19.6%  O=26.4%
+2026-05-07 19:47:54,677 - INFO - Eval 36: Reward=24.6751  State=[np.float64(3.0), np.float64(2.5), np.float64(2.0), np.float64(2.0), np.float64(4.0), np.float64(6.5), np.float64(1.0)]
+2026-05-07 19:48:48,993 - INFO - FLUKA OK: abl_bo_eval37.inp (51.5s)
+2026-05-07 19:48:48,999 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval37_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:48:48,999 - INFO - Eval 37: HCNO: N=42.3%  H=13.6%  C=22.7%  O=21.3%
+2026-05-07 19:48:49,000 - INFO - Eval 37: Reward=36.5379  State=[np.float64(2.0), np.float64(5.5), np.float64(2.0), np.float64(3.0), np.float64(2.0), np.float64(2.0), np.float64(4.0)]
+2026-05-07 19:49:41,796 - INFO - FLUKA OK: abl_bo_eval38.inp (49.9s)
+2026-05-07 19:49:41,802 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval38_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:49:41,803 - INFO - Eval 38: HCNO: N=36.8%  H=9.7%  C=18.3%  O=35.1%
+2026-05-07 19:49:41,803 - INFO - Eval 38: Reward=31.8951  State=[np.float64(2.0), np.float64(4.5), np.float64(2.0), np.float64(4.0), np.float64(2.0), np.float64(5.0), np.float64(7.5)]
+2026-05-07 19:50:35,265 - INFO - FLUKA OK: abl_bo_eval39.inp (51.0s)
+2026-05-07 19:50:35,273 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval39_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:50:35,273 - INFO - Eval 39: HCNO: N=38.3%  H=8.3%  C=22.6%  O=30.8%
+2026-05-07 19:50:35,274 - INFO - Eval 39: Reward=25.4850  State=[np.float64(2.0), np.float64(7.5), np.float64(2.0), np.float64(4.0), np.float64(2.0), np.float64(4.5), np.float64(1.0)]
+2026-05-07 19:51:33,272 - INFO - FLUKA OK: abl_bo_eval40.inp (53.5s)
+2026-05-07 19:51:33,274 - WARNING - prefix 'abl_bo_eval40' unit 24: expected 5 cycle files, found 10: ['abl_bo_eval40001_fort.24', 'abl_bo_eval40002_fort.24', 'abl_bo_eval40003_fort.24', 'abl_bo_eval40004_fort.24', 'abl_bo_eval40005_fort.24', 'abl_bo_eval4001_fort.24', 'abl_bo_eval4002_fort.24', 'abl_bo_eval4003_fort.24', 'abl_bo_eval4004_fort.24', 'abl_bo_eval4005_fort.24']
+2026-05-07 19:51:33,301 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval40_out_tab.lis (10 cycles, unit 24)
+2026-05-07 19:51:33,301 - INFO - Eval 40: HCNO: N=43.5%  H=8.7%  C=20.3%  O=27.6%
+2026-05-07 19:51:33,301 - INFO - Eval 40: Reward=27.8789  State=[np.float64(2.0), np.float64(2.0), np.float64(4.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(1.5)]
+2026-05-07 19:52:26,998 - INFO - FLUKA OK: abl_bo_eval41.inp (50.1s)
+2026-05-07 19:52:27,005 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval41_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:52:27,006 - INFO - Eval 41: HCNO: N=36.8%  H=15.5%  C=17.8%  O=29.9%
+2026-05-07 19:52:27,006 - INFO - Eval 41: Reward=23.7664  State=[np.float64(8.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(4.5), np.float64(6.0), np.float64(10.0)]
+2026-05-07 19:53:23,875 - INFO - FLUKA OK: abl_bo_eval42.inp (53.9s)
+2026-05-07 19:53:23,881 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval42_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:53:23,883 - INFO - Eval 42: HCNO: N=53.0%  H=9.7%  C=16.1%  O=21.2%
+2026-05-07 19:53:23,884 - INFO - Eval 42: Reward=20.3317  State=[np.float64(2.0), np.float64(3.5), np.float64(8.0), np.float64(8.0), np.float64(7.5), np.float64(2.0), np.float64(5.0)]
+2026-05-07 19:54:26,048 - INFO - FLUKA OK: abl_bo_eval43.inp (58.7s)
+2026-05-07 19:54:26,052 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval43_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:54:26,052 - INFO - Eval 43: HCNO: N=38.3%  H=7.5%  C=28.0%  O=26.1%
+2026-05-07 19:54:26,055 - INFO - Eval 43: Reward=28.8510  State=[np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(4.0), np.float64(8.0), np.float64(2.0), np.float64(4.5)]
+2026-05-07 19:55:18,865 - INFO - FLUKA OK: abl_bo_eval44.inp (49.2s)
+2026-05-07 19:55:18,870 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval44_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:55:18,874 - INFO - Eval 44: HCNO: N=36.4%  H=6.2%  C=29.1%  O=28.3%
+2026-05-07 19:55:18,874 - INFO - Eval 44: Reward=19.4989  State=[np.float64(8.0), np.float64(4.0), np.float64(8.0), np.float64(2.0), np.float64(7.0), np.float64(2.0), np.float64(2.5)]
+2026-05-07 19:56:14,395 - INFO - FLUKA OK: abl_bo_eval45.inp (52.5s)
+2026-05-07 19:56:14,400 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval45_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:56:14,403 - INFO - Eval 45: HCNO: N=25.3%  H=5.0%  C=37.3%  O=32.4%
+2026-05-07 19:56:14,403 - INFO - Eval 45: Reward=15.8960  State=[np.float64(8.0), np.float64(4.5), np.float64(8.0), np.float64(2.0), np.float64(4.5), np.float64(8.0), np.float64(4.5)]
+2026-05-07 19:57:14,133 - INFO - FLUKA OK: abl_bo_eval46.inp (57.6s)
+2026-05-07 19:57:14,139 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval46_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:57:14,142 - INFO - Eval 46: HCNO: N=35.5%  H=8.3%  C=29.1%  O=27.2%
+2026-05-07 19:57:14,142 - INFO - Eval 46: Reward=29.3555  State=[np.float64(2.0), np.float64(5.5), np.float64(2.0), np.float64(2.0), np.float64(6.0), np.float64(8.0), np.float64(5.0)]
+2026-05-07 19:58:07,865 - INFO - FLUKA OK: abl_bo_eval47.inp (51.0s)
+2026-05-07 19:58:07,872 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval47_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:58:07,873 - INFO - Eval 47: HCNO: N=44.9%  H=8.2%  C=19.9%  O=27.0%
+2026-05-07 19:58:07,873 - INFO - Eval 47: Reward=19.0932  State=[np.float64(8.0), np.float64(5.5), np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(2.0), np.float64(2.5)]
+2026-05-07 19:59:04,733 - INFO - FLUKA OK: abl_bo_eval48.inp (53.3s)
+2026-05-07 19:59:04,737 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval48_out_tab.lis (5 cycles, unit 24)
+2026-05-07 19:59:04,737 - INFO - Eval 48: HCNO: N=43.1%  H=8.3%  C=13.7%  O=34.9%
+2026-05-07 19:59:04,748 - INFO - Eval 48: Reward=20.4607  State=[np.float64(5.5), np.float64(3.5), np.float64(2.5), np.float64(3.5), np.float64(3.5), np.float64(7.5), np.float64(6.5)]
+2026-05-07 20:00:04,335 - INFO - FLUKA OK: abl_bo_eval49.inp (56.7s)
+2026-05-07 20:00:04,339 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval49_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:00:04,339 - INFO - Eval 49: HCNO: N=41.7%  H=12.5%  C=19.6%  O=26.2%
+2026-05-07 20:00:04,339 - INFO - Eval 49: Reward=34.6161  State=[np.float64(2.0), np.float64(4.0), np.float64(2.0), np.float64(2.0), np.float64(2.5), np.float64(2.0), np.float64(7.0)]
+2026-05-07 20:01:13,523 - INFO - FLUKA OK: abl_bo_eval50.inp (66.4s)
+2026-05-07 20:01:13,524 - WARNING - prefix 'abl_bo_eval50' unit 24: expected 5 cycle files, found 10: ['abl_bo_eval50001_fort.24', 'abl_bo_eval50002_fort.24', 'abl_bo_eval50003_fort.24', 'abl_bo_eval50004_fort.24', 'abl_bo_eval50005_fort.24', 'abl_bo_eval5001_fort.24', 'abl_bo_eval5002_fort.24', 'abl_bo_eval5003_fort.24', 'abl_bo_eval5004_fort.24', 'abl_bo_eval5005_fort.24']
+2026-05-07 20:01:13,630 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval50_out_tab.lis (10 cycles, unit 24)
+2026-05-07 20:01:13,630 - INFO - Eval 50: HCNO: N=40.9%  H=8.6%  C=26.9%  O=23.6%
+2026-05-07 20:01:13,631 - INFO - Eval 50: Reward=26.4254  State=[np.float64(2.0), np.float64(3.5), np.float64(2.0), np.float64(2.0), np.float64(6.0), np.float64(2.0), np.float64(9.5)]
+2026-05-07 20:02:11,481 - INFO - FLUKA OK: abl_bo_eval51.inp (53.7s)
+2026-05-07 20:02:11,487 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval51_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:02:11,489 - INFO - Eval 51: HCNO: N=39.0%  H=7.5%  C=24.8%  O=28.7%
+2026-05-07 20:02:11,489 - INFO - Eval 51: Reward=34.3383  State=[np.float64(2.0), np.float64(2.5), np.float64(4.5), np.float64(2.0), np.float64(7.5), np.float64(2.0), np.float64(1.0)]
+2026-05-07 20:03:05,565 - INFO - FLUKA OK: abl_bo_eval52.inp (51.5s)
+2026-05-07 20:03:05,587 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval52_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:03:05,598 - INFO - Eval 52: HCNO: N=42.6%  H=7.3%  C=23.2%  O=26.9%
+2026-05-07 20:03:05,598 - INFO - Eval 52: Reward=26.9582  State=[np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(2.0), np.float64(3.5), np.float64(2.0), np.float64(1.0)]
+2026-05-07 20:04:03,464 - INFO - FLUKA OK: abl_bo_eval53.inp (55.0s)
+2026-05-07 20:04:03,470 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval53_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:04:03,471 - INFO - Eval 53: HCNO: N=53.4%  H=6.2%  C=21.5%  O=18.9%
+2026-05-07 20:04:03,471 - INFO - Eval 53: Reward=26.8891  State=[np.float64(2.0), np.float64(7.0), np.float64(2.0), np.float64(2.0), np.float64(7.5), np.float64(4.5), np.float64(5.0)]
+2026-05-07 20:05:04,671 - INFO - FLUKA OK: abl_bo_eval54.inp (57.5s)
+2026-05-07 20:05:04,677 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval54_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:05:04,678 - INFO - Eval 54: HCNO: N=44.8%  H=8.6%  C=21.3%  O=25.2%
+2026-05-07 20:05:04,678 - INFO - Eval 54: Reward=27.5481  State=[np.float64(2.0), np.float64(7.0), np.float64(2.0), np.float64(8.0), np.float64(4.0), np.float64(8.0), np.float64(1.5)]
+2026-05-07 20:06:01,376 - INFO - FLUKA OK: abl_bo_eval55.inp (53.4s)
+2026-05-07 20:06:01,381 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval55_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:06:01,384 - INFO - Eval 55: HCNO: N=43.5%  H=9.9%  C=19.3%  O=27.4%
+2026-05-07 20:06:01,384 - INFO - Eval 55: Reward=30.7444  State=[np.float64(2.0), np.float64(2.5), np.float64(4.5), np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(10.0)]
+2026-05-07 20:07:04,763 - INFO - FLUKA OK: abl_bo_eval56.inp (60.1s)
+2026-05-07 20:07:04,768 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval56_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:07:04,770 - INFO - Eval 56: HCNO: N=40.1%  H=16.3%  C=17.7%  O=26.0%
+2026-05-07 20:07:04,770 - INFO - Eval 56: Reward=27.0086  State=[np.float64(2.0), np.float64(5.0), np.float64(2.5), np.float64(6.5), np.float64(2.0), np.float64(2.0), np.float64(9.5)]
+2026-05-07 20:08:03,117 - INFO - FLUKA OK: abl_bo_eval57.inp (53.9s)
+2026-05-07 20:08:03,123 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval57_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:08:03,126 - INFO - Eval 57: HCNO: N=41.7%  H=14.5%  C=16.8%  O=27.0%
+2026-05-07 20:08:03,127 - INFO - Eval 57: Reward=30.6796  State=[np.float64(2.0), np.float64(7.5), np.float64(2.0), np.float64(2.0), np.float64(4.5), np.float64(7.5), np.float64(2.5)]
+2026-05-07 20:09:02,995 - INFO - FLUKA OK: abl_bo_eval58.inp (55.8s)
+2026-05-07 20:09:03,005 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval58_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:09:03,008 - INFO - Eval 58: HCNO: N=38.0%  H=15.2%  C=16.8%  O=30.0%
+2026-05-07 20:09:03,008 - INFO - Eval 58: Reward=19.1613  State=[np.float64(8.0), np.float64(3.5), np.float64(2.0), np.float64(7.5), np.float64(7.0), np.float64(8.0), np.float64(1.5)]
+2026-05-07 20:10:02,909 - INFO - FLUKA OK: abl_bo_eval59.inp (54.4s)
+2026-05-07 20:10:02,916 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval59_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:10:02,916 - INFO - Eval 59: HCNO: N=44.0%  H=7.6%  C=22.6%  O=25.9%
+2026-05-07 20:10:02,917 - INFO - Eval 59: Reward=24.2248  State=[np.float64(2.0), np.float64(6.5), np.float64(2.0), np.float64(6.0), np.float64(2.5), np.float64(2.0), np.float64(1.0)]
+2026-05-07 20:11:00,770 - INFO - FLUKA OK: abl_bo_eval60.inp (54.5s)
+2026-05-07 20:11:00,772 - WARNING - prefix 'abl_bo_eval60' unit 24: expected 5 cycle files, found 10: ['abl_bo_eval60001_fort.24', 'abl_bo_eval60002_fort.24', 'abl_bo_eval60003_fort.24', 'abl_bo_eval60004_fort.24', 'abl_bo_eval60005_fort.24', 'abl_bo_eval6001_fort.24', 'abl_bo_eval6002_fort.24', 'abl_bo_eval6003_fort.24', 'abl_bo_eval6004_fort.24', 'abl_bo_eval6005_fort.24']
+2026-05-07 20:11:00,805 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval60_out_tab.lis (10 cycles, unit 24)
+2026-05-07 20:11:00,806 - INFO - Eval 60: HCNO: N=40.0%  H=8.6%  C=24.2%  O=27.2%
+2026-05-07 20:11:00,806 - INFO - Eval 60: Reward=28.5653  State=[np.float64(2.0), np.float64(7.5), np.float64(7.5), np.float64(2.0), np.float64(7.0), np.float64(2.5), np.float64(4.0)]
+2026-05-07 20:11:58,766 - INFO - FLUKA OK: abl_bo_eval61.inp (53.5s)
+2026-05-07 20:11:58,773 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval61_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:11:58,773 - INFO - Eval 61: HCNO: N=35.2%  H=11.3%  C=27.7%  O=25.8%
+2026-05-07 20:11:58,774 - INFO - Eval 61: Reward=22.9714  State=[np.float64(2.0), np.float64(7.0), np.float64(2.5), np.float64(2.0), np.float64(3.5), np.float64(7.5), np.float64(9.0)]
+2026-05-07 20:13:00,099 - INFO - FLUKA OK: abl_bo_eval62.inp (57.7s)
+2026-05-07 20:13:00,109 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval62_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:13:00,110 - INFO - Eval 62: HCNO: N=33.6%  H=10.7%  C=27.3%  O=28.3%
+2026-05-07 20:13:00,110 - INFO - Eval 62: Reward=29.7204  State=[np.float64(2.0), np.float64(5.5), np.float64(7.0), np.float64(2.0), np.float64(3.0), np.float64(2.0), np.float64(1.0)]
+2026-05-07 20:13:58,741 - INFO - FLUKA OK: abl_bo_eval63.inp (55.7s)
+2026-05-07 20:13:58,747 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval63_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:13:58,751 - INFO - Eval 63: HCNO: N=39.4%  H=12.3%  C=22.3%  O=26.0%
+2026-05-07 20:13:58,751 - INFO - Eval 63: Reward=31.4451  State=[np.float64(2.5), np.float64(3.0), np.float64(2.5), np.float64(2.0), np.float64(2.5), np.float64(2.5), np.float64(10.0)]
+2026-05-07 20:14:54,137 - INFO - FLUKA OK: abl_bo_eval64.inp (51.9s)
+2026-05-07 20:14:54,143 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval64_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:14:54,146 - INFO - Eval 64: HCNO: N=29.0%  H=14.4%  C=30.3%  O=26.3%
+2026-05-07 20:14:54,146 - INFO - Eval 64: Reward=32.3959  State=[np.float64(2.0), np.float64(4.0), np.float64(3.5), np.float64(2.0), np.float64(3.5), np.float64(3.0), np.float64(9.0)]
+2026-05-07 20:15:52,330 - INFO - FLUKA OK: abl_bo_eval65.inp (55.2s)
+2026-05-07 20:15:53,077 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval65_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:15:53,086 - INFO - Eval 65: HCNO: N=38.2%  H=11.2%  C=21.1%  O=29.5%
+2026-05-07 20:15:53,097 - INFO - Eval 65: Reward=22.6113  State=[np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(2.5), np.float64(4.0), np.float64(4.5), np.float64(9.0)]
+2026-05-07 20:16:53,372 - INFO - FLUKA OK: abl_bo_eval66.inp (55.9s)
+2026-05-07 20:16:53,588 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval66_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:16:53,589 - INFO - Eval 66: HCNO: N=36.4%  H=18.9%  C=22.4%  O=22.3%
+2026-05-07 20:16:53,589 - INFO - Eval 66: Reward=24.2919  State=[np.float64(2.0), np.float64(5.0), np.float64(7.5), np.float64(2.0), np.float64(7.0), np.float64(3.0), np.float64(1.5)]
+2026-05-07 20:17:49,296 - INFO - FLUKA OK: abl_bo_eval67.inp (52.8s)
+2026-05-07 20:17:49,305 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval67_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:17:49,306 - INFO - Eval 67: HCNO: N=43.1%  H=10.2%  C=18.1%  O=28.6%
+2026-05-07 20:17:49,306 - INFO - Eval 67: Reward=28.8642  State=[np.float64(2.5), np.float64(3.0), np.float64(3.0), np.float64(2.0), np.float64(2.5), np.float64(2.0), np.float64(9.5)]
+2026-05-07 20:18:53,895 - INFO - FLUKA OK: abl_bo_eval68.inp (61.0s)
+2026-05-07 20:18:53,902 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval68_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:18:53,905 - INFO - Eval 68: HCNO: N=35.7%  H=15.6%  C=22.8%  O=25.9%
+2026-05-07 20:18:53,905 - INFO - Eval 68: Reward=31.1467  State=[np.float64(2.5), np.float64(5.0), np.float64(2.0), np.float64(2.5), np.float64(3.0), np.float64(7.5), np.float64(2.0)]
+2026-05-07 20:19:47,552 - INFO - FLUKA OK: abl_bo_eval69.inp (51.1s)
+2026-05-07 20:19:47,557 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval69_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:19:47,558 - INFO - Eval 69: HCNO: N=34.2%  H=6.0%  C=30.1%  O=29.7%
+2026-05-07 20:19:47,558 - INFO - Eval 69: Reward=8.0558  State=[np.float64(7.0), np.float64(5.5), np.float64(7.5), np.float64(2.0), np.float64(7.5), np.float64(2.0), np.float64(9.5)]
+2026-05-07 20:20:52,335 - INFO - FLUKA OK: abl_bo_eval70.inp (58.4s)
+2026-05-07 20:20:52,902 - WARNING - prefix 'abl_bo_eval70' unit 24: expected 5 cycle files, found 10: ['abl_bo_eval70001_fort.24', 'abl_bo_eval70002_fort.24', 'abl_bo_eval70003_fort.24', 'abl_bo_eval70004_fort.24', 'abl_bo_eval70005_fort.24', 'abl_bo_eval7001_fort.24', 'abl_bo_eval7002_fort.24', 'abl_bo_eval7003_fort.24', 'abl_bo_eval7004_fort.24', 'abl_bo_eval7005_fort.24']
+2026-05-07 20:20:55,744 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval70_out_tab.lis (10 cycles, unit 24)
+2026-05-07 20:20:55,744 - INFO - Eval 70: HCNO: N=41.7%  H=9.7%  C=27.6%  O=20.9%
+2026-05-07 20:20:55,746 - INFO - Eval 70: Reward=30.0004  State=[np.float64(2.5), np.float64(2.5), np.float64(3.0), np.float64(3.0), np.float64(8.0), np.float64(2.5), np.float64(1.5)]
+2026-05-07 20:21:53,841 - INFO - FLUKA OK: abl_bo_eval71.inp (52.3s)
+2026-05-07 20:21:53,852 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval71_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:21:53,853 - INFO - Eval 71: HCNO: N=40.6%  H=11.0%  C=24.8%  O=23.6%
+2026-05-07 20:21:53,853 - INFO - Eval 71: Reward=23.2688  State=[np.float64(2.0), np.float64(8.0), np.float64(8.0), np.float64(2.0), np.float64(2.5), np.float64(2.0), np.float64(1.5)]
+2026-05-07 20:22:55,860 - INFO - FLUKA OK: abl_bo_eval72.inp (57.6s)
+2026-05-07 20:22:55,887 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval72_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:22:55,889 - INFO - Eval 72: HCNO: N=44.6%  H=10.9%  C=18.5%  O=26.0%
+2026-05-07 20:22:55,889 - INFO - Eval 72: Reward=33.7103  State=[np.float64(2.0), np.float64(2.5), np.float64(7.0), np.float64(2.0), np.float64(3.0), np.float64(2.0), np.float64(2.0)]
+2026-05-07 20:23:56,414 - INFO - FLUKA OK: abl_bo_eval73.inp (56.3s)
+2026-05-07 20:23:56,424 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval73_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:23:56,425 - INFO - Eval 73: HCNO: N=44.7%  H=8.4%  C=20.4%  O=26.4%
+2026-05-07 20:23:56,425 - INFO - Eval 73: Reward=43.2666  State=[np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(1.0)]
+2026-05-07 20:23:56,425 - INFO - New Best: 43.2666 at eval 73
+2026-05-07 20:25:05,490 - INFO - FLUKA OK: abl_bo_eval74.inp (65.6s)
+2026-05-07 20:25:05,496 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval74_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:25:05,500 - INFO - Eval 74: HCNO: N=46.4%  H=9.3%  C=20.7%  O=23.5%
+2026-05-07 20:25:05,500 - INFO - Eval 74: Reward=34.7477  State=[np.float64(2.5), np.float64(2.0), np.float64(2.5), np.float64(6.5), np.float64(2.0), np.float64(2.0), np.float64(1.0)]
+2026-05-07 20:25:57,606 - INFO - FLUKA OK: abl_bo_eval75.inp (48.4s)
+2026-05-07 20:25:57,613 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval75_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:25:57,614 - INFO - Eval 75: HCNO: N=35.8%  H=14.7%  C=16.9%  O=32.6%
+2026-05-07 20:25:57,614 - INFO - Eval 75: Reward=28.9278  State=[np.float64(6.5), np.float64(2.0), np.float64(2.5), np.float64(2.0), np.float64(2.0), np.float64(2.5), np.float64(2.0)]
+2026-05-07 20:27:00,212 - INFO - FLUKA OK: abl_bo_eval76.inp (60.4s)
+2026-05-07 20:27:00,223 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval76_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:27:00,223 - INFO - Eval 76: HCNO: N=44.9%  H=10.1%  C=17.8%  O=27.1%
+2026-05-07 20:27:00,223 - INFO - Eval 76: Reward=39.2172  State=[np.float64(2.0), np.float64(2.0), np.float64(4.0), np.float64(2.0), np.float64(5.5), np.float64(6.5), np.float64(1.0)]
+2026-05-07 20:28:01,972 - INFO - FLUKA OK: abl_bo_eval77.inp (58.7s)
+2026-05-07 20:28:01,982 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval77_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:28:01,983 - INFO - Eval 77: HCNO: N=38.6%  H=11.5%  C=15.0%  O=34.9%
+2026-05-07 20:28:01,983 - INFO - Eval 77: Reward=32.5740  State=[np.float64(2.0), np.float64(4.0), np.float64(3.0), np.float64(2.0), np.float64(3.0), np.float64(8.0), np.float64(1.5)]
+2026-05-07 20:29:02,073 - INFO - FLUKA OK: abl_bo_eval78.inp (57.8s)
+2026-05-07 20:29:02,079 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval78_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:29:02,081 - INFO - Eval 78: HCNO: N=40.0%  H=13.9%  C=18.2%  O=28.0%
+2026-05-07 20:29:02,081 - INFO - Eval 78: Reward=36.9701  State=[np.float64(2.5), np.float64(2.0), np.float64(3.0), np.float64(3.0), np.float64(2.5), np.float64(2.5), np.float64(1.5)]
+2026-05-07 20:30:01,706 - INFO - FLUKA OK: abl_bo_eval79.inp (57.4s)
+2026-05-07 20:30:01,712 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval79_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:30:01,716 - INFO - Eval 79: HCNO: N=46.9%  H=12.9%  C=12.8%  O=27.4%
+2026-05-07 20:30:01,716 - INFO - Eval 79: Reward=26.7473  State=[np.float64(2.5), np.float64(2.5), np.float64(2.0), np.float64(3.0), np.float64(5.0), np.float64(7.0), np.float64(1.5)]
+2026-05-07 20:31:03,276 - INFO - FLUKA OK: abl_bo_eval80.inp (58.4s)
+2026-05-07 20:31:03,279 - WARNING - prefix 'abl_bo_eval80' unit 24: expected 5 cycle files, found 10: ['abl_bo_eval80001_fort.24', 'abl_bo_eval80002_fort.24', 'abl_bo_eval80003_fort.24', 'abl_bo_eval80004_fort.24', 'abl_bo_eval80005_fort.24', 'abl_bo_eval8001_fort.24', 'abl_bo_eval8002_fort.24', 'abl_bo_eval8003_fort.24', 'abl_bo_eval8004_fort.24', 'abl_bo_eval8005_fort.24']
+2026-05-07 20:31:03,297 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval80_out_tab.lis (10 cycles, unit 24)
+2026-05-07 20:31:03,299 - INFO - Eval 80: HCNO: N=42.2%  H=8.0%  C=20.4%  O=29.4%
+2026-05-07 20:31:03,302 - INFO - Eval 80: Reward=25.8060  State=[np.float64(2.5), np.float64(2.0), np.float64(2.0), np.float64(7.5), np.float64(3.5), np.float64(7.0), np.float64(2.0)]
+2026-05-07 20:32:02,881 - INFO - FLUKA OK: abl_bo_eval81.inp (56.6s)
+2026-05-07 20:32:02,887 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval81_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:32:02,888 - INFO - Eval 81: HCNO: N=40.2%  H=9.0%  C=17.9%  O=32.9%
+2026-05-07 20:32:02,890 - INFO - Eval 81: Reward=31.0378  State=[np.float64(2.5), np.float64(2.5), np.float64(6.0), np.float64(2.0), np.float64(4.5), np.float64(8.0), np.float64(1.0)]
+2026-05-07 20:33:00,541 - INFO - FLUKA OK: abl_bo_eval82.inp (55.6s)
+2026-05-07 20:33:00,549 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval82_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:33:00,551 - INFO - Eval 82: HCNO: N=32.6%  H=10.2%  C=20.1%  O=37.1%
+2026-05-07 20:33:00,551 - INFO - Eval 82: Reward=36.1265  State=[np.float64(2.0), np.float64(2.5), np.float64(7.5), np.float64(6.5), np.float64(2.5), np.float64(2.5), np.float64(2.0)]
+2026-05-07 20:33:48,839 - INFO - FLUKA OK: abl_bo_eval83.inp (46.4s)
+2026-05-07 20:33:48,846 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval83_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:33:48,846 - INFO - Eval 83: HCNO: N=39.2%  H=10.7%  C=25.2%  O=24.9%
+2026-05-07 20:33:48,847 - INFO - Eval 83: Reward=30.0680  State=[np.float64(2.0), np.float64(2.5), np.float64(7.5), np.float64(2.0), np.float64(3.0), np.float64(7.5), np.float64(1.5)]
+2026-05-07 20:34:34,001 - INFO - FLUKA OK: abl_bo_eval84.inp (43.6s)
+2026-05-07 20:34:34,009 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval84_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:34:34,011 - INFO - Eval 84: HCNO: N=38.5%  H=8.8%  C=19.4%  O=33.4%
+2026-05-07 20:34:34,011 - INFO - Eval 84: Reward=25.8671  State=[np.float64(2.0), np.float64(2.0), np.float64(8.0), np.float64(5.5), np.float64(5.0), np.float64(7.0), np.float64(1.5)]
+2026-05-07 20:35:15,501 - INFO - FLUKA OK: abl_bo_eval85.inp (39.3s)
+2026-05-07 20:35:15,505 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval85_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:35:15,505 - INFO - Eval 85: HCNO: N=39.1%  H=14.2%  C=26.9%  O=19.8%
+2026-05-07 20:35:15,506 - INFO - Eval 85: Reward=25.5692  State=[np.float64(2.5), np.float64(2.5), np.float64(7.0), np.float64(6.0), np.float64(2.0), np.float64(2.0), np.float64(1.5)]
+2026-05-07 20:35:56,069 - INFO - FLUKA OK: abl_bo_eval86.inp (39.5s)
+2026-05-07 20:35:56,074 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval86_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:35:56,075 - INFO - Eval 86: HCNO: N=44.7%  H=8.7%  C=20.8%  O=25.8%
+2026-05-07 20:35:56,075 - INFO - Eval 86: Reward=40.9993  State=[np.float64(2.0), np.float64(2.0), np.float64(2.5), np.float64(6.0), np.float64(2.0), np.float64(3.0), np.float64(1.0)]
+2026-05-07 20:36:34,851 - INFO - FLUKA OK: abl_bo_eval87.inp (37.5s)
+2026-05-07 20:36:34,857 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval87_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:36:34,857 - INFO - Eval 87: HCNO: N=37.9%  H=12.1%  C=19.7%  O=30.2%
+2026-05-07 20:36:34,857 - INFO - Eval 87: Reward=33.8147  State=[np.float64(2.0), np.float64(2.5), np.float64(7.5), np.float64(2.5), np.float64(2.5), np.float64(3.0), np.float64(1.5)]
+2026-05-07 20:37:15,570 - INFO - FLUKA OK: abl_bo_eval88.inp (39.3s)
+2026-05-07 20:37:15,575 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval88_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:37:15,576 - INFO - Eval 88: HCNO: N=40.7%  H=11.4%  C=21.1%  O=26.8%
+2026-05-07 20:37:15,576 - INFO - Eval 88: Reward=28.5008  State=[np.float64(2.5), np.float64(2.5), np.float64(2.5), np.float64(7.5), np.float64(2.5), np.float64(3.0), np.float64(1.0)]
+2026-05-07 20:37:56,669 - INFO - FLUKA OK: abl_bo_eval89.inp (39.4s)
+2026-05-07 20:37:56,673 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval89_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:37:56,673 - INFO - Eval 89: HCNO: N=44.1%  H=11.3%  C=22.1%  O=22.5%
+2026-05-07 20:37:56,674 - INFO - Eval 89: Reward=38.4688  State=[np.float64(2.0), np.float64(2.0), np.float64(2.5), np.float64(2.0), np.float64(2.5), np.float64(4.0), np.float64(2.5)]
+2026-05-07 20:38:35,732 - INFO - FLUKA OK: abl_bo_eval90.inp (37.9s)
+2026-05-07 20:38:35,735 - WARNING - prefix 'abl_bo_eval90' unit 24: expected 5 cycle files, found 10: ['abl_bo_eval90001_fort.24', 'abl_bo_eval90002_fort.24', 'abl_bo_eval90003_fort.24', 'abl_bo_eval90004_fort.24', 'abl_bo_eval90005_fort.24', 'abl_bo_eval9001_fort.24', 'abl_bo_eval9002_fort.24', 'abl_bo_eval9003_fort.24', 'abl_bo_eval9004_fort.24', 'abl_bo_eval9005_fort.24']
+2026-05-07 20:38:35,769 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval90_out_tab.lis (10 cycles, unit 24)
+2026-05-07 20:38:35,769 - INFO - Eval 90: HCNO: N=39.1%  H=7.8%  C=24.1%  O=29.0%
+2026-05-07 20:38:35,769 - INFO - Eval 90: Reward=30.2008  State=[np.float64(2.5), np.float64(2.0), np.float64(2.0), np.float64(2.5), np.float64(2.5), np.float64(3.0), np.float64(2.0)]
+2026-05-07 20:39:17,638 - INFO - FLUKA OK: abl_bo_eval91.inp (39.2s)
+2026-05-07 20:39:17,646 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval91_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:39:17,648 - INFO - Eval 91: HCNO: N=40.9%  H=11.3%  C=23.2%  O=24.5%
+2026-05-07 20:39:17,648 - INFO - Eval 91: Reward=39.2519  State=[np.float64(2.0), np.float64(2.0), np.float64(2.0), np.float64(2.5), np.float64(6.0), np.float64(2.0), np.float64(2.0)]
+2026-05-07 20:39:59,566 - INFO - FLUKA OK: abl_bo_eval92.inp (40.3s)
+2026-05-07 20:39:59,570 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval92_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:39:59,571 - INFO - Eval 92: HCNO: N=46.5%  H=12.0%  C=20.6%  O=20.8%
+2026-05-07 20:39:59,571 - INFO - Eval 92: Reward=28.7856  State=[np.float64(2.0), np.float64(2.5), np.float64(2.0), np.float64(3.0), np.float64(2.5), np.float64(8.0), np.float64(1.5)]
+2026-05-07 20:40:41,909 - INFO - FLUKA OK: abl_bo_eval93.inp (40.3s)
+2026-05-07 20:40:41,914 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval93_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:40:41,915 - INFO - Eval 93: HCNO: N=34.3%  H=15.3%  C=20.7%  O=29.8%
+2026-05-07 20:40:41,915 - INFO - Eval 93: Reward=30.9417  State=[np.float64(2.0), np.float64(2.5), np.float64(5.0), np.float64(2.0), np.float64(7.5), np.float64(2.0), np.float64(2.0)]
+2026-05-07 20:41:22,552 - INFO - FLUKA OK: abl_bo_eval94.inp (39.4s)
+2026-05-07 20:41:22,556 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval94_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:41:22,557 - INFO - Eval 94: HCNO: N=39.6%  H=15.8%  C=23.8%  O=20.8%
+2026-05-07 20:41:22,557 - INFO - Eval 94: Reward=32.0640  State=[np.float64(2.0), np.float64(3.0), np.float64(8.0), np.float64(2.5), np.float64(2.0), np.float64(7.0), np.float64(1.0)]
+2026-05-07 20:42:04,752 - INFO - FLUKA OK: abl_bo_eval95.inp (40.8s)
+2026-05-07 20:42:04,757 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval95_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:42:04,757 - INFO - Eval 95: HCNO: N=37.8%  H=10.8%  C=21.2%  O=30.2%
+2026-05-07 20:42:04,758 - INFO - Eval 95: Reward=24.4429  State=[np.float64(2.0), np.float64(2.0), np.float64(3.0), np.float64(8.0), np.float64(6.0), np.float64(2.0), np.float64(1.5)]
+2026-05-07 20:42:47,237 - INFO - FLUKA OK: abl_bo_eval96.inp (40.2s)
+2026-05-07 20:42:47,242 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval96_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:42:47,242 - INFO - Eval 96: HCNO: N=28.0%  H=9.1%  C=27.7%  O=35.2%
+2026-05-07 20:42:47,243 - INFO - Eval 96: Reward=19.9212  State=[np.float64(2.0), np.float64(2.5), np.float64(2.0), np.float64(8.0), np.float64(2.0), np.float64(8.0), np.float64(9.0)]
+2026-05-07 20:43:30,779 - INFO - FLUKA OK: abl_bo_eval97.inp (41.1s)
+2026-05-07 20:43:30,786 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval97_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:43:30,787 - INFO - Eval 97: HCNO: N=36.2%  H=11.0%  C=18.9%  O=33.9%
+2026-05-07 20:43:30,787 - INFO - Eval 97: Reward=35.7109  State=[np.float64(2.0), np.float64(2.5), np.float64(8.0), np.float64(2.0), np.float64(3.5), np.float64(8.0), np.float64(1.5)]
+2026-05-07 20:44:08,251 - INFO - FLUKA OK: abl_bo_eval98.inp (36.2s)
+2026-05-07 20:44:08,256 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval98_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:44:08,256 - INFO - Eval 98: HCNO: N=40.5%  H=14.8%  C=19.1%  O=25.6%
+2026-05-07 20:44:08,257 - INFO - Eval 98: Reward=39.2859  State=[np.float64(6.5), np.float64(2.0), np.float64(2.0), np.float64(2.5), np.float64(2.5), np.float64(2.0), np.float64(2.0)]
+2026-05-07 20:44:44,745 - INFO - FLUKA OK: abl_bo_eval99.inp (35.2s)
+2026-05-07 20:44:44,750 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval99_out_tab.lis (5 cycles, unit 24)
+2026-05-07 20:44:44,751 - INFO - Eval 99: HCNO: N=37.2%  H=6.5%  C=23.8%  O=32.6%
+2026-05-07 20:44:44,751 - INFO - Eval 99: Reward=25.6303  State=[np.float64(7.5), np.float64(7.5), np.float64(2.0), np.float64(3.0), np.float64(2.0), np.float64(4.5), np.float64(2.0)]
+2026-05-07 20:45:23,822 - INFO - FLUKA OK: abl_bo_eval100.inp (36.7s)
+2026-05-07 20:45:23,824 - WARNING - prefix 'abl_bo_eval100' unit 24: expected 5 cycle files, found 15: ['abl_bo_eval100001_fort.24', 'abl_bo_eval100002_fort.24', 'abl_bo_eval100003_fort.24', 'abl_bo_eval100004_fort.24', 'abl_bo_eval100005_fort.24', 'abl_bo_eval10001_fort.24', 'abl_bo_eval10002_fort.24', 'abl_bo_eval10003_fort.24', 'abl_bo_eval10004_fort.24', 'abl_bo_eval10005_fort.24', 'abl_bo_eval1001_fort.24', 'abl_bo_eval1002_fort.24', 'abl_bo_eval1003_fort.24', 'abl_bo_eval1004_fort.24', 'abl_bo_eval1005_fort.24']
+2026-05-07 20:45:23,879 - INFO - ustsuw OK ¡ú /home/marina/caseI/5runBO/run4/abl_bo_eval100_out_tab.lis (15 cycles, unit 24)
+2026-05-07 20:45:23,880 - INFO - Eval 100: HCNO: N=40.6%  H=11.4%  C=20.1%  O=27.9%
+2026-05-07 20:45:23,880 - INFO - Eval 100: Reward=31.0986  State=[np.float64(2.5), np.float64(4.0), np.float64(3.0), np.float64(2.5), np.float64(2.0), np.float64(2.5), np.float64(1.5)]
+

@@ -1,0 +1,70 @@
+*-* Running: bestcong
+Dir: /home/marina/stabilty_20_run_case2/run5
+Cmd: /usr/bin/nohup /home/marina/fluka/fluka/bin/rfluka -M 5 bestcong.inp
+/usr/bin/nohup: ignoring input
+
+                                   F L U K A
+
+Dir:   /home/marina/fluka/fluka
+Data:  /home/marina/fluka/fluka/data
+Exec:  /home/marina/fluka/fluka/bin/fluka
+Input: /home/marina/stabilty_20_run_case2/run5/bestcong.inp
+Initial seed copied from /home/marina/fluka/fluka/data
+Running fluka in /home/marina/stabilty_20_run_case2/run5/fluka_1157255
+
+======================== Running FLUKA for cycle # 1 ========================
+Removing links
+Removing temporary files
+Saving output and random number seed
+Saving additional files generated
+     Moving "fort.46" to "/home/marina/stabilty_20_run_case2/run5/bestcong001_fort.46"
+     Moving "fort.47" to "/home/marina/stabilty_20_run_case2/run5/bestcong001_fort.47"
+     Moving "fort.48" to "/home/marina/stabilty_20_run_case2/run5/bestcong001_fort.48"
+     Moving "fort.49" to "/home/marina/stabilty_20_run_case2/run5/bestcong001_fort.49"
+     Moving "fort.50" to "/home/marina/stabilty_20_run_case2/run5/bestcong001_fort.50"
+     Moving "fort.51" to "/home/marina/stabilty_20_run_case2/run5/bestcong001_fort.51"
+======================== Running FLUKA for cycle # 2 ========================
+Removing links
+Removing temporary files
+Saving output and random number seed
+Saving additional files generated
+     Moving "fort.46" to "/home/marina/stabilty_20_run_case2/run5/bestcong002_fort.46"
+     Moving "fort.47" to "/home/marina/stabilty_20_run_case2/run5/bestcong002_fort.47"
+     Moving "fort.48" to "/home/marina/stabilty_20_run_case2/run5/bestcong002_fort.48"
+     Moving "fort.49" to "/home/marina/stabilty_20_run_case2/run5/bestcong002_fort.49"
+     Moving "fort.50" to "/home/marina/stabilty_20_run_case2/run5/bestcong002_fort.50"
+     Moving "fort.51" to "/home/marina/stabilty_20_run_case2/run5/bestcong002_fort.51"
+======================== Running FLUKA for cycle # 3 ========================
+Removing links
+Removing temporary files
+Saving output and random number seed
+Saving additional files generated
+     Moving "fort.46" to "/home/marina/stabilty_20_run_case2/run5/bestcong003_fort.46"
+     Moving "fort.47" to "/home/marina/stabilty_20_run_case2/run5/bestcong003_fort.47"
+     Moving "fort.48" to "/home/marina/stabilty_20_run_case2/run5/bestcong003_fort.48"
+     Moving "fort.49" to "/home/marina/stabilty_20_run_case2/run5/bestcong003_fort.49"
+     Moving "fort.50" to "/home/marina/stabilty_20_run_case2/run5/bestcong003_fort.50"
+     Moving "fort.51" to "/home/marina/stabilty_20_run_case2/run5/bestcong003_fort.51"
+======================== Running FLUKA for cycle # 4 ========================
+Removing links
+Removing temporary files
+Saving output and random number seed
+Saving additional files generated
+     Moving "fort.46" to "/home/marina/stabilty_20_run_case2/run5/bestcong004_fort.46"
+     Moving "fort.47" to "/home/marina/stabilty_20_run_case2/run5/bestcong004_fort.47"
+     Moving "fort.48" to "/home/marina/stabilty_20_run_case2/run5/bestcong004_fort.48"
+     Moving "fort.49" to "/home/marina/stabilty_20_run_case2/run5/bestcong004_fort.49"
+     Moving "fort.50" to "/home/marina/stabilty_20_run_case2/run5/bestcong004_fort.50"
+     Moving "fort.51" to "/home/marina/stabilty_20_run_case2/run5/bestcong004_fort.51"
+======================== Running FLUKA for cycle # 5 ========================
+Removing links
+Removing temporary files
+Saving output and random number seed
+Saving additional files generated
+     Moving "fort.46" to "/home/marina/stabilty_20_run_case2/run5/bestcong005_fort.46"
+     Moving "fort.47" to "/home/marina/stabilty_20_run_case2/run5/bestcong005_fort.47"
+     Moving "fort.48" to "/home/marina/stabilty_20_run_case2/run5/bestcong005_fort.48"
+     Moving "fort.49" to "/home/marina/stabilty_20_run_case2/run5/bestcong005_fort.49"
+     Moving "fort.50" to "/home/marina/stabilty_20_run_case2/run5/bestcong005_fort.50"
+     Moving "fort.51" to "/home/marina/stabilty_20_run_case2/run5/bestcong005_fort.51"
+End of FLUKA run

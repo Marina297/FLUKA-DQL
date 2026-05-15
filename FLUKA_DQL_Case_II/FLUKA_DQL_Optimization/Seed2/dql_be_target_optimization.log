@@ -1,0 +1,288 @@
+2026-04-26 15:59:25,321 - INFO - Generated: be_target_ep1_step1.inp | T=2.5, W=7.0×11.0, NPS=600000, BEAMPOS=-45.0
+2026-04-26 16:03:27,123 - INFO - FLUKA completed: be_target_ep1_step1.inp
+2026-04-26 16:03:35,612 - INFO - Ep1 Step1: Reward=11.69 | Success=True
+2026-04-26 16:03:36,025 - INFO - Saved best configuration to bestcong.inp | T=2.5, W=7.0×11.0, NPS=600000, BEAMPOS=-45.0
+2026-04-26 16:03:36,754 - INFO - Generated: be_target_ep1_step2.inp | T=2.5, W=7.0×11.0, NPS=500000, BEAMPOS=-45.0
+2026-04-26 16:08:06,301 - INFO - FLUKA completed: be_target_ep1_step2.inp
+2026-04-26 16:08:15,770 - INFO - Ep1 Step2: Reward=21.37 | Success=True
+2026-04-26 16:08:16,364 - INFO - Saved best configuration to bestcong.inp | T=2.5, W=7.0×11.0, NPS=500000, BEAMPOS=-45.0
+2026-04-26 16:08:16,696 - INFO - Generated: be_target_ep1_step3.inp | T=2.5, W=7.0×10.0, NPS=500000, BEAMPOS=-45.0
+2026-04-26 16:13:16,723 - INFO - FLUKA completed: be_target_ep1_step3.inp
+2026-04-26 16:13:33,733 - INFO - Ep1 Step3: Reward=13.20 | Success=True
+2026-04-26 16:13:35,766 - INFO - Generated: be_target_ep1_step4.inp | T=2.5, W=7.0×10.0, NPS=500000, BEAMPOS=-50.0
+2026-04-26 16:17:24,494 - INFO - FLUKA completed: be_target_ep1_step4.inp
+2026-04-26 16:17:24,604 - INFO - Ep1 Step4: Reward=13.20 | Success=True
+2026-04-26 16:17:24,635 - INFO - Generated: be_target_ep1_step5.inp | T=2.5, W=7.0×9.0, NPS=500000, BEAMPOS=-50.0
+2026-04-26 16:20:46,032 - INFO - FLUKA completed: be_target_ep1_step5.inp
+2026-04-26 16:20:46,309 - INFO - Ep1 Step5: Reward=20.96 | Success=True
+2026-04-26 16:20:46,340 - INFO - Generated: be_target_ep1_step6.inp | T=2.5, W=7.0×9.0, NPS=500000, BEAMPOS=-50.0
+2026-04-26 16:24:41,970 - INFO - FLUKA completed: be_target_ep1_step6.inp
+2026-04-26 16:24:42,599 - INFO - Ep1 Step6: Reward=20.96 | Success=True
+2026-04-26 16:24:42,700 - INFO - Generated: be_target_ep1_step7.inp | T=3.0, W=7.0×9.0, NPS=500000, BEAMPOS=-50.0
+2026-04-26 16:28:46,765 - INFO - FLUKA completed: be_target_ep1_step7.inp
+2026-04-26 16:28:46,839 - INFO - Ep1 Step7: Reward=17.92 | Success=True
+2026-04-26 16:28:46,853 - INFO - Generated: be_target_ep1_step8.inp | T=3.0, W=7.0×8.0, NPS=500000, BEAMPOS=-50.0
+2026-04-26 16:32:32,573 - INFO - FLUKA completed: be_target_ep1_step8.inp
+2026-04-26 16:32:32,831 - INFO - Ep1 Step8: Reward=26.43 | Success=True
+2026-04-26 16:32:32,941 - INFO - Saved best configuration to bestcong.inp | T=3.0, W=7.0×8.0, NPS=500000, BEAMPOS=-50.0
+2026-04-26 16:32:32,941 - INFO - Generated: be_target_ep1_step9.inp | T=3.0, W=7.0×8.0, NPS=400000, BEAMPOS=-50.0
+2026-04-26 16:35:45,265 - INFO - FLUKA completed: be_target_ep1_step9.inp
+2026-04-26 16:35:45,373 - INFO - Ep1 Step9: Reward=22.39 | Success=True
+2026-04-26 16:35:45,389 - INFO - Generated: be_target_ep1_step10.inp | T=2.5, W=7.0×8.0, NPS=400000, BEAMPOS=-50.0
+2026-04-26 16:38:25,326 - INFO - FLUKA completed: be_target_ep1_step10.inp
+2026-04-26 16:38:25,856 - INFO - Ep1 Step10: Reward=18.38 | Success=True
+2026-04-26 16:38:26,742 - INFO - Generated: be_target_ep2_step1.inp | T=6.5, W=9.0×7.0, NPS=400000, BEAMPOS=-35.0
+2026-04-26 16:45:01,874 - INFO - FLUKA completed: be_target_ep2_step1.inp
+2026-04-26 16:45:02,062 - INFO - Ep2 Step1: Reward=23.40 | Success=True
+2026-04-26 16:45:02,079 - INFO - Generated: be_target_ep2_step2.inp | T=6.5, W=10.0×7.0, NPS=400000, BEAMPOS=-35.0
+2026-04-26 16:52:10,986 - INFO - FLUKA completed: be_target_ep2_step2.inp
+2026-04-26 16:52:13,358 - INFO - Ep2 Step2: Reward=28.82 | Success=True
+2026-04-26 16:52:13,490 - INFO - Saved best configuration to bestcong.inp | T=6.5, W=10.0×7.0, NPS=400000, BEAMPOS=-35.0
+2026-04-26 16:52:13,843 - INFO - Generated: be_target_ep2_step3.inp | T=6.5, W=11.0×7.0, NPS=400000, BEAMPOS=-35.0
+2026-04-26 17:00:20,556 - INFO - FLUKA completed: be_target_ep2_step3.inp
+2026-04-26 17:00:21,105 - INFO - Ep2 Step3: Reward=27.17 | Success=True
+2026-04-26 17:00:21,127 - INFO - Generated: be_target_ep2_step4.inp | T=6.5, W=11.0×6.0, NPS=400000, BEAMPOS=-35.0
+2026-04-26 17:08:56,517 - INFO - FLUKA completed: be_target_ep2_step4.inp
+2026-04-26 17:09:08,233 - INFO - Ep2 Step4: Reward=26.02 | Success=True
+2026-04-26 17:09:09,247 - INFO - Generated: be_target_ep2_step5.inp | T=6.5, W=11.0×5.0, NPS=400000, BEAMPOS=-35.0
+2026-04-26 17:16:42,642 - INFO - FLUKA completed: be_target_ep2_step5.inp
+2026-04-26 17:16:43,837 - INFO - Ep2 Step5: Reward=26.49 | Success=True
+2026-04-26 17:16:43,912 - INFO - Generated: be_target_ep2_step6.inp | T=6.5, W=11.0×5.0, NPS=400000, BEAMPOS=-35.0
+2026-04-26 17:24:48,175 - INFO - FLUKA completed: be_target_ep2_step6.inp
+2026-04-26 17:24:48,751 - INFO - Ep2 Step6: Reward=26.49 | Success=True
+2026-04-26 17:24:48,769 - INFO - Generated: be_target_ep2_step7.inp | T=6.5, W=12.0×5.0, NPS=400000, BEAMPOS=-35.0
+2026-04-26 17:32:28,347 - INFO - FLUKA completed: be_target_ep2_step7.inp
+2026-04-26 17:32:28,876 - INFO - Ep2 Step7: Reward=31.59 | Success=True
+2026-04-26 17:32:28,900 - INFO - Saved best configuration to bestcong.inp | T=6.5, W=12.0×5.0, NPS=400000, BEAMPOS=-35.0
+2026-04-26 17:32:51,859 - INFO - Generated: be_target_ep2_step8.inp | T=6.0, W=12.0×5.0, NPS=400000, BEAMPOS=-35.0
+2026-04-26 17:38:28,591 - INFO - FLUKA completed: be_target_ep2_step8.inp
+2026-04-26 17:38:29,208 - INFO - Ep2 Step8: Reward=29.12 | Success=True
+2026-04-26 17:38:29,412 - INFO - Generated: be_target_ep2_step9.inp | T=6.0, W=12.0×5.0, NPS=500000, BEAMPOS=-35.0
+2026-04-26 17:45:21,680 - INFO - FLUKA completed: be_target_ep2_step9.inp
+2026-04-26 17:45:22,301 - INFO - Ep2 Step9: Reward=30.46 | Success=True
+2026-04-26 17:45:22,303 - INFO - Generated: be_target_ep2_step10.inp | T=6.0, W=12.0×5.0, NPS=400000, BEAMPOS=-35.0
+2026-04-26 17:51:39,486 - INFO - FLUKA completed: be_target_ep2_step10.inp
+2026-04-26 17:51:39,620 - INFO - Ep2 Step10: Reward=23.00 | Success=True
+2026-04-26 17:51:39,962 - INFO - Generated: be_target_ep3_step1.inp | T=4.5, W=9.0×17.0, NPS=100000, BEAMPOS=-35.0
+2026-04-26 17:53:04,129 - INFO - FLUKA completed: be_target_ep3_step1.inp
+2026-04-26 17:53:04,317 - INFO - Ep3 Step1: Reward=23.16 | Success=True
+2026-04-26 17:53:04,318 - INFO - Generated: be_target_ep3_step2.inp | T=5.0, W=9.0×17.0, NPS=100000, BEAMPOS=-35.0
+2026-04-26 17:54:41,253 - INFO - FLUKA completed: be_target_ep3_step2.inp
+2026-04-26 17:54:42,122 - INFO - Ep3 Step2: Reward=23.20 | Success=True
+2026-04-26 17:54:42,162 - INFO - Generated: be_target_ep3_step3.inp | T=5.0, W=9.0×18.0, NPS=100000, BEAMPOS=-35.0
+2026-04-26 17:56:09,077 - INFO - FLUKA completed: be_target_ep3_step3.inp
+2026-04-26 17:56:09,305 - INFO - Ep3 Step3: Reward=25.61 | Success=True
+2026-04-26 17:56:09,354 - INFO - Generated: be_target_ep3_step4.inp | T=5.0, W=8.0×18.0, NPS=100000, BEAMPOS=-35.0
+2026-04-26 17:57:49,955 - INFO - FLUKA completed: be_target_ep3_step4.inp
+2026-04-26 17:57:50,076 - INFO - Ep3 Step4: Reward=19.31 | Success=True
+2026-04-26 17:57:50,096 - INFO - Generated: be_target_ep3_step5.inp | T=5.0, W=8.0×19.0, NPS=100000, BEAMPOS=-35.0
+2026-04-26 17:59:32,046 - INFO - FLUKA completed: be_target_ep3_step5.inp
+2026-04-26 17:59:32,133 - INFO - Ep3 Step5: Reward=26.26 | Success=True
+2026-04-26 17:59:32,155 - INFO - Generated: be_target_ep3_step6.inp | T=5.0, W=8.0×19.0, NPS=100000, BEAMPOS=-30.0
+2026-04-26 18:01:16,206 - INFO - FLUKA completed: be_target_ep3_step6.inp
+2026-04-26 18:01:18,293 - INFO - Ep3 Step6: Reward=26.26 | Success=True
+2026-04-26 18:01:18,413 - INFO - Generated: be_target_ep3_step7.inp | T=5.0, W=8.0×18.0, NPS=100000, BEAMPOS=-30.0
+2026-04-26 18:03:05,945 - INFO - FLUKA completed: be_target_ep3_step7.inp
+2026-04-26 18:03:06,338 - INFO - Ep3 Step7: Reward=19.31 | Success=True
+2026-04-26 18:03:06,356 - INFO - Generated: be_target_ep3_step8.inp | T=5.0, W=8.0×17.0, NPS=100000, BEAMPOS=-30.0
+2026-04-26 18:04:43,435 - INFO - FLUKA completed: be_target_ep3_step8.inp
+2026-04-26 18:04:45,050 - INFO - Ep3 Step8: Reward=25.09 | Success=True
+2026-04-26 18:04:45,090 - INFO - Generated: be_target_ep3_step9.inp | T=5.0, W=8.0×17.0, NPS=100000, BEAMPOS=-25.0
+2026-04-26 18:06:20,046 - INFO - FLUKA completed: be_target_ep3_step9.inp
+2026-04-26 18:06:20,319 - INFO - Ep3 Step9: Reward=25.09 | Success=True
+2026-04-26 18:06:20,345 - INFO - Generated: be_target_ep3_step10.inp | T=5.0, W=8.0×17.0, NPS=100000, BEAMPOS=-30.0
+2026-04-26 18:08:00,756 - INFO - FLUKA completed: be_target_ep3_step10.inp
+2026-04-26 18:08:00,983 - INFO - Ep3 Step10: Reward=-2.73 | Success=True
+2026-04-26 18:08:01,709 - INFO - Generated: be_target_ep4_step1.inp | T=3.0, W=16.0×18.0, NPS=800000, BEAMPOS=-40.0
+2026-04-26 18:14:35,755 - INFO - FLUKA completed: be_target_ep4_step1.inp
+2026-04-26 18:14:36,244 - INFO - Ep4 Step1: Reward=18.05 | Success=True
+2026-04-26 18:14:36,248 - INFO - Generated: be_target_ep4_step2.inp | T=3.5, W=16.0×18.0, NPS=800000, BEAMPOS=-40.0
+2026-04-26 18:22:15,588 - INFO - FLUKA completed: be_target_ep4_step2.inp
+2026-04-26 18:22:16,875 - INFO - Ep4 Step2: Reward=16.60 | Success=True
+2026-04-26 18:22:17,071 - INFO - Generated: be_target_ep4_step3.inp | T=4.0, W=16.0×18.0, NPS=800000, BEAMPOS=-40.0
+2026-04-26 18:30:45,651 - INFO - FLUKA completed: be_target_ep4_step3.inp
+2026-04-26 18:30:46,042 - INFO - Ep4 Step3: Reward=22.49 | Success=True
+2026-04-26 18:30:46,055 - INFO - Generated: be_target_ep4_step4.inp | T=4.0, W=17.0×18.0, NPS=800000, BEAMPOS=-40.0
+2026-04-26 18:39:28,952 - INFO - FLUKA completed: be_target_ep4_step4.inp
+2026-04-26 18:39:29,260 - INFO - Ep4 Step4: Reward=28.98 | Success=True
+2026-04-26 18:39:29,308 - INFO - Generated: be_target_ep4_step5.inp | T=3.5, W=17.0×18.0, NPS=800000, BEAMPOS=-40.0
+2026-04-26 18:46:13,689 - INFO - FLUKA completed: be_target_ep4_step5.inp
+2026-04-26 18:46:13,910 - INFO - Ep4 Step5: Reward=18.74 | Success=True
+2026-04-26 18:46:13,919 - INFO - Generated: be_target_ep4_step6.inp | T=3.5, W=17.0×18.0, NPS=800000, BEAMPOS=-45.0
+2026-04-26 18:53:00,529 - INFO - FLUKA completed: be_target_ep4_step6.inp
+2026-04-26 18:53:00,632 - INFO - Ep4 Step6: Reward=18.74 | Success=True
+2026-04-26 18:53:00,663 - INFO - Generated: be_target_ep4_step7.inp | T=3.5, W=16.0×18.0, NPS=800000, BEAMPOS=-45.0
+2026-04-26 18:59:40,188 - INFO - FLUKA completed: be_target_ep4_step7.inp
+2026-04-26 18:59:40,318 - INFO - Ep4 Step7: Reward=16.60 | Success=True
+2026-04-26 18:59:40,336 - INFO - Generated: be_target_ep4_step8.inp | T=3.5, W=16.0×19.0, NPS=800000, BEAMPOS=-45.0
+2026-04-26 19:06:49,491 - INFO - FLUKA completed: be_target_ep4_step8.inp
+2026-04-26 19:06:49,691 - INFO - Ep4 Step8: Reward=24.13 | Success=True
+2026-04-26 19:06:49,710 - INFO - Generated: be_target_ep4_step9.inp | T=3.5, W=16.0×19.0, NPS=700000, BEAMPOS=-45.0
+2026-04-26 19:12:57,309 - INFO - FLUKA completed: be_target_ep4_step9.inp
+2026-04-26 19:12:57,393 - INFO - Ep4 Step9: Reward=19.72 | Success=True
+2026-04-26 19:12:57,483 - INFO - Generated: be_target_ep4_step10.inp | T=3.5, W=16.0×19.0, NPS=700000, BEAMPOS=-50.0
+2026-04-26 19:18:51,713 - INFO - FLUKA completed: be_target_ep4_step10.inp
+2026-04-26 19:18:51,856 - INFO - Ep4 Step10: Reward=-5.68 | Success=True
+2026-04-26 19:18:51,997 - INFO - Generated: be_target_ep5_step1.inp | T=5.5, W=9.0×10.0, NPS=200000, BEAMPOS=-15.0
+2026-04-26 19:21:41,189 - INFO - FLUKA completed: be_target_ep5_step1.inp
+2026-04-26 19:21:41,259 - INFO - Ep5 Step1: Reward=27.32 | Success=True
+2026-04-26 19:21:41,275 - INFO - Generated: be_target_ep5_step2.inp | T=5.5, W=9.0×10.0, NPS=200000, BEAMPOS=-20.0
+2026-04-26 19:24:48,399 - INFO - FLUKA completed: be_target_ep5_step2.inp
+2026-04-26 19:24:48,525 - INFO - Ep5 Step2: Reward=27.32 | Success=True
+2026-04-26 19:24:48,526 - INFO - Generated: be_target_ep5_step3.inp | T=5.5, W=10.0×10.0, NPS=200000, BEAMPOS=-20.0
+2026-04-26 19:27:45,866 - INFO - FLUKA completed: be_target_ep5_step3.inp
+2026-04-26 19:27:45,917 - INFO - Ep5 Step3: Reward=20.43 | Success=True
+2026-04-26 19:27:45,917 - INFO - Generated: be_target_ep5_step4.inp | T=5.0, W=10.0×10.0, NPS=200000, BEAMPOS=-20.0
+2026-04-26 19:30:27,042 - INFO - FLUKA completed: be_target_ep5_step4.inp
+2026-04-26 19:30:27,602 - INFO - Ep5 Step4: Reward=26.69 | Success=True
+2026-04-26 19:30:27,605 - INFO - Generated: be_target_ep5_step5.inp | T=5.5, W=10.0×10.0, NPS=200000, BEAMPOS=-20.0
+2026-04-26 19:33:17,621 - INFO - FLUKA completed: be_target_ep5_step5.inp
+2026-04-26 19:33:17,725 - INFO - Ep5 Step5: Reward=20.43 | Success=True
+2026-04-26 19:33:17,735 - INFO - Generated: be_target_ep5_step6.inp | T=5.5, W=10.0×10.0, NPS=300000, BEAMPOS=-20.0
+2026-04-26 19:37:29,871 - INFO - FLUKA completed: be_target_ep5_step6.inp
+2026-04-26 19:37:30,010 - INFO - Ep5 Step6: Reward=24.40 | Success=True
+2026-04-26 19:37:30,011 - INFO - Generated: be_target_ep5_step7.inp | T=5.5, W=10.0×10.0, NPS=300000, BEAMPOS=-15.0
+2026-04-26 19:41:30,604 - INFO - FLUKA completed: be_target_ep5_step7.inp
+2026-04-26 19:41:30,952 - INFO - Ep5 Step7: Reward=24.40 | Success=True
+2026-04-26 19:41:30,955 - INFO - Generated: be_target_ep5_step8.inp | T=5.5, W=9.0×10.0, NPS=300000, BEAMPOS=-15.0
+2026-04-26 19:45:41,684 - INFO - FLUKA completed: be_target_ep5_step8.inp
+2026-04-26 19:45:41,789 - INFO - Ep5 Step8: Reward=28.20 | Success=True
+2026-04-26 19:45:41,789 - INFO - Generated: be_target_ep5_step9.inp | T=6.0, W=9.0×10.0, NPS=300000, BEAMPOS=-15.0
+2026-04-26 19:50:14,745 - INFO - FLUKA completed: be_target_ep5_step9.inp
+2026-04-26 19:50:14,957 - INFO - Ep5 Step9: Reward=26.61 | Success=True
+2026-04-26 19:50:14,963 - INFO - Generated: be_target_ep5_step10.inp | T=6.0, W=9.0×10.0, NPS=200000, BEAMPOS=-15.0
+2026-04-26 19:54:11,806 - INFO - FLUKA completed: be_target_ep5_step10.inp
+2026-04-26 19:54:12,485 - INFO - Ep5 Step10: Reward=23.79 | Success=True
+2026-04-26 19:54:12,572 - INFO - Generated: be_target_ep6_step1.inp | T=3.5, W=10.0×19.0, NPS=1000000, BEAMPOS=-20.0
+2026-04-26 19:54:13,848 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep6_step1.inp']' returned non-zero exit status 12.
+2026-04-26 19:54:13,862 - INFO - Generated: be_target_ep6_step2.inp | T=3.5, W=11.0×19.0, NPS=1000000, BEAMPOS=-20.0
+2026-04-26 19:54:14,886 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep6_step2.inp']' returned non-zero exit status 12.
+2026-04-26 19:54:14,940 - INFO - Generated: be_target_ep6_step3.inp | T=3.5, W=10.0×19.0, NPS=1000000, BEAMPOS=-20.0
+2026-04-26 19:54:15,785 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep6_step3.inp']' returned non-zero exit status 12.
+2026-04-26 19:54:15,785 - INFO - Generated: be_target_ep6_step4.inp | T=4.0, W=10.0×19.0, NPS=1000000, BEAMPOS=-20.0
+2026-04-26 19:54:16,518 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep6_step4.inp']' returned non-zero exit status 12.
+2026-04-26 19:54:16,521 - INFO - Generated: be_target_ep6_step5.inp | T=4.0, W=10.0×19.0, NPS=1000000, BEAMPOS=-15.0
+2026-04-26 19:54:17,234 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep6_step5.inp']' returned non-zero exit status 12.
+2026-04-26 19:54:17,234 - INFO - Generated: be_target_ep6_step6.inp | T=4.5, W=10.0×19.0, NPS=1000000, BEAMPOS=-15.0
+2026-04-26 19:54:17,913 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep6_step6.inp']' returned non-zero exit status 12.
+2026-04-26 19:54:17,913 - INFO - Generated: be_target_ep6_step7.inp | T=4.5, W=10.0×19.0, NPS=1000000, BEAMPOS=-10.0
+2026-04-26 19:54:18,404 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep6_step7.inp']' returned non-zero exit status 12.
+2026-04-26 19:54:18,405 - INFO - Generated: be_target_ep6_step8.inp | T=4.5, W=10.0×20.0, NPS=1000000, BEAMPOS=-10.0
+2026-04-26 19:54:19,016 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep6_step8.inp']' returned non-zero exit status 12.
+2026-04-26 19:54:19,016 - INFO - Generated: be_target_ep6_step9.inp | T=4.5, W=10.0×20.0, NPS=900000, BEAMPOS=-10.0
+2026-04-26 20:04:19,228 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep6_step9.inp']' timed out after 600 seconds
+2026-04-26 20:04:19,278 - INFO - Generated: be_target_ep6_step10.inp | T=4.5, W=9.0×20.0, NPS=900000, BEAMPOS=-10.0
+2026-04-26 20:13:21,668 - INFO - FLUKA completed: be_target_ep6_step10.inp
+2026-04-26 20:13:22,148 - INFO - Ep6 Step10: Reward=27.22 | Success=True
+2026-04-26 20:13:22,149 - INFO - Generated: be_target_ep7_step1.inp | T=4.5, W=11.0×7.0, NPS=300000, BEAMPOS=-25.0
+2026-04-26 20:16:21,288 - INFO - FLUKA completed: be_target_ep7_step1.inp
+2026-04-26 20:16:21,338 - INFO - Ep7 Step1: Reward=26.50 | Success=True
+2026-04-26 20:16:21,349 - INFO - Generated: be_target_ep7_step2.inp | T=4.5, W=11.0×8.0, NPS=300000, BEAMPOS=-25.0
+2026-04-26 20:19:22,308 - INFO - FLUKA completed: be_target_ep7_step2.inp
+2026-04-26 20:19:22,651 - INFO - Ep7 Step2: Reward=23.40 | Success=True
+2026-04-26 20:19:22,653 - INFO - Generated: be_target_ep7_step3.inp | T=4.5, W=11.0×8.0, NPS=400000, BEAMPOS=-25.0
+2026-04-26 20:24:12,361 - INFO - FLUKA completed: be_target_ep7_step3.inp
+2026-04-26 20:24:12,816 - INFO - Ep7 Step3: Reward=21.34 | Success=True
+2026-04-26 20:24:12,830 - INFO - Generated: be_target_ep7_step4.inp | T=4.5, W=11.0×9.0, NPS=400000, BEAMPOS=-25.0
+2026-04-26 20:28:49,086 - INFO - FLUKA completed: be_target_ep7_step4.inp
+2026-04-26 20:28:49,260 - INFO - Ep7 Step4: Reward=26.13 | Success=True
+2026-04-26 20:29:39,305 - INFO - Generated: be_target_ep7_step5.inp | T=5.0, W=11.0×9.0, NPS=400000, BEAMPOS=-25.0
+2026-04-26 20:34:57,951 - INFO - FLUKA completed: be_target_ep7_step5.inp
+2026-04-26 20:35:00,453 - INFO - Ep7 Step5: Reward=20.81 | Success=True
+2026-04-26 20:36:33,673 - INFO - Generated: be_target_ep7_step6.inp | T=5.0, W=11.0×9.0, NPS=400000, BEAMPOS=-20.0
+2026-04-26 20:41:38,629 - INFO - FLUKA completed: be_target_ep7_step6.inp
+2026-04-26 20:41:38,851 - INFO - Ep7 Step6: Reward=20.81 | Success=True
+2026-04-26 20:41:55,029 - INFO - Generated: be_target_ep7_step7.inp | T=5.0, W=11.0×9.0, NPS=300000, BEAMPOS=-20.0
+2026-04-26 20:45:32,545 - INFO - FLUKA completed: be_target_ep7_step7.inp
+2026-04-26 20:45:34,446 - INFO - Ep7 Step7: Reward=21.90 | Success=True
+2026-04-26 20:45:58,256 - INFO - Generated: be_target_ep7_step8.inp | T=5.0, W=11.0×9.0, NPS=300000, BEAMPOS=-25.0
+2026-04-26 20:49:07,242 - INFO - FLUKA completed: be_target_ep7_step8.inp
+2026-04-26 20:49:07,342 - INFO - Ep7 Step8: Reward=21.90 | Success=True
+2026-04-26 20:49:22,254 - INFO - Generated: be_target_ep7_step9.inp | T=5.0, W=11.0×9.0, NPS=300000, BEAMPOS=-20.0
+2026-04-26 20:52:51,810 - INFO - FLUKA completed: be_target_ep7_step9.inp
+2026-04-26 20:52:51,864 - INFO - Ep7 Step9: Reward=21.90 | Success=True
+2026-04-26 20:53:02,608 - INFO - Generated: be_target_ep7_step10.inp | T=5.0, W=10.0×9.0, NPS=300000, BEAMPOS=-20.0
+2026-04-26 20:56:03,139 - INFO - FLUKA completed: be_target_ep7_step10.inp
+2026-04-26 20:56:03,334 - INFO - Ep7 Step10: Reward=-2.84 | Success=True
+2026-04-26 20:56:51,759 - INFO - Generated: be_target_ep8_step1.inp | T=8.5, W=10.0×6.0, NPS=200000, BEAMPOS=-35.0
+2026-04-26 21:00:36,745 - INFO - FLUKA completed: be_target_ep8_step1.inp
+2026-04-26 21:00:36,957 - INFO - Ep8 Step1: Reward=29.05 | Success=True
+2026-04-26 21:00:52,504 - INFO - Generated: be_target_ep8_step2.inp | T=8.5, W=11.0×6.0, NPS=200000, BEAMPOS=-35.0
+2026-04-26 21:05:20,485 - INFO - FLUKA completed: be_target_ep8_step2.inp
+2026-04-26 21:05:20,521 - INFO - Ep8 Step2: Reward=26.68 | Success=True
+2026-04-26 21:05:33,904 - INFO - Generated: be_target_ep8_step3.inp | T=8.5, W=11.0×6.0, NPS=200000, BEAMPOS=-30.0
+2026-04-26 21:09:29,520 - INFO - FLUKA completed: be_target_ep8_step3.inp
+2026-04-26 21:09:29,560 - INFO - Ep8 Step3: Reward=26.68 | Success=True
+2026-04-26 21:09:40,098 - INFO - Generated: be_target_ep8_step4.inp | T=9.0, W=11.0×6.0, NPS=200000, BEAMPOS=-30.0
+2026-04-26 21:14:02,313 - INFO - FLUKA completed: be_target_ep8_step4.inp
+2026-04-26 21:14:04,650 - INFO - Ep8 Step4: Reward=33.60 | Success=True
+2026-04-26 21:14:31,566 - INFO - Saved best configuration to bestcong.inp | T=9.0, W=11.0×6.0, NPS=200000, BEAMPOS=-30.0
+2026-04-26 21:14:31,567 - INFO - Generated: be_target_ep8_step5.inp | T=9.0, W=10.0×6.0, NPS=200000, BEAMPOS=-30.0
+2026-04-26 21:18:44,527 - INFO - FLUKA completed: be_target_ep8_step5.inp
+2026-04-26 21:18:44,855 - INFO - Ep8 Step5: Reward=29.24 | Success=True
+2026-04-26 21:19:02,079 - INFO - Generated: be_target_ep8_step6.inp | T=9.0, W=10.0×6.0, NPS=300000, BEAMPOS=-30.0
+2026-04-26 21:25:46,548 - INFO - FLUKA completed: be_target_ep8_step6.inp
+2026-04-26 21:25:46,772 - INFO - Ep8 Step6: Reward=28.53 | Success=True
+2026-04-26 21:25:57,099 - INFO - Generated: be_target_ep8_step7.inp | T=9.0, W=11.0×6.0, NPS=300000, BEAMPOS=-30.0
+2026-04-26 21:32:34,074 - INFO - FLUKA completed: be_target_ep8_step7.inp
+2026-04-26 21:32:34,615 - INFO - Ep8 Step7: Reward=36.72 | Success=True
+2026-04-26 21:33:06,684 - INFO - Saved best configuration to bestcong.inp | T=9.0, W=11.0×6.0, NPS=300000, BEAMPOS=-30.0
+2026-04-26 21:33:07,095 - INFO - Generated: be_target_ep8_step8.inp | T=9.0, W=12.0×6.0, NPS=300000, BEAMPOS=-30.0
+2026-04-26 21:38:44,016 - INFO - FLUKA completed: be_target_ep8_step8.inp
+2026-04-26 21:38:44,117 - INFO - Ep8 Step8: Reward=32.11 | Success=True
+2026-04-26 21:38:53,466 - INFO - Generated: be_target_ep8_step9.inp | T=9.0, W=12.0×6.0, NPS=400000, BEAMPOS=-30.0
+2026-04-26 21:46:48,822 - INFO - FLUKA completed: be_target_ep8_step9.inp
+2026-04-26 21:46:48,908 - INFO - Ep8 Step9: Reward=32.39 | Success=True
+2026-04-26 21:47:01,487 - INFO - Generated: be_target_ep8_step10.inp | T=9.0, W=12.0×7.0, NPS=400000, BEAMPOS=-30.0
+2026-04-26 21:55:10,437 - INFO - FLUKA completed: be_target_ep8_step10.inp
+2026-04-26 21:55:10,543 - INFO - Ep8 Step10: Reward=26.43 | Success=True
+2026-04-26 21:55:58,655 - INFO - Generated: be_target_ep9_step1.inp | T=7.0, W=6.0×15.0, NPS=1000000, BEAMPOS=-40.0
+2026-04-26 21:55:59,284 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep9_step1.inp']' returned non-zero exit status 12.
+2026-04-26 21:56:12,015 - INFO - Generated: be_target_ep9_step2.inp | T=7.0, W=6.0×15.0, NPS=1000000, BEAMPOS=-40.0
+2026-04-26 21:56:12,442 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep9_step2.inp']' returned non-zero exit status 12.
+2026-04-26 21:56:24,608 - INFO - Generated: be_target_ep9_step3.inp | T=7.0, W=7.0×15.0, NPS=1000000, BEAMPOS=-40.0
+2026-04-26 21:56:25,047 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep9_step3.inp']' returned non-zero exit status 12.
+2026-04-26 21:56:36,031 - INFO - Generated: be_target_ep9_step4.inp | T=7.0, W=7.0×15.0, NPS=1000000, BEAMPOS=-45.0
+2026-04-26 21:56:36,444 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep9_step4.inp']' returned non-zero exit status 12.
+2026-04-26 21:56:47,299 - INFO - Generated: be_target_ep9_step5.inp | T=7.0, W=6.0×15.0, NPS=1000000, BEAMPOS=-45.0
+2026-04-26 21:56:47,730 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep9_step5.inp']' returned non-zero exit status 12.
+2026-04-26 21:57:00,187 - INFO - Generated: be_target_ep9_step6.inp | T=6.5, W=6.0×15.0, NPS=1000000, BEAMPOS=-45.0
+2026-04-26 21:57:00,665 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep9_step6.inp']' returned non-zero exit status 12.
+2026-04-26 21:57:14,196 - INFO - Generated: be_target_ep9_step7.inp | T=6.5, W=6.0×14.0, NPS=1000000, BEAMPOS=-45.0
+2026-04-26 21:57:14,650 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep9_step7.inp']' returned non-zero exit status 12.
+2026-04-26 21:57:27,130 - INFO - Generated: be_target_ep9_step8.inp | T=7.0, W=6.0×14.0, NPS=1000000, BEAMPOS=-45.0
+2026-04-26 21:57:27,639 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep9_step8.inp']' returned non-zero exit status 12.
+2026-04-26 21:57:41,346 - INFO - Generated: be_target_ep9_step9.inp | T=7.0, W=5.0×14.0, NPS=1000000, BEAMPOS=-45.0
+2026-04-26 21:57:41,734 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep9_step9.inp']' returned non-zero exit status 12.
+2026-04-26 21:57:53,765 - INFO - Generated: be_target_ep9_step10.inp | T=7.0, W=5.0×14.0, NPS=1000000, BEAMPOS=-50.0
+2026-04-26 21:57:54,168 - ERROR - FLUKA run failed: Command '['rfluka', '-M', '5', 'be_target_ep9_step10.inp']' returned non-zero exit status 12.
+2026-04-26 21:58:07,492 - INFO - Generated: be_target_ep10_step1.inp | T=9.0, W=15.0×15.0, NPS=400000, BEAMPOS=-10.0
+2026-04-26 22:06:30,406 - INFO - FLUKA completed: be_target_ep10_step1.inp
+2026-04-26 22:06:30,658 - INFO - Ep10 Step1: Reward=26.37 | Success=True
+2026-04-26 22:06:49,103 - INFO - Generated: be_target_ep10_step2.inp | T=9.0, W=15.0×14.0, NPS=400000, BEAMPOS=-10.0
+2026-04-26 22:16:02,212 - INFO - FLUKA completed: be_target_ep10_step2.inp
+2026-04-26 22:16:03,801 - INFO - Ep10 Step2: Reward=33.58 | Success=True
+2026-04-26 22:16:22,690 - INFO - Generated: be_target_ep10_step3.inp | T=9.0, W=15.0×15.0, NPS=400000, BEAMPOS=-10.0
+2026-04-26 22:25:01,851 - INFO - FLUKA completed: be_target_ep10_step3.inp
+2026-04-26 22:25:02,107 - INFO - Ep10 Step3: Reward=26.37 | Success=True
+2026-04-26 22:25:12,520 - INFO - Generated: be_target_ep10_step4.inp | T=8.5, W=15.0×15.0, NPS=400000, BEAMPOS=-10.0
+2026-04-26 22:33:06,734 - INFO - FLUKA completed: be_target_ep10_step4.inp
+2026-04-26 22:33:07,043 - INFO - Ep10 Step4: Reward=34.29 | Success=True
+2026-04-26 22:33:19,631 - INFO - Generated: be_target_ep10_step5.inp | T=8.5, W=15.0×14.0, NPS=400000, BEAMPOS=-10.0
+2026-04-26 22:41:33,106 - INFO - FLUKA completed: be_target_ep10_step5.inp
+2026-04-26 22:41:33,274 - INFO - Ep10 Step5: Reward=31.66 | Success=True
+2026-04-26 22:41:49,371 - INFO - Generated: be_target_ep10_step6.inp | T=9.0, W=15.0×14.0, NPS=400000, BEAMPOS=-10.0
+2026-04-26 22:50:22,611 - INFO - FLUKA completed: be_target_ep10_step6.inp
+2026-04-26 22:50:23,168 - INFO - Ep10 Step6: Reward=33.58 | Success=True
+2026-04-26 22:50:36,079 - INFO - Generated: be_target_ep10_step7.inp | T=9.0, W=14.0×14.0, NPS=400000, BEAMPOS=-10.0
+2026-04-26 22:59:09,231 - INFO - FLUKA completed: be_target_ep10_step7.inp
+2026-04-26 22:59:09,850 - INFO - Ep10 Step7: Reward=29.76 | Success=True
+2026-04-26 22:59:30,841 - INFO - Generated: be_target_ep10_step8.inp | T=9.0, W=13.0×14.0, NPS=400000, BEAMPOS=-10.0
+2026-04-26 23:07:41,438 - INFO - FLUKA completed: be_target_ep10_step8.inp
+2026-04-26 23:07:42,811 - INFO - Ep10 Step8: Reward=24.86 | Success=True
+2026-04-26 23:07:55,014 - INFO - Generated: be_target_ep10_step9.inp | T=8.5, W=13.0×14.0, NPS=400000, BEAMPOS=-10.0
+2026-04-26 23:15:22,965 - INFO - FLUKA completed: be_target_ep10_step9.inp
+2026-04-26 23:15:23,285 - INFO - Ep10 Step9: Reward=31.00 | Success=True
+2026-04-26 23:15:39,869 - INFO - Generated: be_target_ep10_step10.inp | T=8.0, W=13.0×14.0, NPS=400000, BEAMPOS=-10.0
+2026-04-26 23:22:46,130 - INFO - FLUKA completed: be_target_ep10_step10.inp
+2026-04-26 23:22:46,378 - INFO - Ep10 Step10: Reward=2.29 | Success=True

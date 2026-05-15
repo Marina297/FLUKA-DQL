@@ -1,0 +1,528 @@
+2026-05-07 10:39:47,548 - INFO - ABLATION DQL training started
+2026-05-07 10:40:25,004 - INFO - FLUKA OK: abl_dql_ep1_step1.inp (37.5s)
+2026-05-07 10:40:25,007 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep1_step1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:40:25,008 - INFO - Ep1 Step1: HCNO: N=29.6%  H=14.3%  C=28.5%  O=27.6%
+2026-05-07 10:40:25,008 - INFO - Ep1 Step1: Reward=27.82
+2026-05-07 10:40:25,008 - INFO - Ep 1 Step 1: Action=4 (DecL5), Layers=[2.5, 2.5, 4.5, 4.0, 4.5, 2.0], Gap=3.5, Reward=27.82
+2026-05-07 10:40:25,008 - INFO - New Best: 27.82 at Ep1, Step1
+2026-05-07 10:41:04,988 - INFO - FLUKA OK: abl_dql_ep1_step2.inp (40.0s)
+2026-05-07 10:41:05,034 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep1_step2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:41:05,035 - INFO - Ep1 Step2: HCNO: N=32.5%  H=13.2%  C=22.8%  O=31.5%
+2026-05-07 10:41:05,035 - INFO - Ep1 Step2: Reward=36.19
+2026-05-07 10:41:05,035 - INFO - Ep 1 Step 2: Action=8 (IncL3), Layers=[2.5, 2.5, 5.0, 4.0, 4.5, 2.0], Gap=3.5, Reward=36.19
+2026-05-07 10:41:05,035 - INFO - New Best: 36.19 at Ep1, Step2
+2026-05-07 10:41:42,653 - INFO - FLUKA OK: abl_dql_ep1_step3.inp (37.5s)
+2026-05-07 10:41:42,656 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep1_step3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:41:42,658 - INFO - Ep1 Step3: HCNO: N=28.9%  H=13.3%  C=29.1%  O=28.7%
+2026-05-07 10:41:42,658 - INFO - Ep1 Step3: Reward=30.89
+2026-05-07 10:41:42,658 - INFO - Ep 1 Step 3: Action=12 (DecGap), Layers=[2.5, 2.5, 5.0, 4.0, 4.5, 2.0], Gap=3.0, Reward=30.89
+2026-05-07 10:42:52,103 - INFO - FLUKA OK: abl_dql_ep1_step4.inp (69.4s)
+2026-05-07 10:42:52,181 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep1_step4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:42:52,182 - INFO - Ep1 Step4: HCNO: N=37.0%  H=15.5%  C=25.1%  O=22.3%
+2026-05-07 10:42:52,182 - INFO - Ep1 Step4: Reward=31.40
+2026-05-07 10:42:52,182 - INFO - Ep 1 Step 4: Action=1 (DecL2), Layers=[2.5, 2.0, 5.0, 4.0, 4.5, 2.0], Gap=3.0, Reward=31.40
+2026-05-07 10:43:37,178 - INFO - FLUKA OK: abl_dql_ep1_step5.inp (45.0s)
+2026-05-07 10:43:37,225 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep1_step5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:43:37,267 - INFO - Ep1 Step5: HCNO: N=36.2%  H=13.6%  C=19.4%  O=30.8%
+2026-05-07 10:43:37,267 - INFO - Ep1 Step5: Reward=34.33
+2026-05-07 10:43:37,268 - INFO - Ep 1 Step 5: Action=4 (DecL5), Layers=[2.5, 2.0, 5.0, 4.0, 4.0, 2.0], Gap=3.0, Reward=34.33
+2026-05-07 10:44:23,203 - INFO - FLUKA OK: abl_dql_ep1_step6.inp (45.9s)
+2026-05-07 10:44:23,340 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep1_step6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:44:23,366 - INFO - Ep1 Step6: HCNO: N=39.7%  H=10.2%  C=23.2%  O=26.9%
+2026-05-07 10:44:23,367 - INFO - Ep1 Step6: Reward=31.01
+2026-05-07 10:44:23,367 - INFO - Ep 1 Step 6: Action=6 (IncL1), Layers=[3.0, 2.0, 5.0, 4.0, 4.0, 2.0], Gap=3.0, Reward=31.01
+2026-05-07 10:45:15,379 - INFO - FLUKA OK: abl_dql_ep1_step7.inp (52.0s)
+2026-05-07 10:45:15,823 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep1_step7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:45:15,824 - INFO - Ep1 Step7: HCNO: N=36.2%  H=13.6%  C=19.4%  O=30.8%
+2026-05-07 10:45:15,824 - INFO - Ep1 Step7: Reward=34.33
+2026-05-07 10:45:15,824 - INFO - Ep 1 Step 7: Action=0 (DecL1), Layers=[2.5, 2.0, 5.0, 4.0, 4.0, 2.0], Gap=3.0, Reward=34.33
+2026-05-07 10:46:00,866 - INFO - FLUKA OK: abl_dql_ep1_step8.inp (45.0s)
+2026-05-07 10:46:00,945 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep1_step8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:46:00,947 - INFO - Ep1 Step8: HCNO: N=38.8%  H=8.7%  C=26.9%  O=25.7%
+2026-05-07 10:46:00,947 - INFO - Ep1 Step8: Reward=28.08
+2026-05-07 10:46:00,947 - INFO - Ep 1 Step 8: Action=8 (IncL3), Layers=[2.5, 2.0, 5.5, 4.0, 4.0, 2.0], Gap=3.0, Reward=28.08
+2026-05-07 10:46:44,217 - INFO - FLUKA OK: abl_dql_ep1_step9.inp (43.2s)
+2026-05-07 10:46:44,416 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep1_step9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:46:44,437 - INFO - Ep1 Step9: HCNO: N=33.9%  H=11.1%  C=20.6%  O=34.4%
+2026-05-07 10:46:44,437 - INFO - Ep1 Step9: Reward=24.82
+2026-05-07 10:46:44,437 - INFO - Ep 1 Step 9: Action=11 (IncL6), Layers=[2.5, 2.0, 5.5, 4.0, 4.0, 2.5], Gap=3.0, Reward=24.82
+2026-05-07 10:47:26,593 - INFO - FLUKA OK: abl_dql_ep1_step10.inp (42.2s)
+2026-05-07 10:47:26,952 - WARNING - prefix 'abl_dql_ep1_step10' unit 24: expected 5 cycle files, found 10: ['abl_dql_ep1_step10001_fort.24', 'abl_dql_ep1_step10002_fort.24', 'abl_dql_ep1_step10003_fort.24', 'abl_dql_ep1_step10004_fort.24', 'abl_dql_ep1_step10005_fort.24', 'abl_dql_ep1_step1001_fort.24', 'abl_dql_ep1_step1002_fort.24', 'abl_dql_ep1_step1003_fort.24', 'abl_dql_ep1_step1004_fort.24', 'abl_dql_ep1_step1005_fort.24']
+2026-05-07 10:47:27,195 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep1_step10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 10:47:27,229 - INFO - Ep1 Step10: HCNO: N=38.0%  H=10.4%  C=24.0%  O=27.6%
+2026-05-07 10:47:27,229 - INFO - Ep1 Step10: Reward=36.61
+2026-05-07 10:47:27,229 - INFO - Ep 1 Step 10: Action=3 (DecL4), Layers=[2.5, 2.0, 5.5, 3.5, 4.0, 2.5], Gap=3.0, Reward=36.61
+2026-05-07 10:47:27,229 - INFO - New Best: 36.61 at Ep1, Step10
+2026-05-07 10:47:27,389 - INFO - Episode 1: Return=315.46, Best=36.61, Loss=0.0000
+2026-05-07 10:48:05,880 - INFO - FLUKA OK: abl_dql_ep2_step1.inp (38.3s)
+2026-05-07 10:48:06,133 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep2_step1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:48:06,145 - INFO - Ep2 Step1: HCNO: N=39.9%  H=8.6%  C=24.4%  O=27.1%
+2026-05-07 10:48:06,145 - INFO - Ep2 Step1: Reward=12.18
+2026-05-07 10:48:06,145 - INFO - Ep 2 Step 1: Action=12 (DecGap), Layers=[7.5, 3.5, 4.0, 7.0, 3.0, 7.5], Gap=3.0, Reward=12.18
+2026-05-07 10:48:56,467 - INFO - FLUKA OK: abl_dql_ep2_step2.inp (50.3s)
+2026-05-07 10:48:56,489 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep2_step2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:48:56,492 - INFO - Ep2 Step2: HCNO: N=31.7%  H=10.5%  C=28.6%  O=29.2%
+2026-05-07 10:48:56,492 - INFO - Ep2 Step2: Reward=18.24
+2026-05-07 10:48:56,492 - INFO - Ep 2 Step 2: Action=3 (DecL4), Layers=[7.5, 3.5, 4.0, 6.5, 3.0, 7.5], Gap=3.0, Reward=18.24
+2026-05-07 10:49:40,951 - INFO - FLUKA OK: abl_dql_ep2_step3.inp (44.5s)
+2026-05-07 10:49:41,045 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep2_step3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:49:41,063 - INFO - Ep2 Step3: HCNO: N=39.5%  H=7.1%  C=18.4%  O=35.1%
+2026-05-07 10:49:41,063 - INFO - Ep2 Step3: Reward=18.10
+2026-05-07 10:49:41,064 - INFO - Ep 2 Step 3: Action=7 (IncL2), Layers=[7.5, 4.0, 4.0, 6.5, 3.0, 7.5], Gap=3.0, Reward=18.10
+2026-05-07 10:50:28,634 - INFO - FLUKA OK: abl_dql_ep2_step4.inp (47.6s)
+2026-05-07 10:50:28,961 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep2_step4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:50:29,062 - INFO - Ep2 Step4: HCNO: N=35.4%  H=4.6%  C=22.0%  O=38.0%
+2026-05-07 10:50:29,062 - INFO - Ep2 Step4: Reward=24.46
+2026-05-07 10:50:29,062 - INFO - Ep 2 Step 4: Action=6 (IncL1), Layers=[8.0, 4.0, 4.0, 6.5, 3.0, 7.5], Gap=3.0, Reward=24.46
+2026-05-07 10:51:19,870 - INFO - FLUKA OK: abl_dql_ep2_step5.inp (50.7s)
+2026-05-07 10:51:20,581 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep2_step5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:51:20,654 - INFO - Ep2 Step5: HCNO: N=39.1%  H=3.3%  C=19.4%  O=38.2%
+2026-05-07 10:51:20,655 - INFO - Ep2 Step5: Reward=17.29
+2026-05-07 10:51:20,655 - INFO - Ep 2 Step 5: Action=5 (DecL6), Layers=[8.0, 4.0, 4.0, 6.5, 3.0, 7.0], Gap=3.0, Reward=17.29
+2026-05-07 10:52:07,233 - INFO - FLUKA OK: abl_dql_ep2_step6.inp (46.6s)
+2026-05-07 10:52:09,002 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep2_step6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:52:09,038 - INFO - Ep2 Step6: HCNO: N=31.3%  H=5.0%  C=39.3%  O=24.4%
+2026-05-07 10:52:09,038 - INFO - Ep2 Step6: Reward=19.67
+2026-05-07 10:52:09,038 - INFO - Ep 2 Step 6: Action=7 (IncL2), Layers=[8.0, 4.5, 4.0, 6.5, 3.0, 7.0], Gap=3.0, Reward=19.67
+2026-05-07 10:52:46,671 - INFO - FLUKA OK: abl_dql_ep2_step7.inp (37.6s)
+2026-05-07 10:52:47,092 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep2_step7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:52:47,154 - INFO - Ep2 Step7: HCNO: N=34.0%  H=6.4%  C=23.1%  O=36.5%
+2026-05-07 10:52:47,154 - INFO - Ep2 Step7: Reward=22.42
+2026-05-07 10:52:47,154 - INFO - Ep 2 Step 7: Action=4 (DecL5), Layers=[8.0, 4.5, 4.0, 6.5, 2.5, 7.0], Gap=3.0, Reward=22.42
+2026-05-07 10:57:34,663 - INFO - FLUKA OK: abl_dql_ep2_step8.inp (36.5s)
+2026-05-07 10:57:34,801 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep2_step8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:57:34,802 - INFO - Ep2 Step8: HCNO: N=38.0%  H=8.4%  C=21.6%  O=32.1%
+2026-05-07 10:57:34,841 - INFO - Ep2 Step8: Reward=24.88
+2026-05-07 10:57:34,841 - INFO - Ep 2 Step 8: Action=13 (IncGap), Layers=[8.0, 4.5, 4.0, 6.5, 2.5, 7.0], Gap=3.5, Reward=24.88
+2026-05-07 10:58:11,876 - INFO - FLUKA OK: abl_dql_ep2_step9.inp (36.9s)
+2026-05-07 10:58:11,982 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep2_step9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:58:11,983 - INFO - Ep2 Step9: HCNO: N=39.6%  H=4.3%  C=24.6%  O=31.4%
+2026-05-07 10:58:11,983 - INFO - Ep2 Step9: Reward=21.49
+2026-05-07 10:58:11,983 - INFO - Ep 2 Step 9: Action=2 (DecL3), Layers=[8.0, 4.5, 3.5, 6.5, 2.5, 7.0], Gap=3.5, Reward=21.49
+2026-05-07 10:58:50,472 - INFO - FLUKA OK: abl_dql_ep2_step10.inp (38.5s)
+2026-05-07 10:58:50,664 - WARNING - prefix 'abl_dql_ep2_step10' unit 24: expected 5 cycle files, found 10: ['abl_dql_ep2_step10001_fort.24', 'abl_dql_ep2_step10002_fort.24', 'abl_dql_ep2_step10003_fort.24', 'abl_dql_ep2_step10004_fort.24', 'abl_dql_ep2_step10005_fort.24', 'abl_dql_ep2_step1001_fort.24', 'abl_dql_ep2_step1002_fort.24', 'abl_dql_ep2_step1003_fort.24', 'abl_dql_ep2_step1004_fort.24', 'abl_dql_ep2_step1005_fort.24']
+2026-05-07 10:58:50,893 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep2_step10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 10:58:50,894 - INFO - Ep2 Step10: HCNO: N=39.5%  H=6.8%  C=23.3%  O=30.4%
+2026-05-07 10:58:50,894 - INFO - Ep2 Step10: Reward=22.18
+2026-05-07 10:58:50,894 - INFO - Ep 2 Step 10: Action=13 (IncGap), Layers=[8.0, 4.5, 3.5, 6.5, 2.5, 7.0], Gap=4.0, Reward=22.18
+2026-05-07 10:58:51,065 - INFO - Episode 2: Return=200.93, Best=36.61, Loss=0.0000
+2026-05-07 10:59:28,729 - INFO - FLUKA OK: abl_dql_ep3_step1.inp (37.5s)
+2026-05-07 10:59:28,895 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep3_step1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 10:59:28,896 - INFO - Ep3 Step1: HCNO: N=33.6%  H=10.3%  C=24.0%  O=32.0%
+2026-05-07 10:59:28,896 - INFO - Ep3 Step1: Reward=29.90
+2026-05-07 10:59:28,896 - INFO - Ep 3 Step 1: Action=4 (DecL5), Layers=[5.0, 4.5, 7.0, 2.5, 2.5, 6.5], Gap=3.5, Reward=29.90
+2026-05-07 11:00:05,413 - INFO - FLUKA OK: abl_dql_ep3_step2.inp (36.5s)
+2026-05-07 11:00:05,567 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep3_step2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:00:05,568 - INFO - Ep3 Step2: HCNO: N=36.9%  H=11.9%  C=24.1%  O=27.1%
+2026-05-07 11:00:05,568 - INFO - Ep3 Step2: Reward=22.12
+2026-05-07 11:00:05,568 - INFO - Ep 3 Step 2: Action=9 (IncL4), Layers=[5.0, 4.5, 7.0, 3.0, 2.5, 6.5], Gap=3.5, Reward=22.12
+2026-05-07 11:00:42,206 - INFO - FLUKA OK: abl_dql_ep3_step3.inp (36.6s)
+2026-05-07 11:00:42,333 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep3_step3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:00:42,334 - INFO - Ep3 Step3: HCNO: N=50.5%  H=8.4%  C=20.9%  O=20.2%
+2026-05-07 11:00:42,334 - INFO - Ep3 Step3: Reward=11.11
+2026-05-07 11:00:42,334 - INFO - Ep 3 Step 3: Action=8 (IncL3), Layers=[5.0, 4.5, 7.5, 3.0, 2.5, 6.5], Gap=3.5, Reward=11.11
+2026-05-07 11:01:19,437 - INFO - FLUKA OK: abl_dql_ep3_step4.inp (37.1s)
+2026-05-07 11:01:19,572 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep3_step4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:01:19,573 - INFO - Ep3 Step4: HCNO: N=38.9%  H=9.1%  C=23.1%  O=28.9%
+2026-05-07 11:01:19,573 - INFO - Ep3 Step4: Reward=22.96
+2026-05-07 11:01:19,574 - INFO - Ep 3 Step 4: Action=1 (DecL2), Layers=[5.0, 4.0, 7.5, 3.0, 2.5, 6.5], Gap=3.5, Reward=22.96
+2026-05-07 11:01:58,316 - INFO - FLUKA OK: abl_dql_ep3_step5.inp (38.7s)
+2026-05-07 11:01:58,366 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep3_step5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:01:58,367 - INFO - Ep3 Step5: HCNO: N=50.5%  H=8.4%  C=20.9%  O=20.2%
+2026-05-07 11:01:58,368 - INFO - Ep3 Step5: Reward=11.11
+2026-05-07 11:01:58,368 - INFO - Ep 3 Step 5: Action=7 (IncL2), Layers=[5.0, 4.5, 7.5, 3.0, 2.5, 6.5], Gap=3.5, Reward=11.11
+2026-05-07 11:02:42,937 - INFO - FLUKA OK: abl_dql_ep3_step6.inp (44.6s)
+2026-05-07 11:02:43,057 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep3_step6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:02:43,060 - INFO - Ep3 Step6: HCNO: N=48.8%  H=7.3%  C=18.5%  O=25.4%
+2026-05-07 11:02:43,060 - INFO - Ep3 Step6: Reward=15.92
+2026-05-07 11:02:43,060 - INFO - Ep 3 Step 6: Action=11 (IncL6), Layers=[5.0, 4.5, 7.5, 3.0, 2.5, 7.0], Gap=3.5, Reward=15.92
+2026-05-07 11:03:27,609 - INFO - FLUKA OK: abl_dql_ep3_step7.inp (44.5s)
+2026-05-07 11:03:27,707 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep3_step7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:03:27,710 - INFO - Ep3 Step7: HCNO: N=28.9%  H=10.5%  C=22.7%  O=37.9%
+2026-05-07 11:03:27,710 - INFO - Ep3 Step7: Reward=28.11
+2026-05-07 11:03:27,710 - INFO - Ep 3 Step 7: Action=7 (IncL2), Layers=[5.0, 5.0, 7.5, 3.0, 2.5, 7.0], Gap=3.5, Reward=28.11
+2026-05-07 11:04:07,677 - INFO - FLUKA OK: abl_dql_ep3_step8.inp (40.0s)
+2026-05-07 11:04:07,775 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep3_step8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:04:07,775 - INFO - Ep3 Step8: HCNO: N=28.2%  H=10.7%  C=25.0%  O=36.1%
+2026-05-07 11:04:07,775 - INFO - Ep3 Step8: Reward=28.49
+2026-05-07 11:04:07,775 - INFO - Ep 3 Step 8: Action=13 (IncGap), Layers=[5.0, 5.0, 7.5, 3.0, 2.5, 7.0], Gap=4.0, Reward=28.49
+2026-05-07 11:04:47,595 - INFO - FLUKA OK: abl_dql_ep3_step9.inp (39.8s)
+2026-05-07 11:04:47,650 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep3_step9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:04:47,653 - INFO - Ep3 Step9: HCNO: N=37.5%  H=14.6%  C=22.5%  O=25.5%
+2026-05-07 11:04:47,655 - INFO - Ep3 Step9: Reward=16.36
+2026-05-07 11:04:47,655 - INFO - Ep 3 Step 9: Action=3 (DecL4), Layers=[5.0, 5.0, 7.5, 2.5, 2.5, 7.0], Gap=4.0, Reward=16.36
+2026-05-07 11:05:32,162 - INFO - FLUKA OK: abl_dql_ep3_step10.inp (44.5s)
+2026-05-07 11:05:32,230 - WARNING - prefix 'abl_dql_ep3_step10' unit 24: expected 5 cycle files, found 10: ['abl_dql_ep3_step10001_fort.24', 'abl_dql_ep3_step10002_fort.24', 'abl_dql_ep3_step10003_fort.24', 'abl_dql_ep3_step10004_fort.24', 'abl_dql_ep3_step10005_fort.24', 'abl_dql_ep3_step1001_fort.24', 'abl_dql_ep3_step1002_fort.24', 'abl_dql_ep3_step1003_fort.24', 'abl_dql_ep3_step1004_fort.24', 'abl_dql_ep3_step1005_fort.24']
+2026-05-07 11:05:32,450 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep3_step10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 11:05:32,454 - INFO - Ep3 Step10: HCNO: N=34.0%  H=8.9%  C=25.3%  O=31.8%
+2026-05-07 11:05:32,454 - INFO - Ep3 Step10: Reward=29.13
+2026-05-07 11:05:32,454 - INFO - Ep 3 Step 10: Action=11 (IncL6), Layers=[5.0, 5.0, 7.5, 2.5, 2.5, 7.5], Gap=4.0, Reward=29.13
+2026-05-07 11:05:32,454 - INFO - Episode 3: Return=215.22, Best=36.61, Loss=0.0000
+2026-05-07 11:06:10,810 - INFO - FLUKA OK: abl_dql_ep4_step1.inp (38.4s)
+2026-05-07 11:06:11,048 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep4_step1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:06:11,049 - INFO - Ep4 Step1: HCNO: N=36.3%  H=10.4%  C=17.0%  O=36.3%
+2026-05-07 11:06:11,049 - INFO - Ep4 Step1: Reward=22.47
+2026-05-07 11:06:11,049 - INFO - Ep 4 Step 1: Action=5 (DecL6), Layers=[5.0, 4.5, 5.0, 2.5, 7.0, 2.0], Gap=8.5, Reward=22.47
+2026-05-07 11:06:55,946 - INFO - FLUKA OK: abl_dql_ep4_step2.inp (44.9s)
+2026-05-07 11:06:56,074 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep4_step2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:06:56,075 - INFO - Ep4 Step2: HCNO: N=20.0%  H=9.2%  C=32.4%  O=38.4%
+2026-05-07 11:06:56,075 - INFO - Ep4 Step2: Reward=15.75
+2026-05-07 11:06:56,075 - INFO - Ep 4 Step 2: Action=10 (IncL5), Layers=[5.0, 4.5, 5.0, 2.5, 7.5, 2.0], Gap=8.5, Reward=15.75
+2026-05-07 11:07:35,228 - INFO - FLUKA OK: abl_dql_ep4_step3.inp (39.2s)
+2026-05-07 11:07:35,415 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep4_step3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:07:35,416 - INFO - Ep4 Step3: HCNO: N=31.7%  H=9.4%  C=20.7%  O=38.2%
+2026-05-07 11:07:35,416 - INFO - Ep4 Step3: Reward=14.11
+2026-05-07 11:07:35,416 - INFO - Ep 4 Step 3: Action=10 (IncL5), Layers=[5.0, 4.5, 5.0, 2.5, 8.0, 2.0], Gap=8.5, Reward=14.11
+2026-05-07 11:08:13,767 - INFO - FLUKA OK: abl_dql_ep4_step4.inp (38.4s)
+2026-05-07 11:08:13,954 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep4_step4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:08:13,955 - INFO - Ep4 Step4: HCNO: N=31.8%  H=8.5%  C=30.3%  O=29.4%
+2026-05-07 11:08:13,955 - INFO - Ep4 Step4: Reward=24.29
+2026-05-07 11:08:13,955 - INFO - Ep 4 Step 4: Action=6 (IncL1), Layers=[5.5, 4.5, 5.0, 2.5, 8.0, 2.0], Gap=8.5, Reward=24.29
+2026-05-07 11:08:53,237 - INFO - FLUKA OK: abl_dql_ep4_step5.inp (39.3s)
+2026-05-07 11:08:53,368 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep4_step5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:08:53,368 - INFO - Ep4 Step5: HCNO: N=31.8%  H=8.5%  C=30.3%  O=29.4%
+2026-05-07 11:08:53,368 - INFO - Ep4 Step5: Reward=24.29
+2026-05-07 11:08:53,368 - INFO - Ep 4 Step 5: Action=10 (IncL5), Layers=[5.5, 4.5, 5.0, 2.5, 8.0, 2.0], Gap=8.5, Reward=24.29
+2026-05-07 11:09:32,116 - INFO - FLUKA OK: abl_dql_ep4_step6.inp (38.7s)
+2026-05-07 11:09:32,446 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep4_step6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:09:32,448 - INFO - Ep4 Step6: HCNO: N=46.7%  H=5.5%  C=23.0%  O=24.8%
+2026-05-07 11:09:32,448 - INFO - Ep4 Step6: Reward=7.00
+2026-05-07 11:09:32,449 - INFO - Ep 4 Step 6: Action=8 (IncL3), Layers=[5.5, 4.5, 5.5, 2.5, 8.0, 2.0], Gap=8.5, Reward=7.00
+2026-05-07 11:10:10,592 - INFO - FLUKA OK: abl_dql_ep4_step7.inp (38.1s)
+2026-05-07 11:10:10,849 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep4_step7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:10:10,850 - INFO - Ep4 Step7: HCNO: N=36.9%  H=12.3%  C=16.9%  O=34.0%
+2026-05-07 11:10:10,850 - INFO - Ep4 Step7: Reward=26.74
+2026-05-07 11:10:10,850 - INFO - Ep 4 Step 7: Action=7 (IncL2), Layers=[5.5, 5.0, 5.5, 2.5, 8.0, 2.0], Gap=8.5, Reward=26.74
+2026-05-07 11:10:47,359 - INFO - FLUKA OK: abl_dql_ep4_step8.inp (36.5s)
+2026-05-07 11:10:47,712 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep4_step8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:10:47,713 - INFO - Ep4 Step8: HCNO: N=32.3%  H=11.6%  C=18.0%  O=38.0%
+2026-05-07 11:10:47,713 - INFO - Ep4 Step8: Reward=22.07
+2026-05-07 11:10:47,713 - INFO - Ep 4 Step 8: Action=12 (DecGap), Layers=[5.5, 5.0, 5.5, 2.5, 8.0, 2.0], Gap=8.0, Reward=22.07
+2026-05-07 11:11:24,244 - INFO - FLUKA OK: abl_dql_ep4_step9.inp (36.5s)
+2026-05-07 11:11:24,345 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep4_step9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:11:24,346 - INFO - Ep4 Step9: HCNO: N=36.4%  H=10.3%  C=18.5%  O=34.8%
+2026-05-07 11:11:24,346 - INFO - Ep4 Step9: Reward=25.92
+2026-05-07 11:11:24,346 - INFO - Ep 4 Step 9: Action=3 (DecL4), Layers=[5.5, 5.0, 5.5, 2.0, 8.0, 2.0], Gap=8.0, Reward=25.92
+2026-05-07 11:12:05,918 - INFO - FLUKA OK: abl_dql_ep4_step10.inp (41.5s)
+2026-05-07 11:12:08,298 - WARNING - prefix 'abl_dql_ep4_step10' unit 24: expected 5 cycle files, found 10: ['abl_dql_ep4_step10001_fort.24', 'abl_dql_ep4_step10002_fort.24', 'abl_dql_ep4_step10003_fort.24', 'abl_dql_ep4_step10004_fort.24', 'abl_dql_ep4_step10005_fort.24', 'abl_dql_ep4_step1001_fort.24', 'abl_dql_ep4_step1002_fort.24', 'abl_dql_ep4_step1003_fort.24', 'abl_dql_ep4_step1004_fort.24', 'abl_dql_ep4_step1005_fort.24']
+2026-05-07 11:12:08,473 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep4_step10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 11:12:08,654 - INFO - Ep4 Step10: HCNO: N=37.0%  H=9.8%  C=23.4%  O=29.8%
+2026-05-07 11:12:08,654 - INFO - Ep4 Step10: Reward=29.35
+2026-05-07 11:12:08,654 - INFO - Ep 4 Step 10: Action=1 (DecL2), Layers=[5.5, 4.5, 5.5, 2.0, 8.0, 2.0], Gap=8.0, Reward=29.35
+2026-05-07 11:12:08,654 - INFO - Episode 4: Return=212.00, Best=36.61, Loss=0.0000
+2026-05-07 11:12:51,975 - INFO - FLUKA OK: abl_dql_ep5_step1.inp (42.9s)
+2026-05-07 11:12:52,370 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep5_step1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:12:52,372 - INFO - Ep5 Step1: HCNO: N=41.4%  H=12.9%  C=23.1%  O=22.5%
+2026-05-07 11:12:52,372 - INFO - Ep5 Step1: Reward=23.60
+2026-05-07 11:12:52,372 - INFO - Ep 5 Step 1: Action=10 (IncL5), Layers=[4.0, 7.0, 2.5, 2.5, 6.0, 3.0], Gap=1.0, Reward=23.60
+2026-05-07 11:14:08,856 - INFO - FLUKA OK: abl_dql_ep5_step2.inp (76.5s)
+2026-05-07 11:14:09,332 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep5_step2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:14:09,705 - INFO - Ep5 Step2: HCNO: N=45.2%  H=11.4%  C=17.7%  O=25.7%
+2026-05-07 11:14:09,705 - INFO - Ep5 Step2: Reward=21.54
+2026-05-07 11:14:09,705 - INFO - Ep 5 Step 2: Action=1 (DecL2), Layers=[4.0, 6.5, 2.5, 2.5, 6.0, 3.0], Gap=1.0, Reward=21.54
+2026-05-07 11:14:49,034 - INFO - FLUKA OK: abl_dql_ep5_step3.inp (39.3s)
+2026-05-07 11:14:50,781 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep5_step3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:14:50,781 - INFO - Ep5 Step3: HCNO: N=41.4%  H=12.9%  C=23.1%  O=22.5%
+2026-05-07 11:14:50,782 - INFO - Ep5 Step3: Reward=23.60
+2026-05-07 11:14:50,782 - INFO - Ep 5 Step 3: Action=7 (IncL2), Layers=[4.0, 7.0, 2.5, 2.5, 6.0, 3.0], Gap=1.0, Reward=23.60
+2026-05-07 11:15:31,776 - INFO - FLUKA OK: abl_dql_ep5_step4.inp (41.0s)
+2026-05-07 11:15:38,714 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep5_step4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:15:39,232 - INFO - Ep5 Step4: HCNO: N=37.7%  H=10.6%  C=21.7%  O=30.1%
+2026-05-07 11:15:39,232 - INFO - Ep5 Step4: Reward=24.86
+2026-05-07 11:15:39,232 - INFO - Ep 5 Step 4: Action=9 (IncL4), Layers=[4.0, 7.0, 2.5, 3.0, 6.0, 3.0], Gap=1.0, Reward=24.86
+2026-05-07 11:16:20,440 - INFO - FLUKA OK: abl_dql_ep5_step5.inp (41.2s)
+2026-05-07 11:16:22,401 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep5_step5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:16:22,402 - INFO - Ep5 Step5: HCNO: N=37.1%  H=14.5%  C=18.8%  O=29.7%
+2026-05-07 11:16:22,402 - INFO - Ep5 Step5: Reward=20.77
+2026-05-07 11:16:22,402 - INFO - Ep 5 Step 5: Action=11 (IncL6), Layers=[4.0, 7.0, 2.5, 3.0, 6.0, 3.5], Gap=1.0, Reward=20.77
+2026-05-07 11:17:15,470 - INFO - FLUKA OK: abl_dql_ep5_step6.inp (53.1s)
+2026-05-07 11:17:15,975 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep5_step6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:17:16,607 - INFO - Ep5 Step6: HCNO: N=33.2%  H=9.2%  C=27.1%  O=30.5%
+2026-05-07 11:17:16,607 - INFO - Ep5 Step6: Reward=26.43
+2026-05-07 11:17:16,607 - INFO - Ep 5 Step 6: Action=10 (IncL5), Layers=[4.0, 7.0, 2.5, 3.0, 6.5, 3.5], Gap=1.0, Reward=26.43
+2026-05-07 11:17:57,101 - INFO - FLUKA OK: abl_dql_ep5_step7.inp (40.5s)
+2026-05-07 11:17:59,492 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep5_step7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:17:59,493 - INFO - Ep5 Step7: HCNO: N=37.6%  H=12.6%  C=19.7%  O=30.0%
+2026-05-07 11:17:59,493 - INFO - Ep5 Step7: Reward=26.14
+2026-05-07 11:17:59,493 - INFO - Ep 5 Step 7: Action=2 (DecL3), Layers=[4.0, 7.0, 2.0, 3.0, 6.5, 3.5], Gap=1.0, Reward=26.14
+2026-05-07 11:18:40,454 - INFO - FLUKA OK: abl_dql_ep5_step8.inp (41.0s)
+2026-05-07 11:18:40,660 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep5_step8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:18:40,660 - INFO - Ep5 Step8: HCNO: N=37.6%  H=12.6%  C=19.7%  O=30.0%
+2026-05-07 11:18:40,660 - INFO - Ep5 Step8: Reward=26.14
+2026-05-07 11:18:40,660 - INFO - Ep 5 Step 8: Action=12 (DecGap), Layers=[4.0, 7.0, 2.0, 3.0, 6.5, 3.5], Gap=1.0, Reward=26.14
+2026-05-07 11:19:21,409 - INFO - FLUKA OK: abl_dql_ep5_step9.inp (40.7s)
+2026-05-07 11:19:21,536 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep5_step9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:19:21,615 - INFO - Ep5 Step9: HCNO: N=37.6%  H=12.6%  C=19.7%  O=30.0%
+2026-05-07 11:19:21,615 - INFO - Ep5 Step9: Reward=26.14
+2026-05-07 11:19:21,615 - INFO - Ep 5 Step 9: Action=12 (DecGap), Layers=[4.0, 7.0, 2.0, 3.0, 6.5, 3.5], Gap=1.0, Reward=26.14
+2026-05-07 11:20:37,753 - INFO - FLUKA OK: abl_dql_ep5_step10.inp (76.1s)
+2026-05-07 11:20:37,954 - WARNING - prefix 'abl_dql_ep5_step10' unit 24: expected 5 cycle files, found 10: ['abl_dql_ep5_step10001_fort.24', 'abl_dql_ep5_step10002_fort.24', 'abl_dql_ep5_step10003_fort.24', 'abl_dql_ep5_step10004_fort.24', 'abl_dql_ep5_step10005_fort.24', 'abl_dql_ep5_step1001_fort.24', 'abl_dql_ep5_step1002_fort.24', 'abl_dql_ep5_step1003_fort.24', 'abl_dql_ep5_step1004_fort.24', 'abl_dql_ep5_step1005_fort.24']
+2026-05-07 11:20:38,046 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep5_step10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 11:20:38,072 - INFO - Ep5 Step10: HCNO: N=35.7%  H=15.2%  C=23.2%  O=25.9%
+2026-05-07 11:20:38,072 - INFO - Ep5 Step10: Reward=30.31
+2026-05-07 11:20:38,072 - INFO - Ep 5 Step 10: Action=13 (IncGap), Layers=[4.0, 7.0, 2.0, 3.0, 6.5, 3.5], Gap=1.5, Reward=30.31
+2026-05-07 11:21:07,854 - INFO - Target network updated at episode 5
+2026-05-07 11:21:07,855 - INFO - Episode 5: Return=249.56, Best=36.61, Loss=0.0000
+2026-05-07 11:21:50,253 - INFO - FLUKA OK: abl_dql_ep6_step1.inp (42.3s)
+2026-05-07 11:21:50,352 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep6_step1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:21:50,353 - INFO - Ep6 Step1: HCNO: N=35.7%  H=10.7%  C=27.8%  O=25.9%
+2026-05-07 11:21:50,353 - INFO - Ep6 Step1: Reward=22.60
+2026-05-07 11:21:50,353 - INFO - Ep 6 Step 1: Action=2 (DecL3), Layers=[2.5, 3.0, 3.5, 7.5, 6.5, 6.5], Gap=5.5, Reward=22.60
+2026-05-07 11:22:36,400 - INFO - FLUKA OK: abl_dql_ep6_step2.inp (46.0s)
+2026-05-07 11:22:36,462 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep6_step2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:22:36,462 - INFO - Ep6 Step2: HCNO: N=37.4%  H=13.3%  C=23.8%  O=25.4%
+2026-05-07 11:22:36,462 - INFO - Ep6 Step2: Reward=22.67
+2026-05-07 11:22:36,462 - INFO - Ep 6 Step 2: Action=1 (DecL2), Layers=[2.5, 2.5, 3.5, 7.5, 6.5, 6.5], Gap=5.5, Reward=22.67
+2026-05-07 11:23:22,639 - INFO - FLUKA OK: abl_dql_ep6_step3.inp (46.2s)
+2026-05-07 11:23:22,815 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep6_step3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:23:22,815 - INFO - Ep6 Step3: HCNO: N=53.4%  H=10.3%  C=21.3%  O=15.0%
+2026-05-07 11:23:22,815 - INFO - Ep6 Step3: Reward=22.24
+2026-05-07 11:23:22,815 - INFO - Ep 6 Step 3: Action=10 (IncL5), Layers=[2.5, 2.5, 3.5, 7.5, 7.0, 6.5], Gap=5.5, Reward=22.24
+2026-05-07 11:24:07,785 - INFO - FLUKA OK: abl_dql_ep6_step4.inp (45.0s)
+2026-05-07 11:24:07,874 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep6_step4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:24:07,875 - INFO - Ep6 Step4: HCNO: N=37.5%  H=9.0%  C=26.7%  O=26.7%
+2026-05-07 11:24:07,875 - INFO - Ep6 Step4: Reward=18.77
+2026-05-07 11:24:07,875 - INFO - Ep 6 Step 4: Action=9 (IncL4), Layers=[2.5, 2.5, 3.5, 8.0, 7.0, 6.5], Gap=5.5, Reward=18.77
+2026-05-07 11:24:55,265 - INFO - FLUKA OK: abl_dql_ep6_step5.inp (47.4s)
+2026-05-07 11:24:55,400 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep6_step5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:24:55,400 - INFO - Ep6 Step5: HCNO: N=33.2%  H=12.0%  C=20.9%  O=33.9%
+2026-05-07 11:24:55,400 - INFO - Ep6 Step5: Reward=13.40
+2026-05-07 11:24:55,400 - INFO - Ep 6 Step 5: Action=1 (DecL2), Layers=[2.5, 2.0, 3.5, 8.0, 7.0, 6.5], Gap=5.5, Reward=13.40
+2026-05-07 11:25:44,196 - INFO - FLUKA OK: abl_dql_ep6_step6.inp (48.8s)
+2026-05-07 11:25:44,393 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep6_step6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:25:44,394 - INFO - Ep6 Step6: HCNO: N=33.2%  H=12.0%  C=20.9%  O=33.9%
+2026-05-07 11:25:44,394 - INFO - Ep6 Step6: Reward=13.40
+2026-05-07 11:25:44,394 - INFO - Ep 6 Step 6: Action=9 (IncL4), Layers=[2.5, 2.0, 3.5, 8.0, 7.0, 6.5], Gap=5.5, Reward=13.40
+2026-05-07 11:26:30,124 - INFO - FLUKA OK: abl_dql_ep6_step7.inp (45.7s)
+2026-05-07 11:26:30,130 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep6_step7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:26:30,131 - INFO - Ep6 Step7: HCNO: N=32.9%  H=8.3%  C=25.1%  O=33.6%
+2026-05-07 11:26:30,131 - INFO - Ep6 Step7: Reward=20.17
+2026-05-07 11:26:30,131 - INFO - Ep 6 Step 7: Action=11 (IncL6), Layers=[2.5, 2.0, 3.5, 8.0, 7.0, 7.0], Gap=5.5, Reward=20.17
+2026-05-07 11:27:16,781 - INFO - FLUKA OK: abl_dql_ep6_step8.inp (46.6s)
+2026-05-07 11:27:16,949 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep6_step8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:27:16,950 - INFO - Ep6 Step8: HCNO: N=33.2%  H=12.0%  C=20.9%  O=33.9%
+2026-05-07 11:27:16,950 - INFO - Ep6 Step8: Reward=13.40
+2026-05-07 11:27:16,950 - INFO - Ep 6 Step 8: Action=5 (DecL6), Layers=[2.5, 2.0, 3.5, 8.0, 7.0, 6.5], Gap=5.5, Reward=13.40
+2026-05-07 11:28:14,631 - INFO - FLUKA OK: abl_dql_ep6_step9.inp (57.7s)
+2026-05-07 11:28:14,711 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep6_step9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:28:14,713 - INFO - Ep6 Step9: HCNO: N=28.0%  H=12.2%  C=20.8%  O=38.9%
+2026-05-07 11:28:14,714 - INFO - Ep6 Step9: Reward=22.45
+2026-05-07 11:28:14,717 - INFO - Ep 6 Step 9: Action=10 (IncL5), Layers=[2.5, 2.0, 3.5, 8.0, 7.5, 6.5], Gap=5.5, Reward=22.45
+2026-05-07 11:29:12,731 - INFO - FLUKA OK: abl_dql_ep6_step10.inp (58.0s)
+2026-05-07 11:29:12,835 - WARNING - prefix 'abl_dql_ep6_step10' unit 24: expected 5 cycle files, found 10: ['abl_dql_ep6_step10001_fort.24', 'abl_dql_ep6_step10002_fort.24', 'abl_dql_ep6_step10003_fort.24', 'abl_dql_ep6_step10004_fort.24', 'abl_dql_ep6_step10005_fort.24', 'abl_dql_ep6_step1001_fort.24', 'abl_dql_ep6_step1002_fort.24', 'abl_dql_ep6_step1003_fort.24', 'abl_dql_ep6_step1004_fort.24', 'abl_dql_ep6_step1005_fort.24']
+2026-05-07 11:29:13,015 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep6_step10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 11:29:13,279 - INFO - Ep6 Step10: HCNO: N=36.6%  H=9.7%  C=27.1%  O=26.6%
+2026-05-07 11:29:13,279 - INFO - Ep6 Step10: Reward=26.92
+2026-05-07 11:29:13,279 - INFO - Ep 6 Step 10: Action=6 (IncL1), Layers=[3.0, 2.0, 3.5, 8.0, 7.5, 6.5], Gap=5.5, Reward=26.92
+2026-05-07 11:29:13,279 - INFO - Episode 6: Return=196.01, Best=36.61, Loss=0.0000
+2026-05-07 11:29:54,547 - INFO - FLUKA OK: abl_dql_ep7_step1.inp (41.3s)
+2026-05-07 11:29:55,318 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep7_step1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:29:55,319 - INFO - Ep7 Step1: HCNO: N=37.1%  H=11.4%  C=21.6%  O=29.9%
+2026-05-07 11:29:55,319 - INFO - Ep7 Step1: Reward=21.29
+2026-05-07 11:29:55,319 - INFO - Ep 7 Step 1: Action=7 (IncL2), Layers=[3.0, 4.0, 2.5, 6.0, 5.5, 4.0], Gap=7.0, Reward=21.29
+2026-05-07 11:30:35,118 - INFO - FLUKA OK: abl_dql_ep7_step2.inp (39.8s)
+2026-05-07 11:30:35,224 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep7_step2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:30:35,224 - INFO - Ep7 Step2: HCNO: N=40.8%  H=8.6%  C=21.2%  O=29.4%
+2026-05-07 11:30:35,224 - INFO - Ep7 Step2: Reward=21.09
+2026-05-07 11:30:35,224 - INFO - Ep 7 Step 2: Action=5 (DecL6), Layers=[3.0, 4.0, 2.5, 6.0, 5.5, 3.5], Gap=7.0, Reward=21.09
+2026-05-07 11:31:17,541 - INFO - FLUKA OK: abl_dql_ep7_step3.inp (42.3s)
+2026-05-07 11:31:18,050 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep7_step3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:31:18,051 - INFO - Ep7 Step3: HCNO: N=29.6%  H=20.1%  C=22.9%  O=27.3%
+2026-05-07 11:31:18,051 - INFO - Ep7 Step3: Reward=25.22
+2026-05-07 11:31:18,051 - INFO - Ep 7 Step 3: Action=7 (IncL2), Layers=[3.0, 4.5, 2.5, 6.0, 5.5, 3.5], Gap=7.0, Reward=25.22
+2026-05-07 11:31:59,233 - INFO - FLUKA OK: abl_dql_ep7_step4.inp (41.2s)
+2026-05-07 11:31:59,464 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep7_step4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 11:31:59,467 - INFO - Ep7 Step4: HCNO: N=41.5%  H=13.4%  C=23.3%  O=21.8%
+2026-05-07 11:31:59,467 - INFO - Ep7 Step4: Reward=22.68
+2026-05-07 11:31:59,467 - INFO - Ep 7 Step 4: Action=8 (IncL3), Layers=[3.0, 4.5, 3.0, 6.0, 5.5, 3.5], Gap=7.0, Reward=22.68
+2026-05-07 12:10:14,407 - INFO - FLUKA OK: abl_dql_ep7_step5.inp (259.7s)
+2026-05-07 12:10:15,985 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep7_step5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:10:17,982 - INFO - Ep7 Step5: HCNO: N=53.0%  H=8.9%  C=12.4%  O=25.7%
+2026-05-07 12:10:17,982 - INFO - Ep7 Step5: Reward=16.48
+2026-05-07 12:10:17,982 - INFO - Ep 7 Step 5: Action=1 (DecL2), Layers=[3.0, 4.0, 3.0, 6.0, 5.5, 3.5], Gap=7.0, Reward=16.48
+2026-05-07 12:11:45,360 - INFO - FLUKA OK: abl_dql_ep7_step6.inp (76.3s)
+2026-05-07 12:11:45,410 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep7_step6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:11:45,411 - INFO - Ep7 Step6: HCNO: N=38.6%  H=10.1%  C=17.0%  O=34.3%
+2026-05-07 12:11:45,411 - INFO - Ep7 Step6: Reward=19.90
+2026-05-07 12:11:45,411 - INFO - Ep 7 Step 6: Action=9 (IncL4), Layers=[3.0, 4.0, 3.0, 6.5, 5.5, 3.5], Gap=7.0, Reward=19.90
+2026-05-07 12:12:31,174 - INFO - FLUKA OK: abl_dql_ep7_step7.inp (38.3s)
+2026-05-07 12:12:31,180 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep7_step7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:12:31,181 - INFO - Ep7 Step7: HCNO: N=36.7%  H=6.7%  C=25.3%  O=31.3%
+2026-05-07 12:12:31,181 - INFO - Ep7 Step7: Reward=21.38
+2026-05-07 12:12:31,181 - INFO - Ep 7 Step 7: Action=6 (IncL1), Layers=[3.5, 4.0, 3.0, 6.5, 5.5, 3.5], Gap=7.0, Reward=21.38
+2026-05-07 12:13:20,598 - INFO - FLUKA OK: abl_dql_ep7_step8.inp (41.2s)
+2026-05-07 12:13:20,604 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep7_step8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:13:20,605 - INFO - Ep7 Step8: HCNO: N=43.1%  H=7.8%  C=25.4%  O=23.8%
+2026-05-07 12:13:20,605 - INFO - Ep7 Step8: Reward=22.01
+2026-05-07 12:13:20,605 - INFO - Ep 7 Step 8: Action=10 (IncL5), Layers=[3.5, 4.0, 3.0, 6.5, 6.0, 3.5], Gap=7.0, Reward=22.01
+2026-05-07 12:14:08,998 - INFO - FLUKA OK: abl_dql_ep7_step9.inp (39.9s)
+2026-05-07 12:14:09,003 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep7_step9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:14:09,004 - INFO - Ep7 Step9: HCNO: N=38.2%  H=7.4%  C=21.3%  O=33.1%
+2026-05-07 12:14:09,004 - INFO - Ep7 Step9: Reward=15.43
+2026-05-07 12:14:09,004 - INFO - Ep 7 Step 9: Action=9 (IncL4), Layers=[3.5, 4.0, 3.0, 7.0, 6.0, 3.5], Gap=7.0, Reward=15.43
+2026-05-07 12:14:59,352 - INFO - FLUKA OK: abl_dql_ep7_step10.inp (40.7s)
+2026-05-07 12:14:59,355 - WARNING - prefix 'abl_dql_ep7_step10' unit 24: expected 5 cycle files, found 10: ['abl_dql_ep7_step10001_fort.24', 'abl_dql_ep7_step10002_fort.24', 'abl_dql_ep7_step10003_fort.24', 'abl_dql_ep7_step10004_fort.24', 'abl_dql_ep7_step10005_fort.24', 'abl_dql_ep7_step1001_fort.24', 'abl_dql_ep7_step1002_fort.24', 'abl_dql_ep7_step1003_fort.24', 'abl_dql_ep7_step1004_fort.24', 'abl_dql_ep7_step1005_fort.24']
+2026-05-07 12:14:59,523 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep7_step10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 12:14:59,525 - INFO - Ep7 Step10: HCNO: N=33.1%  H=11.4%  C=23.0%  O=32.5%
+2026-05-07 12:14:59,525 - INFO - Ep7 Step10: Reward=29.98
+2026-05-07 12:14:59,525 - INFO - Ep 7 Step 10: Action=2 (DecL3), Layers=[3.5, 4.0, 2.5, 7.0, 6.0, 3.5], Gap=7.0, Reward=29.98
+2026-05-07 12:15:09,780 - INFO - Episode 7: Return=215.47, Best=36.61, Loss=297.2271
+2026-05-07 12:15:48,894 - INFO - FLUKA OK: abl_dql_ep8_step1.inp (39.1s)
+2026-05-07 12:15:48,902 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep8_step1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:15:48,903 - INFO - Ep8 Step1: HCNO: N=42.5%  H=14.0%  C=20.4%  O=23.1%
+2026-05-07 12:15:48,903 - INFO - Ep8 Step1: Reward=22.31
+2026-05-07 12:15:48,903 - INFO - Ep 8 Step 1: Action=12 (DecGap), Layers=[7.0, 4.0, 2.5, 2.0, 7.5, 7.5], Gap=3.0, Reward=22.31
+2026-05-07 12:16:38,332 - INFO - FLUKA OK: abl_dql_ep8_step2.inp (39.8s)
+2026-05-07 12:16:38,337 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep8_step2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:16:38,338 - INFO - Ep8 Step2: HCNO: N=46.4%  H=9.1%  C=22.7%  O=21.9%
+2026-05-07 12:16:38,338 - INFO - Ep8 Step2: Reward=19.32
+2026-05-07 12:16:38,339 - INFO - Ep 8 Step 2: Action=11 (IncL6), Layers=[7.0, 4.0, 2.5, 2.0, 7.5, 8.0], Gap=3.0, Reward=19.32
+2026-05-07 12:17:25,628 - INFO - FLUKA OK: abl_dql_ep8_step3.inp (38.7s)
+2026-05-07 12:17:25,634 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep8_step3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:17:25,635 - INFO - Ep8 Step3: HCNO: N=47.5%  H=8.1%  C=24.0%  O=20.5%
+2026-05-07 12:17:25,635 - INFO - Ep8 Step3: Reward=21.58
+2026-05-07 12:17:25,635 - INFO - Ep 8 Step 3: Action=4 (DecL5), Layers=[7.0, 4.0, 2.5, 2.0, 7.0, 8.0], Gap=3.0, Reward=21.58
+2026-05-07 12:18:13,372 - INFO - FLUKA OK: abl_dql_ep8_step4.inp (39.1s)
+2026-05-07 12:18:13,379 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep8_step4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:18:13,379 - INFO - Ep8 Step4: HCNO: N=47.3%  H=11.5%  C=21.4%  O=19.8%
+2026-05-07 12:18:13,380 - INFO - Ep8 Step4: Reward=21.58
+2026-05-07 12:18:13,380 - INFO - Ep 8 Step 4: Action=12 (DecGap), Layers=[7.0, 4.0, 2.5, 2.0, 7.0, 8.0], Gap=2.5, Reward=21.58
+2026-05-07 12:19:00,993 - INFO - FLUKA OK: abl_dql_ep8_step5.inp (39.0s)
+2026-05-07 12:19:00,998 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep8_step5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:19:00,999 - INFO - Ep8 Step5: HCNO: N=34.6%  H=16.0%  C=26.5%  O=22.9%
+2026-05-07 12:19:00,999 - INFO - Ep8 Step5: Reward=19.68
+2026-05-07 12:19:00,999 - INFO - Ep 8 Step 5: Action=2 (DecL3), Layers=[7.0, 4.0, 2.0, 2.0, 7.0, 8.0], Gap=2.5, Reward=19.68
+2026-05-07 12:19:48,943 - INFO - FLUKA OK: abl_dql_ep8_step6.inp (38.1s)
+2026-05-07 12:19:48,950 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep8_step6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:19:48,951 - INFO - Ep8 Step6: HCNO: N=39.7%  H=7.8%  C=24.7%  O=27.8%
+2026-05-07 12:19:48,951 - INFO - Ep8 Step6: Reward=16.27
+2026-05-07 12:19:48,951 - INFO - Ep 8 Step 6: Action=7 (IncL2), Layers=[7.0, 4.5, 2.0, 2.0, 7.0, 8.0], Gap=2.5, Reward=16.27
+2026-05-07 12:20:36,996 - INFO - FLUKA OK: abl_dql_ep8_step7.inp (39.2s)
+2026-05-07 12:20:37,003 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep8_step7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:20:37,003 - INFO - Ep8 Step7: HCNO: N=39.7%  H=7.8%  C=24.7%  O=27.8%
+2026-05-07 12:20:37,004 - INFO - Ep8 Step7: Reward=16.27
+2026-05-07 12:20:37,004 - INFO - Ep 8 Step 7: Action=3 (DecL4), Layers=[7.0, 4.5, 2.0, 2.0, 7.0, 8.0], Gap=2.5, Reward=16.27
+2026-05-07 12:21:25,123 - INFO - FLUKA OK: abl_dql_ep8_step8.inp (38.2s)
+2026-05-07 12:21:25,130 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep8_step8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:21:25,131 - INFO - Ep8 Step8: HCNO: N=36.4%  H=8.1%  C=22.3%  O=33.2%
+2026-05-07 12:21:25,131 - INFO - Ep8 Step8: Reward=22.57
+2026-05-07 12:21:25,131 - INFO - Ep 8 Step 8: Action=7 (IncL2), Layers=[7.0, 5.0, 2.0, 2.0, 7.0, 8.0], Gap=2.5, Reward=22.57
+2026-05-07 12:22:11,728 - INFO - FLUKA OK: abl_dql_ep8_step9.inp (38.0s)
+2026-05-07 12:22:11,733 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep8_step9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:22:11,735 - INFO - Ep8 Step9: HCNO: N=43.5%  H=7.6%  C=17.5%  O=31.4%
+2026-05-07 12:22:11,735 - INFO - Ep8 Step9: Reward=24.04
+2026-05-07 12:22:11,735 - INFO - Ep 8 Step 9: Action=7 (IncL2), Layers=[7.0, 5.5, 2.0, 2.0, 7.0, 8.0], Gap=2.5, Reward=24.04
+2026-05-07 12:22:58,681 - INFO - FLUKA OK: abl_dql_ep8_step10.inp (38.2s)
+2026-05-07 12:22:58,686 - WARNING - prefix 'abl_dql_ep8_step10' unit 24: expected 5 cycle files, found 10: ['abl_dql_ep8_step10001_fort.24', 'abl_dql_ep8_step10002_fort.24', 'abl_dql_ep8_step10003_fort.24', 'abl_dql_ep8_step10004_fort.24', 'abl_dql_ep8_step10005_fort.24', 'abl_dql_ep8_step1001_fort.24', 'abl_dql_ep8_step1002_fort.24', 'abl_dql_ep8_step1003_fort.24', 'abl_dql_ep8_step1004_fort.24', 'abl_dql_ep8_step1005_fort.24']
+2026-05-07 12:22:58,689 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep8_step10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 12:22:58,689 - INFO - Ep8 Step10: HCNO: N=37.5%  H=10.5%  C=22.8%  O=29.2%
+2026-05-07 12:22:58,690 - INFO - Ep8 Step10: Reward=26.41
+2026-05-07 12:22:58,690 - INFO - Ep 8 Step 10: Action=5 (DecL6), Layers=[7.0, 5.5, 2.0, 2.0, 7.0, 7.5], Gap=2.5, Reward=26.41
+2026-05-07 12:23:08,046 - INFO - Episode 8: Return=210.03, Best=36.61, Loss=300.8227
+2026-05-07 12:23:46,634 - INFO - FLUKA OK: abl_dql_ep9_step1.inp (38.6s)
+2026-05-07 12:23:46,641 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep9_step1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:23:46,642 - INFO - Ep9 Step1: HCNO: N=42.5%  H=7.7%  C=27.1%  O=22.6%
+2026-05-07 12:23:46,642 - INFO - Ep9 Step1: Reward=11.71
+2026-05-07 12:23:46,642 - INFO - Ep 9 Step 1: Action=3 (DecL4), Layers=[6.0, 2.5, 6.0, 5.5, 2.5, 7.0], Gap=4.0, Reward=11.71
+2026-05-07 12:24:34,475 - INFO - FLUKA OK: abl_dql_ep9_step2.inp (38.5s)
+2026-05-07 12:24:34,481 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep9_step2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:24:34,482 - INFO - Ep9 Step2: HCNO: N=39.5%  H=9.8%  C=20.2%  O=30.5%
+2026-05-07 12:24:34,482 - INFO - Ep9 Step2: Reward=33.06
+2026-05-07 12:24:34,482 - INFO - Ep 9 Step 2: Action=4 (DecL5), Layers=[6.0, 2.5, 6.0, 5.5, 2.0, 7.0], Gap=4.0, Reward=33.06
+2026-05-07 12:25:22,480 - INFO - FLUKA OK: abl_dql_ep9_step3.inp (39.3s)
+2026-05-07 12:25:22,485 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep9_step3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:25:22,486 - INFO - Ep9 Step3: HCNO: N=39.6%  H=13.4%  C=11.6%  O=35.4%
+2026-05-07 12:25:22,486 - INFO - Ep9 Step3: Reward=23.29
+2026-05-07 12:25:22,486 - INFO - Ep 9 Step 3: Action=2 (DecL3), Layers=[6.0, 2.5, 5.5, 5.5, 2.0, 7.0], Gap=4.0, Reward=23.29
+2026-05-07 12:26:10,114 - INFO - FLUKA OK: abl_dql_ep9_step4.inp (38.8s)
+2026-05-07 12:26:10,122 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep9_step4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:26:10,123 - INFO - Ep9 Step4: HCNO: N=35.4%  H=8.7%  C=22.7%  O=33.3%
+2026-05-07 12:26:10,123 - INFO - Ep9 Step4: Reward=19.91
+2026-05-07 12:26:10,123 - INFO - Ep 9 Step 4: Action=11 (IncL6), Layers=[6.0, 2.5, 5.5, 5.5, 2.0, 7.5], Gap=4.0, Reward=19.91
+2026-05-07 12:26:57,868 - INFO - FLUKA OK: abl_dql_ep9_step5.inp (39.3s)
+2026-05-07 12:26:57,874 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep9_step5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:26:57,875 - INFO - Ep9 Step5: HCNO: N=40.0%  H=10.6%  C=20.3%  O=29.2%
+2026-05-07 12:26:57,875 - INFO - Ep9 Step5: Reward=18.93
+2026-05-07 12:26:57,875 - INFO - Ep 9 Step 5: Action=2 (DecL3), Layers=[6.0, 2.5, 5.0, 5.5, 2.0, 7.5], Gap=4.0, Reward=18.93
+2026-05-07 12:27:45,870 - INFO - FLUKA OK: abl_dql_ep9_step6.inp (39.7s)
+2026-05-07 12:27:45,876 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep9_step6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:27:45,877 - INFO - Ep9 Step6: HCNO: N=39.2%  H=13.3%  C=18.4%  O=29.1%
+2026-05-07 12:27:45,877 - INFO - Ep9 Step6: Reward=23.68
+2026-05-07 12:27:45,877 - INFO - Ep 9 Step 6: Action=12 (DecGap), Layers=[6.0, 2.5, 5.0, 5.5, 2.0, 7.5], Gap=3.5, Reward=23.68
+2026-05-07 12:28:35,531 - INFO - FLUKA OK: abl_dql_ep9_step7.inp (39.7s)
+2026-05-07 12:28:35,540 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep9_step7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:28:35,541 - INFO - Ep9 Step7: HCNO: N=39.2%  H=13.3%  C=18.4%  O=29.1%
+2026-05-07 12:28:35,541 - INFO - Ep9 Step7: Reward=23.68
+2026-05-07 12:28:35,541 - INFO - Ep 9 Step 7: Action=4 (DecL5), Layers=[6.0, 2.5, 5.0, 5.5, 2.0, 7.5], Gap=3.5, Reward=23.68
+2026-05-07 12:29:24,096 - INFO - FLUKA OK: abl_dql_ep9_step8.inp (40.0s)
+2026-05-07 12:29:24,103 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep9_step8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:29:24,104 - INFO - Ep9 Step8: HCNO: N=38.5%  H=8.5%  C=23.4%  O=29.5%
+2026-05-07 12:29:24,104 - INFO - Ep9 Step8: Reward=28.63
+2026-05-07 12:29:24,104 - INFO - Ep 9 Step 8: Action=10 (IncL5), Layers=[6.0, 2.5, 5.0, 5.5, 2.5, 7.5], Gap=3.5, Reward=28.63
+2026-05-07 12:30:11,269 - INFO - FLUKA OK: abl_dql_ep9_step9.inp (38.6s)
+2026-05-07 12:30:11,273 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep9_step9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:30:11,274 - INFO - Ep9 Step9: HCNO: N=39.2%  H=13.3%  C=18.4%  O=29.1%
+2026-05-07 12:30:11,274 - INFO - Ep9 Step9: Reward=23.68
+2026-05-07 12:30:11,274 - INFO - Ep 9 Step 9: Action=4 (DecL5), Layers=[6.0, 2.5, 5.0, 5.5, 2.0, 7.5], Gap=3.5, Reward=23.68
+2026-05-07 12:30:54,733 - INFO - FLUKA OK: abl_dql_ep9_step10.inp (35.8s)
+2026-05-07 12:30:54,735 - WARNING - prefix 'abl_dql_ep9_step10' unit 24: expected 5 cycle files, found 10: ['abl_dql_ep9_step10001_fort.24', 'abl_dql_ep9_step10002_fort.24', 'abl_dql_ep9_step10003_fort.24', 'abl_dql_ep9_step10004_fort.24', 'abl_dql_ep9_step10005_fort.24', 'abl_dql_ep9_step1001_fort.24', 'abl_dql_ep9_step1002_fort.24', 'abl_dql_ep9_step1003_fort.24', 'abl_dql_ep9_step1004_fort.24', 'abl_dql_ep9_step1005_fort.24']
+2026-05-07 12:30:54,737 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep9_step10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 12:30:54,738 - INFO - Ep9 Step10: HCNO: N=38.2%  H=8.5%  C=22.9%  O=30.4%
+2026-05-07 12:30:54,738 - INFO - Ep9 Step10: Reward=26.16
+2026-05-07 12:30:54,738 - INFO - Ep 9 Step 10: Action=7 (IncL2), Layers=[6.0, 3.0, 5.0, 5.5, 2.0, 7.5], Gap=3.5, Reward=26.16
+2026-05-07 12:31:02,548 - INFO - Episode 9: Return=232.72, Best=36.61, Loss=187.9539
+2026-05-07 12:31:37,144 - INFO - FLUKA OK: abl_dql_ep10_step1.inp (34.5s)
+2026-05-07 12:31:37,149 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep10_step1_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:31:37,149 - INFO - Ep10 Step1: HCNO: N=29.6%  H=9.4%  C=27.6%  O=33.4%
+2026-05-07 12:31:37,149 - INFO - Ep10 Step1: Reward=15.50
+2026-05-07 12:31:37,149 - INFO - Ep 10 Step 1: Action=4 (DecL5), Layers=[8.0, 5.5, 6.5, 6.5, 4.5, 2.0], Gap=5.0, Reward=15.50
+2026-05-07 12:32:19,679 - INFO - FLUKA OK: abl_dql_ep10_step2.inp (34.6s)
+2026-05-07 12:32:19,685 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep10_step2_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:32:19,685 - INFO - Ep10 Step2: HCNO: N=27.3%  H=5.5%  C=29.3%  O=37.9%
+2026-05-07 12:32:19,685 - INFO - Ep10 Step2: Reward=12.53
+2026-05-07 12:32:19,685 - INFO - Ep 10 Step 2: Action=8 (IncL3), Layers=[8.0, 5.5, 7.0, 6.5, 4.5, 2.0], Gap=5.0, Reward=12.53
+2026-05-07 12:33:02,243 - INFO - FLUKA OK: abl_dql_ep10_step3.inp (34.7s)
+2026-05-07 12:33:02,249 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep10_step3_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:33:02,249 - INFO - Ep10 Step3: HCNO: N=29.6%  H=9.4%  C=27.6%  O=33.4%
+2026-05-07 12:33:02,250 - INFO - Ep10 Step3: Reward=15.50
+2026-05-07 12:33:02,250 - INFO - Ep 10 Step 3: Action=2 (DecL3), Layers=[8.0, 5.5, 6.5, 6.5, 4.5, 2.0], Gap=5.0, Reward=15.50
+2026-05-07 12:33:44,690 - INFO - FLUKA OK: abl_dql_ep10_step4.inp (34.6s)
+2026-05-07 12:33:44,701 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep10_step4_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:33:44,702 - INFO - Ep10 Step4: HCNO: N=28.1%  H=14.1%  C=22.4%  O=35.3%
+2026-05-07 12:33:44,702 - INFO - Ep10 Step4: Reward=18.43
+2026-05-07 12:33:44,702 - INFO - Ep 10 Step 4: Action=1 (DecL2), Layers=[8.0, 5.0, 6.5, 6.5, 4.5, 2.0], Gap=5.0, Reward=18.43
+2026-05-07 12:34:27,575 - INFO - FLUKA OK: abl_dql_ep10_step5.inp (34.7s)
+2026-05-07 12:34:27,583 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep10_step5_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:34:27,583 - INFO - Ep10 Step5: HCNO: N=37.8%  H=9.4%  C=24.7%  O=28.1%
+2026-05-07 12:34:27,583 - INFO - Ep10 Step5: Reward=12.84
+2026-05-07 12:34:27,584 - INFO - Ep 10 Step 5: Action=3 (DecL4), Layers=[8.0, 5.0, 6.5, 6.0, 4.5, 2.0], Gap=5.0, Reward=12.84
+2026-05-07 12:35:10,102 - INFO - FLUKA OK: abl_dql_ep10_step6.inp (34.3s)
+2026-05-07 12:35:10,108 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep10_step6_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:35:10,109 - INFO - Ep10 Step6: HCNO: N=35.9%  H=9.8%  C=29.2%  O=25.1%
+2026-05-07 12:35:10,109 - INFO - Ep10 Step6: Reward=15.33
+2026-05-07 12:35:10,109 - INFO - Ep 10 Step 6: Action=12 (DecGap), Layers=[8.0, 5.0, 6.5, 6.0, 4.5, 2.0], Gap=4.5, Reward=15.33
+2026-05-07 12:35:52,738 - INFO - FLUKA OK: abl_dql_ep10_step7.inp (34.5s)
+2026-05-07 12:35:52,743 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep10_step7_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:35:52,744 - INFO - Ep10 Step7: HCNO: N=37.8%  H=9.4%  C=24.7%  O=28.1%
+2026-05-07 12:35:52,744 - INFO - Ep10 Step7: Reward=12.84
+2026-05-07 12:35:52,744 - INFO - Ep 10 Step 7: Action=13 (IncGap), Layers=[8.0, 5.0, 6.5, 6.0, 4.5, 2.0], Gap=5.0, Reward=12.84
+2026-05-07 12:36:34,266 - INFO - FLUKA OK: abl_dql_ep10_step8.inp (33.8s)
+2026-05-07 12:36:34,270 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep10_step8_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:36:34,271 - INFO - Ep10 Step8: HCNO: N=37.8%  H=9.4%  C=24.7%  O=28.1%
+2026-05-07 12:36:34,271 - INFO - Ep10 Step8: Reward=12.84
+2026-05-07 12:36:34,271 - INFO - Ep 10 Step 8: Action=6 (IncL1), Layers=[8.0, 5.0, 6.5, 6.0, 4.5, 2.0], Gap=5.0, Reward=12.84
+2026-05-07 12:37:15,202 - INFO - FLUKA OK: abl_dql_ep10_step9.inp (33.3s)
+2026-05-07 12:37:15,208 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep10_step9_out_tab.lis (5 cycles, unit 24)
+2026-05-07 12:37:15,209 - INFO - Ep10 Step9: HCNO: N=44.2%  H=4.3%  C=22.0%  O=29.5%
+2026-05-07 12:37:15,209 - INFO - Ep10 Step9: Reward=15.97
+2026-05-07 12:37:15,209 - INFO - Ep 10 Step 9: Action=0 (DecL1), Layers=[7.5, 5.0, 6.5, 6.0, 4.5, 2.0], Gap=5.0, Reward=15.97
+2026-05-07 12:37:56,124 - INFO - FLUKA OK: abl_dql_ep10_step10.inp (33.4s)
+2026-05-07 12:37:56,127 - WARNING - prefix 'abl_dql_ep10_step10' unit 24: expected 5 cycle files, found 10: ['abl_dql_ep10_step10001_fort.24', 'abl_dql_ep10_step10002_fort.24', 'abl_dql_ep10_step10003_fort.24', 'abl_dql_ep10_step10004_fort.24', 'abl_dql_ep10_step10005_fort.24', 'abl_dql_ep10_step1001_fort.24', 'abl_dql_ep10_step1002_fort.24', 'abl_dql_ep10_step1003_fort.24', 'abl_dql_ep10_step1004_fort.24', 'abl_dql_ep10_step1005_fort.24']
+2026-05-07 12:37:56,129 - INFO - ustsuw OK â†?/home/marina/caseI/20run_caseI/run2/abl_dql_ep10_step10_out_tab.lis (10 cycles, unit 24)
+2026-05-07 12:37:56,130 - INFO - Ep10 Step10: HCNO: N=37.8%  H=6.8%  C=25.1%  O=30.3%
+2026-05-07 12:37:56,130 - INFO - Ep10 Step10: Reward=24.25
+2026-05-07 12:37:56,130 - INFO - Ep 10 Step 10: Action=13 (IncGap), Layers=[7.5, 5.0, 6.5, 6.0, 4.5, 2.0], Gap=5.5, Reward=24.25
+2026-05-07 12:38:03,999 - INFO - Target network updated at episode 10
+2026-05-07 12:38:04,000 - INFO - Episode 10: Return=156.04, Best=36.61, Loss=141.3819
+
+
